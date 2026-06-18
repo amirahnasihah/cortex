@@ -541,3 +541,10 @@ docs/frameworks/astro/*.md
 .temp/
 .cache/
 .logs/
+
+# Playwright
+playwright-report/
+.playwright-mcp/
+test-results/
+blob-report/
+playwright/.cache/
