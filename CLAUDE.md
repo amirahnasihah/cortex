@@ -1,6 +1,6 @@
-# dotclaude — portable AI harness
+# cortex — portable AI harness
 
-Personal workflow harness: conventions, templates, AI tool config, and skills manifest for frontend work (expanding to backend, cloud, IoT).
+Personal workflow harness: conventions, templates, AI tool config, and custom skills for AI-powered development.
 
 ## .claude
 
@@ -24,18 +24,9 @@ Personal workflow harness: conventions, templates, AI tool config, and skills ma
 
 ## Skills
 
-Skills are **not bundled** in this repo — install on demand via `skills.sh`.
+**Custom skills** (committed in repo):
+- **design-styles** — Tailwind v4 oklch token theme + shadcn, stack-agnostic
+- **code-rules** — TypeScript/engineering conventions + AGENTS.md scaffold
 
-```bash
-bash skills.sh          # install all
-bash skills.sh design   # design & frontend only
-bash skills.sh dev      # dev tools only
-bash skills.sh util     # utilities only
-```
-
-Available skill categories:
-- **design**: impeccable, taste-skill, frontend-design, web-design-guidelines
-- **dev**: remotion-best-practices, remotion-render
-- **util**: find-skills, skill-creator
-
-If a skill is missing when invoked, run `bash skills.sh <category>` to install it.
+**Third-party skills** (not bundled, install via `bash install-skills.sh`):
+- impeccable, taste-skill

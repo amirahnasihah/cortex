@@ -2,19 +2,19 @@
 
 Portable AI harness — conventions, skills, and templates for AI-powered development.
 
-Clone anywhere, run `skills.sh`, start working.
-
 ## What's inside
 
 ```
 cortex/
-├── CLAUDE.md          # Harness brain — Claude Code reads this
-├── skills.sh          # One-command skill installer
-├── docs/              # Conventions, specs, rules
-├── rules/             # Cursor / AI rules
-├── templates/         # Project starters (Nuxt 4)
-├── .claude/           # Claude Code shared settings
-└── .cursor/rules/     # Cursor project rules
+├── CLAUDE.md              # Harness brain — Claude Code reads this
+├── install-skills.sh      # Installs third-party skills
+├── .claude/skills/        # Custom skills (committed)
+│   ├── design-styles/     # Tailwind v4 oklch theme + shadcn
+│   └── code-rules/        # TypeScript/engineering conventions
+├── docs/                  # Conventions, specs, rules
+├── rules/                 # Cursor / AI rules
+├── templates/             # Project starters (Nuxt 4)
+└── .claude/settings.json  # Claude Code shared settings
 ```
 
 ## Quick start
@@ -22,22 +22,10 @@ cortex/
 ```bash
 git clone git@github.com:amirahnasihah/cortex.git
 cd cortex
-bash skills.sh          # install all skills
-# or
-bash skills.sh design   # design & frontend only
-bash skills.sh dev      # dev tools only
-bash skills.sh util     # utilities only
+bash install-skills.sh    # installs third-party skills (impeccable, taste-skill)
 ```
 
-## Skills manifest
-
-Skills are **not bundled** — `skills.sh` installs them fresh on demand.
-
-| Category | Skills |
-|----------|--------|
-| Design | impeccable, taste-skill, frontend-design, web-design-guidelines |
-| Dev | remotion-best-practices, remotion-render |
-| Util | find-skills, skill-creator |
+Custom skills (`design-styles`, `code-rules`) are already in the repo — no install needed.
 
 ## Templates
 
