@@ -82,6 +82,7 @@ $RECYCLE.BIN/
 *.launch
 .history/
 .cursor/
+!.cursor/rules/
 *.vsix
 
 # -----------------------------------------------------------------------------
@@ -499,6 +500,21 @@ generated/
 *.xz
 *.dmg
 *.iso
+
+# -----------------------------------------------------------------------------
+# Cortex — AI harness specific
+# -----------------------------------------------------------------------------
+# Skills — installed on demand via skills.sh, not bundled
+.agents/skills/
+.claude/skills/
+.github/skills/
+
+# Claude Code local-only
+.claude/settings.local.json
+.remember/
+
+# Keep .claude/settings.json (shared)
+!.claude/settings.json
 
 # Keep empty dirs
 !.gitkeep
