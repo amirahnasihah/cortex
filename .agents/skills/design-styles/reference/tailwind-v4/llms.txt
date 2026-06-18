@@ -1,0 +1,1612 @@
+# Tailwind CSS v4.3 - LLM Reference
+
+Scraped: 2026-06-18
+Source: https://tailwindcss.com/docs
+
+---
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+  - [Editor Setup](#editor-setup)
+  - [Compatibility](#compatibility)
+  - [Upgrade Guide](#upgrade-guide)
+- [Core Concepts](#core-concepts)
+  - [Styling With Utility Classes](#styling-with-utility-classes)
+  - [Hover Focus And Other States](#hover-focus-and-other-states)
+  - [Responsive Design](#responsive-design)
+  - [Dark Mode](#dark-mode)
+  - [Theme](#theme)
+  - [Colors](#colors)
+  - [Adding Custom Styles](#adding-custom-styles)
+  - [Detecting Classes In Source Files](#detecting-classes-in-source-files)
+  - [Functions And Directives](#functions-and-directives)
+- [Base Styles](#base-styles)
+  - [Preflight](#preflight)
+- [Layout](#layout)
+  - [Aspect Ratio](#aspect-ratio)
+  - [Columns](#columns)
+  - [Break After](#break-after)
+  - [Break Before](#break-before)
+  - [Break Inside](#break-inside)
+  - [Box Decoration Break](#box-decoration-break)
+  - [Box Sizing](#box-sizing)
+  - [Display](#display)
+  - [Float](#float)
+  - [Clear](#clear)
+  - [Isolation](#isolation)
+  - [Object Fit](#object-fit)
+  - [Object Position](#object-position)
+  - [Overflow](#overflow)
+  - [Overscroll Behavior](#overscroll-behavior)
+  - [Position](#position)
+  - [Top Right Bottom Left](#top-right-bottom-left)
+  - [Visibility](#visibility)
+  - [Z Index](#z-index)
+- [Flexbox & Grid](#flexbox--grid)
+  - [Flex Basis](#flex-basis)
+  - [Flex Direction](#flex-direction)
+  - [Flex Wrap](#flex-wrap)
+  - [Flex](#flex)
+  - [Flex Grow](#flex-grow)
+  - [Flex Shrink](#flex-shrink)
+  - [Order](#order)
+  - [Grid Template Columns](#grid-template-columns)
+  - [Grid Column](#grid-column)
+  - [Grid Template Rows](#grid-template-rows)
+  - [Grid Row](#grid-row)
+  - [Grid Auto Flow](#grid-auto-flow)
+  - [Grid Auto Columns](#grid-auto-columns)
+  - [Grid Auto Rows](#grid-auto-rows)
+  - [Gap](#gap)
+  - [Justify Content](#justify-content)
+  - [Justify Items](#justify-items)
+  - [Justify Self](#justify-self)
+  - [Align Content](#align-content)
+  - [Align Items](#align-items)
+  - [Align Self](#align-self)
+  - [Place Content](#place-content)
+  - [Place Items](#place-items)
+  - [Place Self](#place-self)
+- [Spacing](#spacing)
+  - [Padding](#padding)
+  - [Margin](#margin)
+- [Sizing](#sizing)
+  - [Width](#width)
+  - [Min Width](#min-width)
+  - [Max Width](#max-width)
+  - [Height](#height)
+  - [Min Height](#min-height)
+  - [Max Height](#max-height)
+  - [Inline Size](#inline-size)
+  - [Min Inline Size](#min-inline-size)
+  - [Max Inline Size](#max-inline-size)
+  - [Block Size](#block-size)
+  - [Min Block Size](#min-block-size)
+  - [Max Block Size](#max-block-size)
+- [Typography](#typography)
+  - [Font Family](#font-family)
+  - [Font Size](#font-size)
+  - [Font Smoothing](#font-smoothing)
+  - [Font Style](#font-style)
+  - [Font Weight](#font-weight)
+  - [Font Stretch](#font-stretch)
+  - [Font Variant Numeric](#font-variant-numeric)
+  - [Font Feature Settings](#font-feature-settings)
+  - [Letter Spacing](#letter-spacing)
+  - [Line Clamp](#line-clamp)
+  - [Line Height](#line-height)
+  - [List Style Image](#list-style-image)
+  - [List Style Position](#list-style-position)
+  - [List Style Type](#list-style-type)
+  - [Text Align](#text-align)
+  - [Color](#color)
+  - [Text Decoration Line](#text-decoration-line)
+  - [Text Decoration Color](#text-decoration-color)
+  - [Text Decoration Style](#text-decoration-style)
+  - [Text Decoration Thickness](#text-decoration-thickness)
+  - [Text Underline Offset](#text-underline-offset)
+  - [Text Transform](#text-transform)
+  - [Text Overflow](#text-overflow)
+  - [Text Wrap](#text-wrap)
+  - [Text Indent](#text-indent)
+  - [Tab Size](#tab-size)
+  - [Vertical Align](#vertical-align)
+  - [White Space](#white-space)
+  - [Word Break](#word-break)
+  - [Overflow Wrap](#overflow-wrap)
+  - [Hyphens](#hyphens)
+  - [Content](#content)
+- [Backgrounds](#backgrounds)
+  - [Background Attachment](#background-attachment)
+  - [Background Clip](#background-clip)
+  - [Background Color](#background-color)
+  - [Background Image](#background-image)
+  - [Background Origin](#background-origin)
+  - [Background Position](#background-position)
+  - [Background Repeat](#background-repeat)
+  - [Background Size](#background-size)
+- [Borders](#borders)
+  - [Border Radius](#border-radius)
+  - [Border Width](#border-width)
+  - [Border Color](#border-color)
+  - [Border Style](#border-style)
+  - [Outline Width](#outline-width)
+  - [Outline Color](#outline-color)
+  - [Outline Style](#outline-style)
+  - [Outline Offset](#outline-offset)
+- [Effects](#effects)
+  - [Box Shadow](#box-shadow)
+  - [Text Shadow](#text-shadow)
+  - [Opacity](#opacity)
+  - [Mix Blend Mode](#mix-blend-mode)
+  - [Background Blend Mode](#background-blend-mode)
+  - [Mask Clip](#mask-clip)
+  - [Mask Composite](#mask-composite)
+  - [Mask Image](#mask-image)
+  - [Mask Mode](#mask-mode)
+  - [Mask Origin](#mask-origin)
+  - [Mask Position](#mask-position)
+  - [Mask Repeat](#mask-repeat)
+  - [Mask Size](#mask-size)
+  - [Mask Type](#mask-type)
+- [Filters](#filters)
+  - [Filter](#filter)
+  - [Filter Blur](#filter-blur)
+  - [Filter Brightness](#filter-brightness)
+  - [Filter Contrast](#filter-contrast)
+  - [Filter Drop Shadow](#filter-drop-shadow)
+  - [Filter Grayscale](#filter-grayscale)
+  - [Filter Hue Rotate](#filter-hue-rotate)
+  - [Filter Invert](#filter-invert)
+  - [Filter Saturate](#filter-saturate)
+  - [Filter Sepia](#filter-sepia)
+  - [Backdrop Filter](#backdrop-filter)
+  - [Backdrop Filter Blur](#backdrop-filter-blur)
+  - [Backdrop Filter Brightness](#backdrop-filter-brightness)
+  - [Backdrop Filter Contrast](#backdrop-filter-contrast)
+  - [Backdrop Filter Grayscale](#backdrop-filter-grayscale)
+  - [Backdrop Filter Hue Rotate](#backdrop-filter-hue-rotate)
+  - [Backdrop Filter Invert](#backdrop-filter-invert)
+  - [Backdrop Filter Opacity](#backdrop-filter-opacity)
+  - [Backdrop Filter Saturate](#backdrop-filter-saturate)
+  - [Backdrop Filter Sepia](#backdrop-filter-sepia)
+- [Tables](#tables)
+  - [Border Collapse](#border-collapse)
+  - [Border Spacing](#border-spacing)
+  - [Table Layout](#table-layout)
+  - [Caption Side](#caption-side)
+- [Transitions & Animation](#transitions--animation)
+  - [Transition Property](#transition-property)
+  - [Transition Behavior](#transition-behavior)
+  - [Transition Duration](#transition-duration)
+  - [Transition Timing Function](#transition-timing-function)
+  - [Transition Delay](#transition-delay)
+  - [Animation](#animation)
+- [Transforms](#transforms)
+  - [Backface Visibility](#backface-visibility)
+  - [Perspective](#perspective)
+  - [Perspective Origin](#perspective-origin)
+  - [Rotate](#rotate)
+  - [Scale](#scale)
+  - [Skew](#skew)
+  - [Transform](#transform)
+  - [Transform Origin](#transform-origin)
+  - [Transform Style](#transform-style)
+  - [Translate](#translate)
+  - [Zoom](#zoom)
+- [Interactivity](#interactivity)
+  - [Accent Color](#accent-color)
+  - [Appearance](#appearance)
+  - [Caret Color](#caret-color)
+  - [Color Scheme](#color-scheme)
+  - [Cursor](#cursor)
+  - [Field Sizing](#field-sizing)
+  - [Pointer Events](#pointer-events)
+  - [Resize](#resize)
+  - [Scroll Behavior](#scroll-behavior)
+  - [Scrollbar Color](#scrollbar-color)
+  - [Scrollbar Width](#scrollbar-width)
+  - [Scrollbar Gutter](#scrollbar-gutter)
+  - [Scroll Margin](#scroll-margin)
+  - [Scroll Padding](#scroll-padding)
+  - [Scroll Snap Align](#scroll-snap-align)
+  - [Scroll Snap Stop](#scroll-snap-stop)
+  - [Scroll Snap Type](#scroll-snap-type)
+  - [Touch Action](#touch-action)
+  - [User Select](#user-select)
+  - [Will Change](#will-change)
+- [SVG](#svg)
+  - [Fill](#fill)
+  - [Stroke](#stroke)
+  - [Stroke Width](#stroke-width)
+- [Accessibility](#accessibility)
+  - [Forced Color Adjust](#forced-color-adjust)
+
+---
+
+
+## Getting Started
+
+
+### Installation
+
+### Installing Tailwind CSS as a Vite plugin
+Installing Tailwind CSS as a Vite plugin is the most seamless way to integrate it with frameworks like Laravel, SvelteKit, React Router, Nuxt, and SolidJS.
+
+
+### Editor Setup
+
+## Syntax support
+
+Tailwind CSS uses custom CSS syntax like `@theme`, `@variant`, and `@source`, and in some editors this can trigger warnings or errors where these rules aren&#x27;t recognized.
+
+If you&#x27;re using VS Code, our official Tailwind CSS IntelliSense plugin includes a dedicated Tailwind CSS language mode that has support for all of the custom at-rules and functions Tailwind uses.
+
+In some cases, you may need to disable native CSS linting/validations if your editor is very strict about the syntax it expects in your CSS files.
+
+## Cursor
+
+ Cursor is an AI-native code editor with features like context-aware autocomplete and built-in coding agents. Since it supports VS Code extensions, all of the Tailwind CSS tooling you&#x27;re already familiar with works out of the box – including our official Tailwind CSS IntelliSense extension and the Prettier plugin for class sorting.
+
+Check out and download Cursor .
+
+## Zed
+
+ Zed is a fast, modern code editor, designed from the ground-up for cutting-edge development workflows, including agentic editing with AI. It has built-in support for Tailwind CSS autocompletions, linting, and hover previews, without the need to install and configure a separate extension. It also integrates tightly with Prettier, so our official Prettier plugin works seamlessly with Zed when installed.
+
+Check out Zed and learn more about how it works with Tailwind CSS .
+
+## IntelliSense for VS Code
+
+The official Tailwind CSS IntelliSense extension for Visual Studio Code enhances the Tailwind development experience by providing users with advanced features such as autocomplete, syntax highlighting, and linting.
+
+- Autocomplete — providing intelligent suggestions for utility classes, as well as CSS functions and directives .
+
+- Linting — highlighting errors and potential bugs in both your CSS and your markup.
+
+- Hover previews — revealing the complete CSS for utility classes when you hover over them.
+
+- Syntax highlighting — so that Tailwind features that use custom CSS syntax are highlighted correctly.
+
+Check out the project on GitHub to learn more, or add it to Visual Studio Code to get started now.
+
+## Class sorting with Prettier
+
+We maintain an official Prettier plugin for Tailwind CSS that automatically sorts your classes following our recommended class order .
+
+It works seamlessly with custom Tailwind configurations, and because it’s just a Prettier plugin, it works anywhere Prettier works — including every popular editor and IDE, and of course on the command line.
+
+ HTML
+
+
+### Compatibility
+
+## Browser support
+
+Tailwind CSS v4.0 is designed for and tested on modern browsers, and the core functionality of the framework specifically depends on these browser versions:
+
+- Chrome 111 (released March 2023)
+
+- Safari 16.4 (released March 2023)
+
+- Firefox 128 (released July 2024)
+
+Tailwind also includes support for many bleeding-edge platform features like `field-sizing: content`, `@starting-style`, and `text-wrap: balance` that have limited browser support. It&#x27;s up to you if you want to use these modern features in your projects — if the browsers you&#x27;re targeting don&#x27;t support them, simply don&#x27;t use those utilities and variants.
+
+If you&#x27;re unsure about the support for a modern platform feature, the Can I use database is a great resource.
+
+## Sass, Less, and Stylus
+
+Tailwind CSS v4.0 is a full-featured CSS build tool designed for a specific workflow, and is not designed to be used with CSS preprocessors like Sass, Less, or Stylus.
+
+ Think of Tailwind CSS itself as your preprocessor — you shouldn&#x27;t use Tailwind with Sass for the same reason you wouldn&#x27;t use Sass with Stylus.
+
+Since Tailwind is designed for modern browsers, you actually don&#x27;t need a preprocessor for things like nesting or variables, and Tailwind itself will do things like bundle your imports and add vendor prefixes.
+
+### Build-time imports
+
+Tailwind will automatically bundle other CSS files you include with `@import`, without the need for a separate preprocessing tool.
+
+ app.css
+
+
+### Upgrade Guide
+
+Tailwind CSS v4.0 is a new major version of the framework, so while we&#x27;ve worked really hard to minimize breaking changes, some updates are necessary. This guide outlines all the steps required to upgrade your projects from v3 to v4.
+
+ Tailwind CSS v4.0 is designed for Safari 16.4+, Chrome 111+, and Firefox 128+. If you need to support older browsers, stick with v3.4 until your browser support requirements change.
+
+## Using the upgrade tool
+
+If you&#x27;d like to upgrade a project from v3 to v4, you can use our upgrade tool to do the vast majority of the heavy lifting for you:
+
+ Terminal
+
+
+## Core Concepts
+
+
+### Styling With Utility Classes
+
+## Overview
+
+You style things with Tailwind by combining many single-purpose presentational classes (utility classes) directly in your markup:
+
+ ChitChat
+
+
+### Hover Focus And Other States
+
+Every utility class in Tailwind can be applied conditionally by adding a variant to the beginning of the class name that describes the condition you want to target.
+
+For example, to apply the `bg-sky-700` class on hover, use the `hover:bg-sky-700` class:
+
+ Hover over this button to see the background color change
+
+
+### Responsive Design
+
+## Overview
+
+Every utility class in Tailwind can be applied conditionally at different breakpoints, which makes it a piece of cake to build complex responsive interfaces without ever leaving your HTML.
+
+First, make sure you&#x27;ve added the viewport meta tag to the `<head>` of your document:
+
+ index.html
+
+
+### Dark Mode
+
+## Overview
+
+Now that dark mode is a first-class feature of many operating systems, it&#x27;s becoming more and more common to design a dark version of your website to go along with the default design.
+
+To make this as easy as possible, Tailwind includes a `dark` variant that lets you style your site differently when dark mode is enabled:
+
+ Light mode
+
+
+### Theme
+
+## Overview
+
+Tailwind is a framework for building custom designs, and different designs need different typography, colors, shadows, breakpoints, and more.
+
+These low-level design decisions are often called design tokens , and in Tailwind projects you store those values in theme variables .
+
+### What are theme variables?
+
+Theme variables are special CSS variables defined using the `@theme` directive that influence which utility classes exist in your project.
+
+For example, you can add a new color to your project by defining a theme variable like `--color-mint-500`:
+
+ app.css
+
+
+### Colors
+
+Tailwind CSS includes a vast, beautiful color palette out of the box, carefully crafted by expert designers and suitable for a wide range of different design styles.
+
+
+### Adding Custom Styles
+
+Often the biggest challenge when working with a framework is figuring out what you’re supposed to do when there’s something you need that the framework doesn’t handle for you.
+
+Tailwind has been designed from the ground up to be extensible and customizable, so that no matter what you’re building you never feel like you’re fighting the framework.
+
+This guide covers topics like customizing your design tokens, how to break out of those constraints when necessary, adding your own custom CSS, and extending the framework with plugins.
+
+## Customizing your theme
+
+If you want to change things like your color palette, spacing scale, typography scale, or breakpoints, add your customizations using the `@theme` directive in your CSS:
+
+ CSS
+
+
+### Detecting Classes In Source Files
+
+## Overview
+
+Tailwind works by scanning your project for utility classes, then generating all of the necessary CSS based on the classes you&#x27;ve actually used.
+
+This makes sure your CSS is as small as possible, and is also what makes features like arbitrary values possible.
+
+### How classes are detected
+
+Tailwind treats all of your source files as plain text, and doesn&#x27;t attempt to actually parse your files as code in any way.
+
+Instead it just looks for any tokens in your file that could be classes based on which characters Tailwind is expecting in class names:
+
+ JSX
+
+
+### Functions And Directives
+
+## Directives
+
+Directives are custom Tailwind-specific at-rules you can use in your CSS that offer special functionality for Tailwind CSS projects.
+
+### @import
+
+Use the `@import` directive to inline import CSS files, including Tailwind itself:
+
+ CSS
+
+
+## Base Styles
+
+
+### Preflight
+
+## Overview
+
+Built on top of modern-normalize , Preflight is a set of base styles for Tailwind projects that are designed to smooth over cross-browser inconsistencies and make it easier for you to work within the constraints of your design system.
+
+When you import `tailwindcss` into your project, Preflight is automatically injected into the `base` layer:
+
+ CSS
+
+
+## Layout
+
+
+### Aspect Ratio
+
+| ** Class** | **Styles** |
+ | `aspect- <ratio> ` `aspect-ratio: <ratio> ;`
+
+
+### Columns
+
+| ** Class** | **Styles** |
+ | `columns- <number> ` `columns: <number> ;`
+
+
+### Break After
+
+| ** Class** | **Styles** |
+ | `break-after-auto` `break-after: auto;`
+
+
+### Break Before
+
+| ** Class** | **Styles** |
+ | `break-before-auto` `break-before: auto;`
+
+
+### Break Inside
+
+| ** Class** | **Styles** |
+ | `break-inside-auto` `break-inside: auto;`
+
+
+### Box Decoration Break
+
+| ** Class** | **Styles** |
+ | `box-decoration-clone` `box-decoration-break: clone;`
+
+
+### Box Sizing
+
+| ** Class** | **Styles** |
+ | `box-border` `box-sizing: border-box;`
+
+
+### Display
+
+| ** Class** | **Styles** |
+ | `inline` `display: inline;`
+
+
+### Float
+
+| ** Class** | **Styles** |
+ | `float-right` `float: right;`
+
+
+### Clear
+
+| ** Class** | **Styles** |
+ | `clear-left` `clear: left;`
+
+
+### Isolation
+
+| ** Class** | **Styles** |
+ | `isolate` `isolation: isolate;`
+
+
+### Object Fit
+
+| ** Class** | **Styles** |
+ | `object-contain` `object-fit: contain;`
+
+
+### Object Position
+
+| ** Class** | **Styles** |
+ | `object-top-left` `object-position: top left;`
+
+
+### Overflow
+
+| ** Class** | **Styles** |
+ | `overflow-auto` `overflow: auto;`
+
+
+### Overscroll Behavior
+
+| ** Class** | **Styles** |
+ | `overscroll-auto` `overscroll-behavior: auto;`
+
+
+### Position
+
+| ** Class** | **Styles** |
+ | `static` `position: static;`
+
+
+### Top Right Bottom Left
+
+| ** Class** | **Styles** |
+ | `inset- <number> ` `inset: calc(var(--spacing) * <number> );`
+
+
+### Visibility
+
+| ** Class** | **Styles** |
+ | `visible` `visibility: visible;`
+
+
+### Z Index
+
+| ** Class** | **Styles** |
+ | `z- <number> ` `z-index: <number> ;`
+
+
+## Flexbox & Grid
+
+
+### Flex Basis
+
+| ** Class** | **Styles** |
+ | `basis- <number> ` `flex-basis: calc(var(--spacing) * <number> );`
+
+
+### Flex Direction
+
+| ** Class** | **Styles** |
+ | `flex-row` `flex-direction: row;`
+
+
+### Flex Wrap
+
+| ** Class** | **Styles** |
+ | `flex-nowrap` `flex-wrap: nowrap;`
+
+
+### Flex
+
+| ** Class** | **Styles** |
+ | `flex- <number> ` `flex: <number> ;`
+
+
+### Flex Grow
+
+| ** Class** | **Styles** |
+ | `grow` `flex-grow: 1;`
+
+
+### Flex Shrink
+
+| ** Class** | **Styles** |
+ | `shrink` `flex-shrink: 1;`
+
+
+### Order
+
+| ** Class** | **Styles** |
+ | `order- <number> ` `order: <number> ;`
+
+
+### Grid Template Columns
+
+| ** Class** | **Styles** |
+ | `grid-cols- <number> ` `grid-template-columns: repeat( <number> , minmax(0, 1fr));`
+
+
+### Grid Column
+
+| ** Class** | **Styles** |
+ | `col-span- <number> ` `grid-column: span <number> / span <number> ;`
+
+
+### Grid Template Rows
+
+| ** Class** | **Styles** |
+ | `grid-rows- <number> ` `grid-template-rows: repeat( <number> , minmax(0, 1fr));`
+
+
+### Grid Row
+
+| ** Class** | **Styles** |
+ | `row-span- <number> ` `grid-row: span <number> / span <number> ;`
+
+
+### Grid Auto Flow
+
+| ** Class** | **Styles** |
+ | `grid-flow-row` `grid-auto-flow: row;`
+
+
+### Grid Auto Columns
+
+| ** Class** | **Styles** |
+ | `auto-cols-auto` `grid-auto-columns: auto;`
+
+
+### Grid Auto Rows
+
+| ** Class** | **Styles** |
+ | `auto-rows-auto` `grid-auto-rows: auto;`
+
+
+### Gap
+
+| ** Class** | **Styles** |
+ | `gap- <number> ` `gap: calc(var(--spacing) * <value> );`
+
+
+### Justify Content
+
+| ** Class** | **Styles** |
+ | `justify-start` `justify-content: flex-start;`
+
+
+### Justify Items
+
+| ** Class** | **Styles** |
+ | `justify-items-start` `justify-items: start;`
+
+
+### Justify Self
+
+| ** Class** | **Styles** |
+ | `justify-self-auto` `justify-self: auto;`
+
+
+### Align Content
+
+| ** Class** | **Styles** |
+ | `content-normal` `align-content: normal;`
+
+
+### Align Items
+
+| ** Class** | **Styles** |
+ | `items-start` `align-items: flex-start;`
+
+
+### Align Self
+
+| ** Class** | **Styles** |
+ | `self-auto` `align-self: auto;`
+
+
+### Place Content
+
+| ** Class** | **Styles** |
+ | `place-content-center` `place-content: center;`
+
+
+### Place Items
+
+| ** Class** | **Styles** |
+ | `place-items-start` `place-items: start;`
+
+
+### Place Self
+
+| ** Class** | **Styles** |
+ | `place-self-auto` `place-self: auto;`
+
+
+## Spacing
+
+
+### Padding
+
+| ** Class** | **Styles** |
+ | `p- <number> ` `padding: calc(var(--spacing) * <number> );`
+
+
+### Margin
+
+| ** Class** | **Styles** |
+ | `m- <number> ` `margin: calc(var(--spacing) * <number> );`
+
+
+## Sizing
+
+
+### Width
+
+| ** Class** | **Styles** |
+ | `w- <number> ` `width: calc(var(--spacing) * <number> );`
+
+
+### Min Width
+
+| ** Class** | **Styles** |
+ | `min-w- <number> ` `min-width: calc(var(--spacing) * <number> );`
+
+
+### Max Width
+
+| ** Class** | **Styles** |
+ | `max-w- <number> ` `max-width: calc(var(--spacing) * <number> );`
+
+
+### Height
+
+| ** Class** | **Styles** |
+ | `h- <number> ` `height: calc(var(--spacing) * <number> );`
+
+
+### Min Height
+
+| ** Class** | **Styles** |
+ | `min-h- <number> ` `min-height: calc(var(--spacing) * <number> );`
+
+
+### Max Height
+
+| ** Class** | **Styles** |
+ | `max-h- <number> ` `max-height: calc(var(--spacing) * <number> );`
+
+
+### Inline Size
+
+| ** Class** | **Styles** |
+ | `inline- <number> ` `inline-size: calc(var(--spacing) * <number> );`
+
+
+### Min Inline Size
+
+| ** Class** | **Styles** |
+ | `min-inline- <number> ` `min-inline-size: calc(var(--spacing) * <number> );`
+
+
+### Max Inline Size
+
+| ** Class** | **Styles** |
+ | `max-inline- <number> ` `max-inline-size: calc(var(--spacing) * <number> );`
+
+
+### Block Size
+
+| ** Class** | **Styles** |
+ | `block- <number> ` `block-size: calc(var(--spacing) * <number> );`
+
+
+### Min Block Size
+
+| ** Class** | **Styles** |
+ | `min-block- <number> ` `min-block-size: calc(var(--spacing) * <number> );`
+
+
+### Max Block Size
+
+| ** Class** | **Styles** |
+ | `max-block- <number> ` `max-block-size: calc(var(--spacing) * <number> );`
+
+
+## Typography
+
+
+### Font Family
+
+| ** Class** | **Styles** |
+ | `font-sans` `font-family: var(--font-sans); /* ui-sans-serif, system-ui, sans-serif, &#x27;Apple Color Emoji&#x27;, &#x27;Segoe UI Emoji&#x27;, &#x27;Segoe UI Symbol&#x27;, &#x27;Noto Color Emoji&#x27; */ `
+
+
+### Font Size
+
+| ** Class** | **Styles** |
+ | `text-xs` `font-size: var(--text-xs); /* 0.75rem (12px) */
+line-height: var(--text-xs--line-height); /* calc(1 / 0.75) */ `
+
+
+### Font Smoothing
+
+| ** Class** | **Styles** |
+ | `antialiased` `-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;`
+
+
+### Font Style
+
+| ** Class** | **Styles** |
+ | `italic` `font-style: italic;`
+
+
+### Font Weight
+
+| ** Class** | **Styles** |
+ | `font-thin` `font-weight: 100;`
+
+
+### Font Stretch
+
+| ** Class** | **Styles** |
+ | `font-stretch-ultra-condensed` `font-stretch: ultra-condensed; /* 50% */ `
+
+
+### Font Variant Numeric
+
+| ** Class** | **Styles** |
+ | `normal-nums` `font-variant-numeric: normal;`
+
+
+### Font Feature Settings
+
+| ** Class** | **Styles** |
+ | `font-features-[ <value> ]` `font-feature-settings: <value> ;`
+
+
+### Letter Spacing
+
+| ** Class** | **Styles** |
+ | `tracking-tighter` `letter-spacing: var(--tracking-tighter); /* -0.05em */ `
+
+
+### Line Clamp
+
+Mar 10, 2020 Boost your conversion rate Nulla dolor velit adipisicing duis excepteur esse in duis nostrud occaecat mollit incididunt deserunt sunt. Ut ut sunt laborum ex occaecat eu tempor labore enim adipisicing minim ad. Est in quis eu dolore occaecat excepteur fugiat dolore nisi aliqua fugiat enim ut cillum. Labore enim duis nostrud eu. Est ut eiusmod consequat irure quis deserunt ex. Enim laboris dolor magna pariatur. Dolor et ad sint voluptate sunt elit mollit officia ad enim sit consectetur enim.
+ Lindsay Walton
+
+
+### Line Height
+
+| ** Class** | **Styles** |
+ | `text- <size> / <number> ` `font-size: <size> ;
+line-height: calc(var(--spacing) * <number> );`
+
+
+### List Style Image
+
+| ** Class** | **Styles** |
+ | `list-image-[ <value> ]` `list-style-image: <value> ;`
+
+
+### List Style Position
+
+| ** Class** | **Styles** |
+ | `list-inside` `list-style-position: inside;`
+
+
+### List Style Type
+
+| ** Class** | **Styles** |
+ | `list-disc` `list-style-type: disc;`
+
+
+### Text Align
+
+| ** Class** | **Styles** |
+ | `text-left` `text-align: left;`
+
+
+### Color
+
+| ** Class** | **Styles** |
+ | `text-inherit` `color: inherit;`
+
+
+### Text Decoration Line
+
+| ** Class** | **Styles** |
+ | `underline` `text-decoration-line: underline;`
+
+
+### Text Decoration Color
+
+| ** Class** | **Styles** |
+ | `decoration-inherit` `text-decoration-color: inherit;`
+
+
+### Text Decoration Style
+
+| ** Class** | **Styles** |
+ | `decoration-solid` `text-decoration-style: solid;`
+
+
+### Text Decoration Thickness
+
+| ** Class** | **Styles** |
+ | `decoration- <number> ` `text-decoration-thickness: <number> px;`
+
+
+### Text Underline Offset
+
+| ** Class** | **Styles** |
+ | `underline-offset- <number> ` `text-underline-offset: <number> px;`
+
+
+### Text Transform
+
+| ** Class** | **Styles** |
+ | `uppercase` `text-transform: uppercase;`
+
+
+### Text Overflow
+
+| ** Class** | **Styles** |
+ | `truncate` `overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;`
+
+
+### Text Wrap
+
+| ** Class** | **Styles** |
+ | `text-wrap` `text-wrap: wrap;`
+
+
+### Text Indent
+
+| ** Class** | **Styles** |
+ | `indent- <number> ` `text-indent: calc(var(--spacing) * <number> );`
+
+
+### Tab Size
+
+| ** Class** | **Styles** |
+ | `tab- <number> ` `tab-size: <number> ;`
+
+
+### Vertical Align
+
+| ** Class** | **Styles** |
+ | `align-baseline` `vertical-align: baseline;`
+
+
+### White Space
+
+| ** Class** | **Styles** |
+ | `whitespace-normal` `white-space: normal;`
+
+
+### Word Break
+
+| ** Class** | **Styles** |
+ | `break-normal` `word-break: normal;`
+
+
+### Overflow Wrap
+
+| ** Class** | **Styles** |
+ | `wrap-break-word` `overflow-wrap: break-word;`
+
+
+### Hyphens
+
+| ** Class** | **Styles** |
+ | `hyphens-none` `hyphens: none;`
+
+
+### Content
+
+| ** Class** | **Styles** |
+ | `content-[ <value> ]` `content: <value> ;`
+
+
+## Backgrounds
+
+
+### Background Attachment
+
+| ** Class** | **Styles** |
+ | `bg-fixed` `background-attachment: fixed;`
+
+
+### Background Clip
+
+| ** Class** | **Styles** |
+ | `bg-clip-border` `background-clip: border-box;`
+
+
+### Background Color
+
+| ** Class** | **Styles** |
+ | `bg-inherit` `background-color: inherit;`
+
+
+### Background Image
+
+| ** Class** | **Styles** |
+ | `bg-[ <value> ]` `background-image: <value> ;`
+
+
+### Background Origin
+
+| ** Class** | **Styles** |
+ | `bg-origin-border` `background-origin: border-box;`
+
+
+### Background Position
+
+| ** Class** | **Styles** |
+ | `bg-top-left` `background-position: top left;`
+
+
+### Background Repeat
+
+| ** Class** | **Styles** |
+ | `bg-repeat` `background-repeat: repeat;`
+
+
+### Background Size
+
+| ** Class** | **Styles** |
+ | `bg-auto` `background-size: auto;`
+
+
+## Borders
+
+
+### Border Radius
+
+| ** Class** | **Styles** |
+ | `rounded-xs` `border-radius: var(--radius-xs); /* 0.125rem (2px) */ `
+
+
+### Border Width
+
+| ** Class** | **Styles** |
+ | `border` `border-width: 1px;`
+
+
+### Border Color
+
+| ** Class** | **Styles** |
+ | `border-inherit` `border-color: inherit;`
+
+
+### Border Style
+
+| ** Class** | **Styles** |
+ | `border-solid` `border-style: solid;`
+
+
+### Outline Width
+
+| ** Class** | **Styles** |
+ | `outline` `outline-width: 1px;`
+
+
+### Outline Color
+
+| ** Class** | **Styles** |
+ | `outline-inherit` `outline-color: inherit;`
+
+
+### Outline Style
+
+| ** Class** | **Styles** |
+ | `outline-solid` `outline-style: solid;`
+
+
+### Outline Offset
+
+| ** Class** | **Styles** |
+ | `outline-offset- <number> ` `outline-offset: <number> px;`
+
+
+## Effects
+
+
+### Box Shadow
+
+| ** Class** | **Styles** |
+ | `shadow-2xs` `box-shadow: var(--shadow-2xs); /* 0 1px rgb(0 0 0 / 0.05) */ `
+
+
+### Text Shadow
+
+| ** Class** | **Styles** |
+ | `text-shadow-2xs` `text-shadow: var(--text-shadow-2xs); /* 0px 1px 0px rgb(0 0 0 / 0.15) */ `
+
+
+### Opacity
+
+| ** Class** | **Styles** |
+ | `opacity- <number> ` `opacity: <number> %;`
+
+
+### Mix Blend Mode
+
+| ** Class** | **Styles** |
+ | `mix-blend-normal` `mix-blend-mode: normal;`
+
+
+### Background Blend Mode
+
+| ** Class** | **Styles** |
+ | `bg-blend-normal` `background-blend-mode: normal;`
+
+
+### Mask Clip
+
+| ** Class** | **Styles** |
+ | `mask-clip-border` `mask-clip: border-box;`
+
+
+### Mask Composite
+
+| ** Class** | **Styles** |
+ | `mask-add` `mask-composite: add;`
+
+
+### Mask Image
+
+| ** Class** | **Styles** |
+ | `mask-[ <value> ]` `mask-image: <value> ;`
+
+
+### Mask Mode
+
+| ** Class** | **Styles** |
+ | `mask-alpha` `mask-mode: alpha;`
+
+
+### Mask Origin
+
+| ** Class** | **Styles** |
+ | `mask-origin-border` `mask-origin: border-box;`
+
+
+### Mask Position
+
+| ** Class** | **Styles** |
+ | `mask-top-left` `mask-position: top left;`
+
+
+### Mask Repeat
+
+| ** Class** | **Styles** |
+ | `mask-repeat` `mask-repeat: repeat;`
+
+
+### Mask Size
+
+| ** Class** | **Styles** |
+ | `mask-auto` `mask-size: auto;`
+
+
+### Mask Type
+
+| ** Class** | **Styles** |
+ | `mask-type-alpha` `mask-type: alpha;`
+
+
+## Filters
+
+
+### Filter
+
+| ** Class** | **Styles** |
+ | `filter-none` `filter: none;`
+
+
+### Filter Blur
+
+| ** Class** | **Styles** |
+ | `blur-xs` `filter: blur(var(--blur-xs)); /* 4px */ `
+
+
+### Filter Brightness
+
+| ** Class** | **Styles** |
+ | `brightness- <number> ` `filter: brightness( <number> %);`
+
+
+### Filter Contrast
+
+| ** Class** | **Styles** |
+ | `contrast- <number> ` `filter: contrast( <number> %);`
+
+
+### Filter Drop Shadow
+
+| ** Class** | **Styles** |
+ | `drop-shadow-xs` `filter: drop-shadow(var(--drop-shadow-xs)); /* 0 1px 1px rgb(0 0 0 / 0.05) */ `
+
+
+### Filter Grayscale
+
+| ** Class** | **Styles** |
+ | `grayscale` `filter: grayscale(100%);`
+
+
+### Filter Hue Rotate
+
+| ** Class** | **Styles** |
+ | `hue-rotate- <number> ` `filter: hue-rotate( <number> deg);`
+
+
+### Filter Invert
+
+| ** Class** | **Styles** |
+ | `invert` `filter: invert(100%);`
+
+
+### Filter Saturate
+
+| ** Class** | **Styles** |
+ | `saturate- <number> ` `filter: saturate( <number> %);`
+
+
+### Filter Sepia
+
+| ** Class** | **Styles** |
+ | `sepia` `filter: sepia(100%);`
+
+
+### Backdrop Filter
+
+| ** Class** | **Styles** |
+ | `backdrop-filter-none` `backdrop-filter: none;`
+
+
+### Backdrop Filter Blur
+
+| ** Class** | **Styles** |
+ | `backdrop-blur-xs` `backdrop-filter: blur(var(--blur-xs)); /* 4px */ `
+
+
+### Backdrop Filter Brightness
+
+| ** Class** | **Styles** |
+ | `backdrop-brightness- <number> ` `backdrop-filter: brightness( <number> %);`
+
+
+### Backdrop Filter Contrast
+
+| ** Class** | **Styles** |
+ | `backdrop-contrast- <number> ` `backdrop-filter: contrast( <number> %);`
+
+
+### Backdrop Filter Grayscale
+
+| ** Class** | **Styles** |
+ | `backdrop-grayscale` `backdrop-filter: grayscale(100%);`
+
+
+### Backdrop Filter Hue Rotate
+
+| ** Class** | **Styles** |
+ | `backdrop-hue-rotate- <number> ` `backdrop-filter: hue-rotate( <number> deg);`
+
+
+### Backdrop Filter Invert
+
+| ** Class** | **Styles** |
+ | `backdrop-invert` `backdrop-filter: invert(100%);`
+
+
+### Backdrop Filter Opacity
+
+| ** Class** | **Styles** |
+ | `backdrop-opacity- <number> ` `backdrop-filter: opacity( <number> %);`
+
+
+### Backdrop Filter Saturate
+
+| ** Class** | **Styles** |
+ | `backdrop-saturate- <number> ` `backdrop-filter: saturate( <number> %);`
+
+
+### Backdrop Filter Sepia
+
+| ** Class** | **Styles** |
+ | `backdrop-sepia` `backdrop-filter: sepia(100%);`
+
+
+## Tables
+
+
+### Border Collapse
+
+| ** Class** | **Styles** |
+ | `border-collapse` `border-collapse: collapse;`
+
+
+### Border Spacing
+
+| ** Class** | **Styles** |
+ | `border-spacing- <number> ` `border-spacing: calc(var(--spacing) * <number> );`
+
+
+### Table Layout
+
+| ** Class** | **Styles** |
+ | `table-auto` `table-layout: auto;`
+
+
+### Caption Side
+
+| ** Class** | **Styles** |
+ | `caption-top` `caption-side: top;`
+
+
+## Transitions & Animation
+
+
+### Transition Property
+
+| ** Class** | **Styles** |
+ | `transition` `transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to, opacity, box-shadow, transform, translate, scale, rotate, filter, -webkit-backdrop-filter, backdrop-filter, display, content-visibility, overlay, pointer-events;
+transition-timing-function: var(--default-transition-timing-function); /* cubic-bezier(0.4, 0, 0.2, 1) */
+transition-duration: var(--default-transition-duration); /* 150ms */ `
+
+
+### Transition Behavior
+
+| ** Class** | **Styles** |
+ | `transition-normal` `transition-behavior: normal;`
+
+
+### Transition Duration
+
+| ** Class** | **Styles** |
+ | `duration- <number> ` `transition-duration: <number> ms;`
+
+
+### Transition Timing Function
+
+| ** Class** | **Styles** |
+ | `ease-linear` `transition-timing-function: linear;`
+
+
+### Transition Delay
+
+| ** Class** | **Styles** |
+ | `delay- <number> ` `transition-delay: <number> ms;`
+
+
+### Animation
+
+| ** Class** | **Styles** |
+ | `animate-spin` `animation: var(--animate-spin); /* spin 1s linear infinite */
+
+@keyframes spin {
+ to {
+ transform: rotate(360deg);
+ }
+}`
+
+
+## Transforms
+
+
+### Backface Visibility
+
+| ** Class** | **Styles** |
+ | `backface-hidden` `backface-visibility: hidden;`
+
+
+### Perspective
+
+| ** Class** | **Styles** |
+ | `perspective-dramatic` `perspective: var(--perspective-dramatic); /* 100px */ `
+
+
+### Perspective Origin
+
+| ** Class** | **Styles** |
+ | `perspective-origin-center` `perspective-origin: center;`
+
+
+### Rotate
+
+| ** Class** | **Styles** |
+ | `rotate-none` `rotate: none;`
+
+
+### Scale
+
+| ** Class** | **Styles** |
+ | `scale-none` `scale: none;`
+
+
+### Skew
+
+| ** Class** | **Styles** |
+ | `skew- <number> ` `transform: skewX( <number> deg) skewY( <number> deg);`
+
+
+### Transform
+
+| ** Class** | **Styles** |
+ | `transform-( <custom-property> )` `transform: var( <custom-property> );`
+
+
+### Transform Origin
+
+| ** Class** | **Styles** |
+ | `origin-center` `transform-origin: center;`
+
+
+### Transform Style
+
+| ** Class** | **Styles** |
+ | `transform-3d` `transform-style: preserve-3d;`
+
+
+### Translate
+
+| ** Class** | **Styles** |
+ | `translate- <number> ` `translate: calc(var(--spacing) * <number> ) calc(var(--spacing) * <number> );`
+
+
+### Zoom
+
+| ** Class** | **Styles** |
+ | `zoom- <number> ` `zoom: <number> %;`
+
+
+## Interactivity
+
+
+### Accent Color
+
+| ** Class** | **Styles** |
+ | `accent-inherit` `accent-color: inherit;`
+
+
+### Appearance
+
+| ** Class** | **Styles** |
+ | `appearance-none` `appearance: none;`
+
+
+### Caret Color
+
+| ** Class** | **Styles** |
+ | `caret-inherit` `caret-color: inherit;`
+
+
+### Color Scheme
+
+| ** Class** | **Styles** |
+ | `scheme-normal` `color-scheme: normal;`
+
+
+### Cursor
+
+| ** Class** | **Styles** |
+ | `cursor-auto` `cursor: auto;`
+
+
+### Field Sizing
+
+| ** Class** | **Styles** |
+ | `field-sizing-fixed` `field-sizing: fixed;`
+
+
+### Pointer Events
+
+| ** Class** | **Styles** |
+ | `pointer-events-auto` `pointer-events: auto;`
+
+
+### Resize
+
+| ** Class** | **Styles** |
+ | `resize-none` `resize: none;`
+
+
+### Scroll Behavior
+
+| ** Class** | **Styles** |
+ | `scroll-auto` `scroll-behavior: auto;`
+
+
+### Scrollbar Color
+
+| ** Class** | **Styles** |
+ | `scrollbar-thumb-inherit` `--tw-scrollbar-thumb: inherit;
+scrollbar-color: var(--tw-scrollbar-thumb) var(--tw-scrollbar-track);`
+
+
+### Scrollbar Width
+
+| ** Class** | **Styles** |
+ | `scrollbar-auto` `scrollbar-width: auto;`
+
+
+### Scrollbar Gutter
+
+| ** Class** | **Styles** |
+ | `scrollbar-gutter-auto` `scrollbar-gutter: auto;`
+
+
+### Scroll Margin
+
+| ** Class** | **Styles** |
+ | `scroll-m- <number> ` `scroll-margin: calc(var(--spacing) * <number> );`
+
+
+### Scroll Padding
+
+| ** Class** | **Styles** |
+ | `scroll-p- <number> ` `scroll-padding: calc(var(--spacing) * <number> );`
+
+
+### Scroll Snap Align
+
+| ** Class** | **Styles** |
+ | `snap-start` `scroll-snap-align: start;`
+
+
+### Scroll Snap Stop
+
+| ** Class** | **Styles** |
+ | `snap-normal` `scroll-snap-stop: normal;`
+
+
+### Scroll Snap Type
+
+| ** Class** | **Styles** |
+ | `snap-none` `scroll-snap-type: none;`
+
+
+### Touch Action
+
+| ** Class** | **Styles** |
+ | `touch-auto` `touch-action: auto;`
+
+
+### User Select
+
+| ** Class** | **Styles** |
+ | `select-none` `user-select: none;`
+
+
+### Will Change
+
+| ** Class** | **Styles** |
+ | `will-change-auto` `will-change: auto;`
+
+
+## SVG
+
+
+### Fill
+
+| ** Class** | **Styles** |
+ | `fill-none` `fill: none;`
+
+
+### Stroke
+
+| ** Class** | **Styles** |
+ | `stroke-none` `stroke: none;`
+
+
+### Stroke Width
+
+| ** Class** | **Styles** |
+ | `stroke- <number> ` `stroke-width: <number> ;`
+
+
+## Accessibility
+
+
+### Forced Color Adjust
+
+| ** Class** | **Styles** |
+ | `forced-color-adjust-auto` `forced-color-adjust: auto;`

@@ -1,0 +1,24 @@
+# DP-420
+
+**Labs:** 18
+
+| # | Lab Name | Type | Level | Duration | Certifications | URL |
+|---|----------|------|-------|----------|----------------|-----|
+| 1 | Batch multiple point operations together with the Azure Cosmos DB for NoSQL SDK | Lab Challenges | Intermediate | 1h | AZ-204, DP-300, DP-420 | [Link](https://business.whizlabs.com/labs/lab/batch-multiple-point-operations-together-with-the-azure-cosmos-db-for-nosql-sdk) |
+| 2 | Configure consistency models in the portal and the Azure Cosmos DB for NoSQL SDK | Lab Challenges | Intermediate | 1h 30m | DP-420 | [Link](https://business.whizlabs.com/labs/lab/configure-consistency-models-in-the-portal-and-the-azure-cosmos-db-for-nosql-sdk) |
+| 3 | Connect to Azure Cosmos DB for NoSQL with the SDK | Lab Challenges | Intermediate | 1h | AZ-204, DP-300, DP-420 | [Link](https://business.whizlabs.com/labs/lab/connect-to-azure-cosmos-db-for-nosql-with-the-sdk) |
+| 4 | Connect to a multi-region write account with the Azure Cosmos DB for NoSQL SDK | Lab Challenges | Intermediate | 1h | DP-420 | [Link](https://business.whizlabs.com/labs/lab/connect-to-a-multi-region-write-account-with-the-azure-cosmos-db-for-nosql-sdk) |
+| 5 | Connect to different regions with the Azure Cosmos DB for NoSQL SDK | Lab Challenges | Fundamental | 1h | DP-300, DP-420 | [Link](https://business.whizlabs.com/labs/lab/connect-to-different-regions-with-the-azure-cosmos-db-for-nosql-sdk) |
+| 6 | Create a stored procedure with the Azure portal | Lab Challenges | Advanced | 1h | DP-420 | [Link](https://business.whizlabs.com/labs/lab/create-a-stored-procedure-with-the-azure-portal) |
+| 7 | Creating an Azure Cosmos DB for NoSQL Account and Executing SQL Queries Using the Azure Portal | Lab Challenges | Intermediate | 45m | DP-420 | [Link](https://business.whizlabs.com/labs/lab/creating-an-azure-cosmos-db-for-nosql-account-and-executing-sql-queries-using-the-azure-portal) |
+| 8 | Creating and Using User-Defined Functions in Azure Cosmos DB for NoSQL with .NET SDK | Lab Challenges | Intermediate | 1h 30m | DP-420 | [Link](https://business.whizlabs.com/labs/lab/creating-and-using-user-defined-functions-in-azure-cosmos-db-for-nosql-with-net-sdk) |
+| 9 | Execute a query with the Azure Cosmos DB for NoSQL SDK | Lab Challenges | Intermediate | 1h 30m | DP-300, DP-420 | [Link](https://business.whizlabs.com/labs/lab/execute-a-query-with-the-azure-cosmos-db-for-nosql-sdk) |
+| 10 | Exploring Azure Cosmos DB for MongoDB Using the Python SDK | Lab Challenges | Intermediate | 1h | AZ-204, DP-420 | [Link](https://business.whizlabs.com/labs/lab/exploring-azure-cosmos-db-for-mongodb-using-the-python-sdk) |
+| 11 | Exploring Azure Cosmos DB for NoSQL Using the Python SDK | Lab Challenges | Intermediate | 1h | DP-420 | [Link](https://business.whizlabs.com/labs/lab/exploring-azure-cosmos-db-for-nosql-using-the-python-sdk) |
+| 12 | Move multiple documents in bulk with the Azure Cosmos DB for NoSQL SDK | Lab Challenges | Intermediate | 1h | DP-420 | [Link](https://business.whizlabs.com/labs/lab/move-multiple-documents-in-bulk-with-the-azure-cosmos-db-for-nosql-sdk) |
+| 13 | Optimize an Azure Cosmos DB for NoSQL container’s index policy for a specific query | Lab Challenges | Intermediate | 1h 30m | DP-300, DP-420 | [Link](https://business.whizlabs.com/labs/lab/optimize-an-azure-cosmos-db-for-nosql-containers-index-policy-for-a-specific-query) |
+| 14 | Optimize an Azure Cosmos DB for NoSQL container’s indexing policy for common operations | Lab Challenges | Intermediate | 1h | DP-203, DP-420 | [Link](https://business.whizlabs.com/labs/lab/optimize-an-azure-cosmos-db-for-nosql-containers-indexing-policy-for-common-operations) |
+| 15 | Paginate cross-product query results with the Azure Cosmos DB for NoSQL SDK | Lab Challenges | Intermediate | 1h 30m | DP-300, DP-420 | [Link](https://business.whizlabs.com/labs/lab/paginate-cross-product-query-results-with-the-azure-cosmos-db-for-nosql-sdk) |
+| 16 | Process change feed events using the Azure Cosmos DB for NoSQL SDK | Lab Challenges | Intermediate | 1h 30m | DP-420 | [Link](https://business.whizlabs.com/labs/lab/process-change-feed-events-using-the-azure-cosmos-db-for-nosql-sdk) |
+| 17 | Search data using Azure AI Search and Azure Cosmos DB for NoSQL | Lab Challenges | Intermediate | 1h | AI-102, DP-420 | [Link](https://business.whizlabs.com/labs/lab/search-data-using-azure-ai-search-and-azure-cosmos-db-for-nosql) |
+| 18 | Secure Azure Cosmos DB Keys with Azure Key Vault | Lab Challenges | Advanced | 2h | DP-300, AZ-500, DP-420 | [Link](https://business.whizlabs.com/labs/lab/secure-azure-cosmos-db-keys-with-azure-key-vault) |

@@ -1,0 +1,2944 @@
+# Google Fonts - LLM Reference
+
+Scraped: 2026-06-18
+Source: https://fonts.google.com
+Total Fonts: 1945
+
+---
+
+## Top 100 Fonts by Popularity
+
+| Rank | Font Family | Total Views | Designers |
+|------|------------|-------------|-----------|
+| 1 | Roboto | 33,733,405,408,580 | Christian Robertson, ParaType, Font Bureau |
+| 2 | Open Sans | 18,446,679,427,872 | Steve Matteson |
+| 3 | Google Sans | 11,123,291,973,453 | Google |
+| 4 | Lato | 4,991,245,314,547 | Łukasz Dziedzic |
+| 5 | Noto Sans JP | 4,962,223,666,162 | Google |
+| 6 | Montserrat | 4,286,642,397,975 | Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly |
+| 7 | Roboto Condensed | 2,552,771,744,736 | Christian Robertson |
+| 8 | Poppins | 2,399,542,306,628 | Indian Type Foundry, Jonny Pinhorn, Ninad Kale |
+| 9 | Oswald | 2,254,668,046,610 | Vernon Adams, Kalapi Gajjar, Cyreal |
+| 10 | Material Icons | 1,618,557,616,461 | Jesse Kaczmarek |
+| 11 | Inter | 1,554,986,366,848 | Rasmus Andersson |
+| 12 | Raleway | 1,493,216,610,670 | Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida |
+| 13 | Roboto Mono | 1,158,410,047,623 | Christian Robertson |
+| 14 | Noto Sans | 1,120,756,972,611 | Google |
+| 15 | Slabo 27px | 1,111,270,720,214 | John Hudson |
+| 16 | PT Sans | 1,014,593,586,914 | ParaType |
+| 17 | Roboto Slab | 934,175,923,655 | Christian Robertson |
+| 18 | Ubuntu | 916,504,872,104 | Dalton Maag |
+| 19 | Merriweather | 877,510,881,676 | Sorkin Type |
+| 20 | Playfair Display | 706,936,490,344 | Claus Eggers Sørensen |
+| 21 | Lora | 691,054,372,798 | Cyreal |
+| 22 | Nunito | 628,136,517,131 | Vernon Adams, Cyreal, Jacques Le Bailly |
+| 23 | Rubik | 481,814,999,967 | Hubert and Fischer, Meir Sadan, Cyreal, Daniel Grumer, Omaima Dajani |
+| 24 | Nunito Sans | 471,584,492,845 | Vernon Adams, Jacques Le Bailly, Manvel Shmavonyan, Alexei Vanyashin |
+| 25 | Arimo | 439,662,325,537 | Steve Matteson |
+| 26 | Noto Sans KR | 417,381,082,704 | Google |
+| 27 | PT Serif | 404,967,681,017 | ParaType |
+| 28 | Work Sans | 371,649,195,316 | Wei Huang |
+| 29 | Titillium Web | 371,464,819,848 | Accademia di Belle Arti di Urbino |
+| 30 | Fira Sans | 332,371,882,908 | Carrois Apostrophe |
+| 31 | Quicksand | 308,379,272,503 | Andrew Paglinawan |
+| 32 | PT Sans Narrow | 294,249,241,986 | ParaType |
+| 33 | Noto Serif | 290,513,375,645 | Google |
+| 34 | Noto Sans TC | 285,887,461,803 | Google |
+| 35 | Mukta | 277,432,563,692 | Ek Type |
+| 36 | Inconsolata | 272,827,031,719 | Raph Levien |
+| 37 | Kanit | 249,032,931,005 | Cadson Demak |
+| 38 | Nanum Gothic | 233,160,316,084 | Sandoll Communication |
+| 39 | Barlow | 221,781,514,501 | Jeremy Tribby |
+| 40 | Dosis | 221,200,802,232 | Impallari Type |
+| 41 | Karla | 215,293,947,777 | Jonny Pinhorn |
+| 42 | Heebo | 208,958,447,253 | Oded Ezer |
+| 43 | Bitter | 204,006,994,107 | Sol Matas |
+| 44 | Oxygen | 203,480,049,981 | Vernon Adams |
+| 45 | DM Sans | 200,919,003,279 | Colophon Foundry |
+| 46 | Josefin Sans | 200,540,770,080 | Santiago Orozco |
+| 47 | Hind Siliguri | 189,612,507,068 | Indian Type Foundry |
+| 48 | Libre Baskerville | 189,033,359,489 | Impallari Type |
+| 49 | Cabin | 188,016,233,464 | Impallari Type, Rodrigo Fuenzalida |
+| 50 | Mulish | 185,243,573,737 | Vernon Adams, Cyreal, Jacques Le Bailly |
+| 51 | Anton | 183,496,893,985 | Vernon Adams |
+| 52 | Fjalla One | 176,271,223,940 | Sorkin Type, Irina Smirnova |
+| 53 | Lobster | 175,593,550,289 | Impallari Type |
+| 54 | IBM Plex Sans | 172,715,957,980 | Mike Abbink, Bold Monday |
+| 55 | Libre Franklin | 171,311,503,499 | Impallari Type |
+| 56 | Arvo | 154,415,973,942 | Anton Koovit |
+| 57 | Hind | 153,725,733,305 | Indian Type Foundry |
+| 58 | Yanone Kaffeesatz | 153,668,896,106 | Yanone, Cyreal |
+| 59 | Crimson Text | 146,957,681,337 | Sebastian Kosch |
+| 60 | Indie Flower | 144,534,236,824 | Kimberly Geswein |
+| 61 | Dancing Script | 143,999,287,427 | Impallari Type |
+| 62 | Abel | 142,041,212,849 | MADType |
+| 63 | Source Code Pro | 140,057,117,235 | Paul D. Hunt |
+| 64 | Manrope | 139,811,265,348 | Mikhail Sharanda |
+| 65 | Bebas Neue | 136,285,874,905 | Ryoichi Tsunekawa |
+| 66 | Material Icons Outlined | 123,008,627,055 | UNKNOWN |
+| 67 | Exo 2 | 122,947,018,267 | Natanael Gama |
+| 68 | Pacifico | 122,617,772,694 | Vernon Adams, Jacques Le Bailly, Botjo Nikoltchev, Ani Petrova |
+| 69 | EB Garamond | 116,216,671,642 | Georg Duffner, Octavio Pardo |
+| 70 | Varela Round | 112,322,379,737 | Joe Prince |
+| 71 | Cairo | 109,382,263,836 | Mohamed Gaber, Accademia di Belle Arti di Urbino |
+| 72 | Material Symbols Outlined | 107,481,718,748 | UNKNOWN |
+| 73 | Prompt | 105,155,192,853 | Cadson Demak |
+| 74 | Noto Sans SC | 101,449,312,954 | Google |
+| 75 | Shadows Into Light | 101,059,914,677 | Kimberly Geswein |
+| 76 | Merriweather Sans | 98,505,770,077 | Sorkin Type |
+| 77 | Barlow Condensed | 97,443,843,265 | Jeremy Tribby |
+| 78 | Asap | 97,110,553,515 | Omnibus-Type |
+| 79 | Comfortaa | 93,792,933,948 | Johan Aakerlund |
+| 80 | Maven Pro | 90,852,596,119 | Joe Prince |
+| 81 | Teko | 90,850,610,112 | Indian Type Foundry |
+| 82 | Abril Fatface | 84,873,627,781 | TypeTogether |
+| 83 | Play | 84,302,037,544 | Jonas Hecksher |
+| 84 | Archivo | 81,348,113,498 | Omnibus-Type |
+| 85 | Questrial | 80,401,915,318 | Joe Prince, Laura Meseguer |
+| 86 | Bree Serif | 80,037,722,749 | TypeTogether |
+| 87 | Archivo Black | 77,443,581,971 | Omnibus-Type |
+| 88 | Archivo Narrow | 77,020,177,735 | Omnibus-Type |
+| 89 | Jost | 77,016,994,476 | Owen Earl |
+| 90 | Outfit | 76,162,086,775 | Smartsheet Inc, Rodrigo Fuenzalida |
+| 91 | Noto Serif JP | 75,097,866,763 | Google |
+| 92 | Signika | 73,988,413,103 | Anna Giedryś |
+| 93 | Assistant | 73,570,591,496 | Adobe Systems Inc., Ben Nathan |
+| 94 | Catamaran | 69,193,929,997 | Pria Ravichandran |
+| 95 | Overpass | 68,943,959,074 | Delve Withrington, Dave Bailey, Thomas Jockin |
+| 96 | Ubuntu Condensed | 68,307,400,636 | Dalton Maag |
+| 97 | Rajdhani | 67,675,759,378 | Indian Type Foundry |
+| 98 | Exo | 67,372,824,830 | Natanael Gama, Robin Mientjes |
+| 99 | Noto Color Emoji | 67,196,982,029 | Google |
+| 100 | Vollkorn | 65,885,455,131 | Friedrich Althausen |
+
+---
+
+## All Fonts Alphabetical
+
+| Font Family | Total Views | Designers |
+|------------|-------------|-----------|
+| ABeeZee | 44,381,286,956 | Anja Meiners |
+| Abel | 142,041,212,849 | MADType |
+| Abhaya Libre | 9,325,449,749 | Mooniak |
+| Aboreto | 1,255,919,343 | Dominik Jáger |
+| Abril Fatface | 84,873,627,781 | TypeTogether |
+| Abyssinica SIL | 452,943,199 | SIL International |
+| Aclonica | 9,110,771,817 | Astigmatic |
+| Acme | 57,485,106,237 | Juan Pablo del Peral, Huerta Tipográfica |
+| Actor | 17,213,812,509 | Thomas Junold |
+| Adamina | 13,304,599,849 | Cyreal |
+| ADLaM Display | 646,007,125 | Mark Jamra, Neil Patel, Andrew Footit |
+| Advent Pro | 20,633,122,351 | VivaRado |
+| Afacad | 1,044,791,794 | Kristian Möller, Dicotype |
+| Afacad Flux | 575,821,545 | Kristian Möller, Dicotype |
+| Agbalumo | 767,378,170 | Raphael Alẹ́gbẹ́lẹ́yẹ̀, Sorkin Type, Eben Sorkin |
+| Agdasima | 636,398,225 | The DocRepair Project, Patric King |
+| Agu Display | 41,264,516 | Seun Badejo |
+| Aguafina Script | 2,232,354,492 | Sudtipos |
+| Akatab | 258,527,745 | SIL International |
+| Akaya Kanadaka | 417,450,587 | Vaishnavi Murthy, Juan Luis Blanco |
+| Akaya Telivigala | 467,003,335 | Vaishnavi Murthy, Juan Luis Blanco |
+| Akronim | 940,702,169 | Grzegorz Klimczewski |
+| Akshar | 2,086,824,073 | Tall Chai |
+| Akt | 3,922,034 | Dmitry Grenev |
+| Aladin | 4,064,919,141 | Sudtipos |
+| Alan Sans | 50,621,245 | Raphaël Ronot |
+| Alata | 14,365,239,417 | Spyros Zevelakis, Eben Sorkin |
+| Alatsi | 3,365,009,164 | Spyros Zevelakis, Eben Sorkin |
+| Albert Sans | 9,981,824,654 | Andreas Rasmussen |
+| Aldrich | 10,063,528,172 | MADType |
+| Alef | 10,172,321,393 | Hagilda, Mushon Zer-Aviv |
+| Alegreya | 52,359,461,239 | Juan Pablo del Peral, Huerta Tipográfica |
+| Alegreya Sans | 52,052,867,473 | Juan Pablo del Peral, Huerta Tipográfica |
+| Alegreya Sans SC | 12,525,258,753 | Juan Pablo del Peral, Huerta Tipográfica |
+| Alegreya SC | 5,789,215,886 | Juan Pablo del Peral, Huerta Tipográfica |
+| Aleo | 10,345,362,515 | Alessio Laiso |
+| Alex Brush | 12,380,930,886 | Robert Leuschke |
+| Alexandria | 3,603,013,476 | Mohamed Gaber, Julieta Ulanovsky |
+| Alfa Slab One | 53,218,981,807 | JM Solé |
+| Alice | 17,204,614,478 | Ksenya Erulevich, Cyreal |
+| Alien Block | 1,626,536 | Kensuke Uchida |
+| Alike | 4,891,505,800 | Sveta Sebyakina, Cyreal |
+| Alike Angular | 2,482,304,475 | Sveta Sebyakina, Cyreal |
+| Alkalami | 303,046,593 | SIL International |
+| Alkatra | 276,581,011 | Suman Bhandary |
+| Allan | 5,567,121,435 | Anton Koovit |
+| Allerta | 10,536,164,501 | Matt McInerney |
+| Allerta Stencil | 9,594,973,187 | Matt McInerney |
+| Allison | 1,758,403,794 | Robert Leuschke |
+| Allkin | 5,316,003 | Monotype Imaging Inc. |
+| Allura | 15,289,634,776 | Robert Leuschke |
+| Almarai | 29,013,977,437 | Boutros Fonts, Mourad Boutros |
+| Almendra | 1,689,947,471 | Ana Sanfelippo |
+| Almendra Display | 315,570,091 | Ana Sanfelippo |
+| Almendra SC | 500,360,378 | Ana Sanfelippo |
+| Alumni Sans | 4,353,694,206 | Robert Leuschke |
+| Alumni Sans Collegiate One | 97,102,078 | Robert Leuschke |
+| Alumni Sans Inline One | 104,225,704 | Robert Leuschke |
+| Alumni Sans Pinstripe | 96,932,846 | Robert Leuschke |
+| Alumni Sans SC | 15,292,452 | Robert Leuschke |
+| Alyamama | 5,164,812 | Yazeed Omar |
+| Amarante | 1,927,745,314 | Karolina Lach |
+| Amaranth | 19,583,742,156 | Gesine Todt |
+| Amarna | 5,178,981 | Ishtār van Looy |
+| Amatic SC | 59,730,044,760 | Vernon Adams, Ben Nathan, Thomas Jockin |
+| Amethysta | 3,492,884,527 | Cyreal |
+| Amiko | 3,133,659,787 | Impallari Type |
+| Amiri | 37,249,368,372 | Khaled Hosny, Sebastian Kosch |
+| Amiri Quran | 120,899,053 | Khaled Hosny, Sebastian Kosch |
+| Amita | 4,759,854,145 | Eduardo Tunni, Brian Bonislawsky |
+| Anaheim | 3,597,679,353 | Vernon Adams |
+| Ancizar Sans | 24,951,896 | Universidad Nacional de Colombia (UNAL), César Puertas, Viviana Monsalve, Julián Moncada |
+| Ancizar Serif | 24,550,381 | Universidad Nacional de Colombia (UNAL), César Puertas, Viviana Monsalve, Julián Moncada |
+| Andada Pro | 2,972,616,602 | Huerta Tipográfica, Carolina Giovagnoli |
+| Andika | 5,528,663,668 | SIL International |
+| Anek Bangla | 729,959,106 | Ek Type |
+| Anek Devanagari | 1,090,853,209 | Ek Type |
+| Anek Gujarati | 206,024,682 | Ek Type |
+| Anek Gurmukhi | 117,305,908 | Ek Type |
+| Anek Kannada | 140,970,718 | Ek Type |
+| Anek Latin | 1,044,786,255 | Ek Type |
+| Anek Malayalam | 1,001,745,615 | Ek Type |
+| Anek Odia | 74,069,899 | Ek Type |
+| Anek Tamil | 360,521,401 | Ek Type |
+| Anek Telugu | 10,745,720,405 | Ek Type |
+| Angkor | 1,612,395,902 | Danh Hong |
+| Annapurna SIL | 30,518,398 | SIL International |
+| Annie Use Your Telescope | 6,962,239,189 | Kimberly Geswein |
+| Anonymous Pro | 9,097,767,406 | Mark Simonson |
+| Anta | 182,552,218 | Sergej Lebedev |
+| Antic | 9,469,301,267 | Santiago Orozco |
+| Antic Didone | 2,152,730,232 | Santiago Orozco |
+| Antic Slab | 32,770,410,984 | Santiago Orozco |
+| Anton | 183,496,893,985 | Vernon Adams |
+| Anton SC | 979,339,402 | Vernon Adams |
+| Antonio | 6,073,010,454 | Vernon Adams |
+| Anuphan | 2,268,808,100 | Cadson Demak |
+| Anybody | 571,453,345 | Tyler Finck |
+| Aoboshi One | 214,410,423 | Natsumi Matsuba |
+| AR One Sans | 457,622,144 | Niteesh Yadav |
+| Arapey | 17,180,971,911 | Eduardo Tunni |
+| Arbutus | 490,046,576 | Karolina Lach |
+| Arbutus Slab | 8,389,438,734 | Karolina Lach |
+| Architects Daughter | 38,496,724,464 | Kimberly Geswein |
+| Archivo | 81,348,113,498 | Omnibus-Type |
+| Archivo Black | 77,443,581,971 | Omnibus-Type |
+| Archivo Narrow | 77,020,177,735 | Omnibus-Type |
+| Are You Serious | 48,003,231 | Robert Leuschke |
+| Aref Ruqaa | 1,808,827,832 | Abdullah Aref, Khaled Hosny, Hermann Zapf |
+| Aref Ruqaa Ink | 73,314,469 | Abdullah Aref, Khaled Hosny, Hermann Zapf |
+| Arima | 427,938,269 | Natanael Gama, Joana Correia, Rosalie Wagner |
+| Arimo | 439,662,325,537 | Steve Matteson |
+| Arizonia | 4,955,551,834 | Robert Leuschke |
+| Armata | 21,349,683,463 | Viktoriya Grabowska |
+| Arsenal | 10,516,945,876 | Andrij Shevchenko |
+| Arsenal SC | 52,594,710 | Andrij Shevchenko |
+| Artifika | 2,331,154,963 | Cyreal |
+| Arvo | 154,415,973,942 | Anton Koovit |
+| Arya | 1,982,662,595 | Eduardo Tunni |
+| Asap | 97,110,553,515 | Omnibus-Type |
+| Asap Condensed | 23,080,511,089 | Omnibus-Type |
+| Asar | 741,564,266 | Sorkin Type |
+| Asimovian | 9,331,702 | Carolina Short |
+| Asset | 858,451,972 | Riccardo De Franceschi, Eben Sorkin |
+| Assistant | 73,570,591,496 | Adobe Systems Inc., Ben Nathan |
+| Asta Sans | 48,762,454 | 42dot |
+| Astloch | 855,303,289 | Dan Rhatigan |
+| Asul | 1,645,382,511 | Mariela Monsalve |
+| Athiti | 4,441,737,425 | Cadson Demak |
+| Atkinson Hyperlegible | 6,242,767,476 | Braille Institute, Applied Design Works, Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky |
+| Atkinson Hyperlegible Mono | 73,852,184 | Braille Institute, Applied Design Works, Elliott Scott, Megan Eiswerth, Letters From Sweden |
+| Atkinson Hyperlegible Next | 515,631,725 | Braille Institute, Applied Design Works, Elliott Scott, Megan Eiswerth, Letters From Sweden |
+| Atma | 1,448,910,093 | Black Foundry |
+| Atomic Age | 819,444,904 | James Grieshaber |
+| Aubrey | 473,872,294 | Cyreal |
+| Audiowide | 17,686,901,875 | Astigmatic |
+| Autour One | 775,684,720 | Sorkin Type |
+| Average | 7,373,652,769 | Eduardo Tunni |
+| Average Sans | 6,021,997,352 | Eduardo Tunni |
+| Averia Gruesa Libre | 941,852,741 | Dan Sayers |
+| Averia Libre | 3,282,942,788 | Dan Sayers |
+| Averia Sans Libre | 2,317,812,993 | Dan Sayers |
+| Averia Serif Libre | 5,064,093,555 | Dan Sayers |
+| Azeret Mono | 1,171,724,477 | Displaay, Martin Vácha |
+| B612 | 1,773,213,115 | PolarSys, Nicolas Chauveau, Thomas Paillot, Jonathan Favre-Lamarine, Jean-Luc Vinot |
+| B612 Mono | 1,735,354,137 | Nicolas Chauveau, Thomas Paillot, Jonathan Favre-Lamarine, Jean-Luc Vinot |
+| Babylonica | 88,137,687 | Robert Leuschke |
+| Bacasime Antique | 70,193,152 | The DocRepair Project, Claus Eggers Sørensen |
+| Bad Script | 15,131,982,133 | Gaslight |
+| Badeen Display | 59,629,364 | Hani Alasadi |
+| Bagel Fat One | 106,490,986 | Kyungwon Kim, JAMO |
+| Bahiana | 333,054,276 | Omnibus-Type |
+| Bahianita | 170,927,713 | Omnibus-Type |
+| Bai Jamjuree | 8,344,387,699 | Cadson Demak |
+| Bakbak One | 652,952,586 | Saumya Kishore, Sanchit Sawaria |
+| Ballet | 148,741,451 | Omnibus-Type, Maximiliano Sproviero |
+| Baloo 2 | 14,726,630,316 | Ek Type |
+| Baloo Bhai 2 | 755,765,635 | Ek Type |
+| Baloo Bhaijaan 2 | 3,261,743,059 | Ek Type |
+| Baloo Bhaina 2 | 659,024,040 | Ek Type |
+| Baloo Chettan 2 | 2,135,626,365 | Ek Type |
+| Baloo Da 2 | 2,017,329,757 | Ek Type |
+| Baloo Paaji 2 | 1,908,738,952 | Ek Type |
+| Baloo Tamma 2 | 1,780,416,172 | Ek Type |
+| Baloo Tammudu 2 | 737,381,771 | Ek Type |
+| Baloo Thambi 2 | 1,491,140,428 | Ek Type |
+| Balsamiq Sans | 14,104,090,711 | Michael Angeles |
+| Balthazar | 2,720,968,168 | Dario Manuel Muhafara |
+| Bangers | 28,919,328,374 | Vernon Adams |
+| Barlow | 221,781,514,501 | Jeremy Tribby |
+| Barlow Condensed | 97,443,843,265 | Jeremy Tribby |
+| Barlow Semi Condensed | 44,233,457,668 | Jeremy Tribby |
+| Barriecito | 876,087,098 | Omnibus-Type |
+| Barrio | 632,033,216 | Omnibus-Type |
+| Basic | 11,022,150,961 | Magnus Gaarde |
+| Baskervville | 7,646,657,618 | ANRT |
+| Baskervville SC | 128,796,712 | ANRT |
+| Battambang | 2,368,113,431 | Danh Hong |
+| Baumans | 3,218,733,021 | Cyreal |
+| Bayon | 958,520,509 | Danh Hong |
+| BBH Bartle | 17,987,641 | Studio DRAMA |
+| BBH Bogle | 13,791,295 | Studio DRAMA |
+| BBH Hegarty | 8,650,703 | Studio DRAMA |
+| Be Vietnam Pro | 15,915,207,880 | Lâm Bảo, Tony Le, ViệtAnh Nguyễn |
+| Beau Rivage | 225,563,198 | Robert Leuschke |
+| Bebas Neue | 136,285,874,905 | Ryoichi Tsunekawa |
+| Beiruti | 53,250,634 | Boutros Fonts, Arlette Boutros, Volker Schnebel |
+| Belanosima | 1,109,302,475 | The DocRepair Project, Santiago Orozco |
+| Belgrano | 3,131,944,253 | LatinoType |
+| Bellefair | 2,779,855,814 | Nick Shinn, Liron Lavi Turkenic |
+| Belleza | 6,563,213,704 | Eduardo Tunni |
+| Bellota | 706,524,636 | Kemie Guaida |
+| Bellota Text | 1,339,594,609 | Kemie Guaida |
+| BenchNine | 21,945,085,052 | Vernon Adams |
+| Benne | 280,529,406 | John Harrington |
+| Bentham | 4,790,426,189 | Ben Weiner |
+| Berkshire Swash | 13,581,708,956 | Astigmatic |
+| Besley | 1,520,491,350 | Owen Earl |
+| Betania Patmos | 1,918,065 | Carolina Giovagnoli |
+| Betania Patmos GDL | 1,683,326 | Carolina Giovagnoli |
+| Betania Patmos In | 1,856,460 | Carolina Giovagnoli |
+| Betania Patmos In GDL | 1,739,638 | Carolina Giovagnoli |
+| Beth Ellen | 436,964,329 | Rob Jelinski, Alyson Fraser Diaz |
+| Bevan | 13,800,984,993 | Vernon Adams |
+| BhuTuka Expanded One | 513,821,885 | Erin McLaughlin |
+| Big Shoulders | 256,779,683 | Patric King |
+| Big Shoulders Inline | 13,333,573 | Patric King |
+| Big Shoulders Stencil | 45,816,610 | Patric King |
+| Bigelow Rules | 441,618,708 | Astigmatic |
+| Bigshot One | 1,334,438,910 | Gesine Todt |
+| Bilbo | 1,297,363,021 | Robert Leuschke |
+| Bilbo Swash Caps | 2,206,113,413 | TypeSETit |
+| BioRhyme | 2,772,152,493 | Aoife Mooney |
+| BioRhyme Expanded | 152,820,145 | Aoife Mooney |
+| Birthstone | 620,115,918 | Robert Leuschke |
+| Birthstone Bounce | 285,605,842 | Robert Leuschke |
+| Biryani | 5,214,480,691 | Dan Reynolds, Mathieu Réguer |
+| Bitcount | 11,063,355 | Petr van Blokland |
+| Bitcount Grid Double | 51,135,474 | Petr van Blokland |
+| Bitcount Grid Double Ink | 8,768,285 | Petr van Blokland |
+| Bitcount Grid Single | 19,800,417 | Petr van Blokland |
+| Bitcount Grid Single Ink | 4,398,714 | Petr van Blokland |
+| Bitcount Ink | 5,841,713 | Petr van Blokland |
+| Bitcount Prop Double | 7,194,375 | Petr van Blokland |
+| Bitcount Prop Double Ink | 10,817,512 | Petr van Blokland |
+| Bitcount Prop Single | 16,175,538 | Petr van Blokland |
+| Bitcount Prop Single Ink | 7,831,743 | Petr van Blokland |
+| Bitcount Single | 21,701,832 | Petr van Blokland |
+| Bitcount Single Ink | 7,435,297 | Petr van Blokland |
+| Bitter | 204,006,994,107 | Sol Matas |
+| BIZ UDGothic | 1,040,965,055 | Type Bank Co., Morisawa Inc. |
+| BIZ UDMincho | 182,035,658 | Type Bank Co., Morisawa Inc. |
+| BIZ UDPGothic | 4,517,521,675 | Type Bank Co., Morisawa Inc. |
+| BIZ UDPMincho | 689,144,210 | Type Bank Co., Morisawa Inc. |
+| BJCree | 6,028,040 | SIL International |
+| Black And White Picture | 425,232,427 | AsiaSoft Inc. |
+| Black Han Sans | 6,509,513,712 | Zess Type |
+| Black Ops One | 18,241,988,632 | James Grieshaber, Eben Sorkin |
+| Blaka | 82,689,095 | Mohamed Gaber |
+| Blaka Hollow | 29,362,482 | Mohamed Gaber |
+| Blaka Ink | 19,495,847 | Mohamed Gaber |
+| Blinker | 5,980,364,524 | Juergen Huber |
+| Bodoni Moda | 14,002,245,822 | Owen Earl |
+| Bodoni Moda SC | 115,403,892 | Owen Earl |
+| Bokor | 701,491,563 | Danh Hong |
+| Boldonse | 99,538,627 | Universitype |
+| Bona Nova | 414,325,243 | Capitalics, Mateusz Machalski, Andrzej Heidrich |
+| Bona Nova SC | 688,088,622 | Capitalics, Mateusz Machalski, Andrzej Heidrich |
+| Bonbon | 259,718,406 | Cyreal |
+| Bonheur Royale | 168,794,579 | Robert Leuschke |
+| Boogaloo | 13,303,587,962 | John Vargas Beltrán |
+| Borel | 216,649,031 | Rosalie Wagner |
+| Bowlby One | 5,383,994,191 | Vernon Adams |
+| Bowlby One SC | 7,612,589,311 | Vernon Adams |
+| Bpmf Huninn | 5,717,128 | But Ko, justfont |
+| Bpmf Iansui | 4,573,518 | But Ko |
+| Bpmf Zihi Kai Std | 5,127,216 | But Ko |
+| Braah One | 164,206,060 | Ashish Kumar |
+| Brawler | 4,011,874,343 | Cyreal |
+| Bree Serif | 80,037,722,749 | TypeTogether |
+| Bricolage Grotesque | 19,845,147,424 | Mathieu Triay |
+| Bruno Ace | 85,871,580 | Astigmatic |
+| Bruno Ace SC | 191,792,498 | Astigmatic |
+| Brygada 1918 | 1,770,484,691 | Capitalics, Mateusz Machalski, Borys Kosmynka, Ania Wieluńska, Przemysław Hoffer |
+| Bubblegum Sans | 7,043,141,732 | Sudtipos |
+| Bubbler One | 1,278,547,825 | Brenda Gallo |
+| Buda | 1,276,437,686 | Adèle Antignac |
+| Buenard | 3,355,415,917 | Gustavo Ibarra |
+| Bungee | 21,518,605,858 | David Jonathan Ross |
+| Bungee Hairline | 266,338,516 | David Jonathan Ross |
+| Bungee Inline | 3,931,781,041 | David Jonathan Ross |
+| Bungee Outline | 261,491,055 | David Jonathan Ross |
+| Bungee Shade | 2,216,186,628 | David Jonathan Ross |
+| Bungee Spice | 737,211,462 | David Jonathan Ross |
+| Bungee Tint | 78,400,392 | David Jonathan Ross |
+| Butcherman | 329,630,268 | Typomondo |
+| Butterfly Kids | 373,192,572 | Tart Workshop |
+| Bytesized | 9,764,395 | Baltdev |
+| Cabin | 188,016,233,464 | Impallari Type, Rodrigo Fuenzalida |
+| Cabin Condensed | 22,339,116,039 | Impallari Type |
+| Cabin Sketch | 9,677,068,217 | Impallari Type |
+| Cactus Classical Serif | 76,331,416 | Henry Chan, Tian Haidong, Moonlit Owen |
+| Caesar Dressing | 1,027,609,711 | Open Window |
+| Cagliostro | 1,118,084,293 | MADType |
+| Cairo | 109,382,263,836 | Mohamed Gaber, Accademia di Belle Arti di Urbino |
+| Cairo Play | 469,716,778 | Mohamed Gaber, Accademia di Belle Arti di Urbino |
+| Cal Sans | 184,066,670 | Mark Davis, Cal.com Inc. |
+| Caladea | 2,360,431,426 | Andrés Torresi, Carolina Giovanolli |
+| Calistoga | 3,907,439,159 | Yvonne Schüttler, Sorkin Type, Eben Sorkin |
+| Calligraffitti | 10,602,135,697 | Open Window |
+| Cambay | 4,681,626,862 | Pooja Saxena |
+| Cambo | 3,067,878,910 | Huerta Tipográfica |
+| Candal | 18,348,910,905 | Vernon Adams |
+| Cantarell | 34,533,359,401 | Dave Crossland |
+| Cantata One | 12,264,689,007 | Joana Correia |
+| Cantora One | 2,299,617,228 | Impallari Type |
+| Caprasimo | 2,050,188,205 | The DocRepair Project, Phaedra Charles, Flavia Zimbardi |
+| Capriola | 5,406,525,663 | Viktoriya Grabowska |
+| Caramel | 106,345,523 | Robert Leuschke |
+| Carattere | 320,682,650 | Robert Leuschke |
+| Cardo | 35,960,893,148 | David Perry |
+| Carlito | 417,332,627 | Łukasz Dziedzic |
+| Carme | 7,431,241,780 | Rubén Prol |
+| Carrois Gothic | 7,207,221,576 | Carrois Apostrophe |
+| Carrois Gothic SC | 2,262,563,732 | Carrois Apostrophe |
+| Carter One | 13,883,719,249 | Vernon Adams |
+| Cascadia Code | 37,190,317 | Aaron Bell, Mohamad Dakak, Viktoriya Grabowska, Liron Lavi Turkenich |
+| Cascadia Mono | 71,477,528 | Aaron Bell, Mohamad Dakak, Viktoriya Grabowska, Liron Lavi Turkenich |
+| Castoro | 3,815,176,878 | Tiro Typeworks, John Hudson, Paul Hanslow, Kaja Słojewska |
+| Castoro Titling | 122,276,679 | Tiro Typeworks, John Hudson |
+| Catamaran | 69,193,929,997 | Pria Ravichandran |
+| Caudex | 6,257,111,495 | Nidud |
+| Cause | 7,378,796 | Saurabh Sharma |
+| Caveat | 59,038,006,395 | Impallari Type |
+| Caveat Brush | 8,112,331,847 | Impallari Type |
+| Cedarville Cursive | 5,267,130,133 | Kimberly Geswein |
+| Ceviche One | 4,505,386,017 | Miguel Hernandez |
+| Chakra Petch | 33,502,159,399 | Cadson Demak |
+| Changa | 23,825,986,074 | Eduardo Tunni |
+| Changa One | 29,293,648,962 | Eduardo Tunni |
+| Chango | 2,843,371,280 | Fontstage |
+| Charis SIL | 525,961,860 | SIL International |
+| Charm | 4,040,117,037 | Cadson Demak |
+| Charmonman | 791,511,714 | Cadson Demak |
+| Chathura | 534,965,846 | Appaji Ambarisha Darbha |
+| Chau Philomene One | 2,655,700,723 | Vicente Lamónaca |
+| Chela One | 598,080,318 | Miguel Hernandez |
+| Chelsea Market | 4,507,751,220 | Tart Workshop |
+| Chenla | 252,271,665 | Danh Hong |
+| Cherish | 41,155,309 | Robert Leuschke |
+| Cherry Bomb One | 335,188,301 | Satsuyako |
+| Cherry Cream Soda | 7,357,557,904 | Font Diner |
+| Cherry Swash | 1,833,238,281 | Nataliya Kasatkina |
+| Chewy | 19,943,860,426 | Sideshow |
+| Chicle | 1,072,309,512 | Sudtipos |
+| Chilanka | 349,039,638 | SMC, Santhosh Thottingal |
+| Chiron GoRound TC | 79,658,055 | Tamcy |
+| Chiron Hei HK | 19,814,275 | Tamcy |
+| Chiron Sung HK | 18,804,935 | Tamcy |
+| Chivo | 28,000,297,205 | Omnibus-Type |
+| Chivo Mono | 906,251,909 | Omnibus-Type |
+| Chocolate Classical Sans | 151,869,265 | Moonlit Owen |
+| Chokokutai | 24,012,398 | Font Zone 108 |
+| Chonburi | 3,456,467,109 | Cadson Demak |
+| Cinzel | 50,105,183,132 | Natanael Gama |
+| Cinzel Decorative | 7,622,118,926 | Natanael Gama |
+| Clicker Script | 2,907,593,324 | Astigmatic |
+| Climate Crisis | 135,749,221 | Daniel Coull, Eino Korkala |
+| Coda | 11,670,037,342 | Vernon Adams |
+| Codystar | 2,402,681,428 | Neapolitan |
+| Coiny | 1,360,516,020 | Marcelo Magalhães |
+| Combo | 347,555,369 | Eduardo Tunni |
+| Comfortaa | 93,792,933,948 | Johan Aakerlund |
+| Comforter | 253,360,778 | Robert Leuschke |
+| Comforter Brush | 503,837,337 | Robert Leuschke |
+| Comic Neue | 7,510,555,694 | Craig Rozynski, Hrant Papazian |
+| Comic Relief | 122,797,120 | Jeff Davis |
+| Coming Soon | 17,988,114,838 | Open Window |
+| Comme | 134,038,586 | Vernon Adams |
+| Commissioner | 8,882,844,394 | Kostas Bartsokas |
+| Concert One | 25,817,497,657 | Johan Kallas, Mihkel Virkus |
+| Condiment | 1,465,502,093 | Sudtipos |
+| Content | 629,240,169 | Danh Hong |
+| Contrail One | 7,359,913,714 | Riccardo De Franceschi |
+| Convergence | 5,243,345,678 | Nicolás Silva, John Vargas Beltrán |
+| Cookie | 27,802,565,870 | Ania Kruk |
+| Copse | 9,307,631,929 | Dan Rhatigan |
+| Coral Pixels | 10,286,182 | Tanukizamurai |
+| Corben | 5,637,971,177 | Vernon Adams |
+| Corinthia | 582,798,275 | Robert Leuschke |
+| Cormorant | 21,816,017,916 | Christian Thalmann |
+| Cormorant Garamond | 63,520,328,888 | Christian Thalmann |
+| Cormorant Infant | 4,396,659,915 | Christian Thalmann |
+| Cormorant SC | 2,915,581,212 | Christian Thalmann |
+| Cormorant Unicase | 1,111,493,572 | Christian Thalmann |
+| Cormorant Upright | 2,210,779,175 | Christian Thalmann |
+| Cossette Texte | 8,070,184 | Cossette |
+| Cossette Titre | 12,914,373 | Cossette |
+| Courgette | 38,055,209,688 | Karolina Lach |
+| Courier Prime | 8,576,349,142 | Alan Dague-Greene |
+| Cousine | 11,721,604,208 | Steve Matteson |
+| Coustard | 8,173,592,303 | Vernon Adams |
+| Covered By Your Grace | 16,851,603,205 | Kimberly Geswein |
+| Crafty Girls | 12,051,668,715 | Tart Workshop |
+| Creepster | 9,679,095,950 | Sideshow |
+| Crete Round | 46,447,416,047 | TypeTogether |
+| Crimson Pro | 12,749,600,272 | Jacques Le Bailly |
+| Crimson Text | 146,957,681,337 | Sebastian Kosch |
+| Croissant One | 1,347,876,560 | Eduardo Tunni |
+| Crushed | 4,499,062,265 | Astigmatic |
+| Cuprum | 50,262,786,111 | Jovanny Lemonad |
+| Cute Font | 549,808,034 | TypoDesign Lab. Inc |
+| Cutive | 5,454,253,674 | Vernon Adams |
+| Cutive Mono | 6,096,039,110 | Vernon Adams |
+| Dai Banna SIL | 52,244,143 | SIL International |
+| Damion | 13,529,085,196 | Vernon Adams |
+| Dancing Script | 143,999,287,427 | Impallari Type |
+| Danfo | 35,733,581 | Afrotype, Seyi Olusanya, Eyiyemi Adegbite, David Udoh, Mirko Velimirović |
+| Dangrek | 565,579,823 | Danh Hong |
+| Darker Grotesque | 3,348,302,088 | Gabriel Lam, ViệtAnh Nguyễn |
+| Darumadrop One | 146,892,025 | Maniackers Design |
+| Datatype | 6,156,171 | Frank Tisellano |
+| David Libre | 3,303,697,382 | Monotype Imaging Inc., SIL International, Meir Sadan |
+| Dawning of a New Day | 3,393,001,870 | Kimberly Geswein |
+| Days One | 10,547,712,776 | Jovanny Lemonad |
+| Dekko | 1,020,060,308 | Sorkin Type |
+| Dela Gothic One | 4,542,398,424 | artakana |
+| Delicious Handrawn | 327,897,621 | Agung Rohmat |
+| Delius | 7,531,415,123 | Natalia Raices |
+| Delius Swash Caps | 2,374,433,074 | Natalia Raices |
+| Delius Unicase | 2,165,743,610 | Natalia Raices |
+| Della Respira | 1,780,942,696 | Nathan Willis |
+| Denk One | 3,656,468,202 | Sorkin Type |
+| Devonshire | 566,822,378 | Astigmatic |
+| Dhurjati | 179,253,278 | Purushoth Kumar Guttula |
+| Didact Gothic | 34,111,171,728 | Daniel Johnson, Cyreal |
+| Diphylleia | 95,106,807 | Minha Hyung, JAMO |
+| Diplomata | 528,796,696 | Eduardo Tunni |
+| Diplomata SC | 456,648,664 | Eduardo Tunni |
+| DM Mono | 8,284,321,088 | Colophon Foundry |
+| DM Sans | 200,919,003,279 | Colophon Foundry |
+| DM Serif Display | 34,680,417,657 | Colophon Foundry |
+| DM Serif Text | 14,031,534,306 | Colophon Foundry |
+| Do Hyeon | 4,987,377,989 | Woowahan Brothers |
+| Dokdo | 1,083,200,230 | FONTRIX |
+| Domine | 55,726,233,340 | Impallari Type |
+| Donegal One | 1,218,738,958 | Gary Lonergan |
+| Dongle | 1,487,913,204 | Yanghee Ryu |
+| Doppio One | 5,973,083,586 | Szymon Celej |
+| Dorsa | 1,546,663,680 | Santiago Orozco |
+| Dosis | 221,200,802,232 | Impallari Type |
+| DotGothic16 | 1,159,212,333 | Fontworks Inc. |
+| Doto | 146,215,797 | Óliver Lalan |
+| Dr Sugiyama | 484,709,780 | Sudtipos |
+| Duru Sans | 4,114,360,544 | Onur Yazıcıgil |
+| Dynalight | 1,718,444,142 | Astigmatic |
+| DynaPuff | 522,378,039 | Toshi Omagari, Jennifer Daniel |
+| Eagle Lake | 833,959,900 | Astigmatic |
+| East Sea Dokdo | 557,276,839 | YoonDesign Inc |
+| Eater | 3,021,341,494 | Typomondo |
+| EB Garamond | 116,216,671,642 | Georg Duffner, Octavio Pardo |
+| Economica | 21,258,845,878 | Vicente Lamónaca |
+| Eczar | 11,662,168,538 | Rosetta, Vaibhav Singh |
+| Edu AU VIC WA NT Arrows | 13,905,401 | Tina Anderson, Corey Anderson |
+| Edu AU VIC WA NT Dots | 31,512,879 | Tina Anderson, Corey Anderson |
+| Edu AU VIC WA NT Guides | 38,818,866 | Tina Anderson, Corey Anderson |
+| Edu AU VIC WA NT Hand | 82,462,345 | Tina Anderson, Corey Anderson |
+| Edu AU VIC WA NT Pre | 44,660,388 | Tina Anderson, Corey Anderson |
+| Edu NSW ACT Cursive | 54,275,763 | Tina Anderson, Corey Anderson |
+| Edu NSW ACT Foundation | 120,944,342 | Tina Anderson, Corey Anderson |
+| Edu NSW ACT Hand Pre | 7,173,409 | Tina Anderson, Corey Anderson |
+| Edu QLD Beginner | 42,429,675 | Tina Anderson, Corey Anderson |
+| Edu QLD Hand | 5,851,507 | Tina Anderson, Corey Anderson |
+| Edu SA Beginner | 428,948,218 | Tina Anderson, Corey Anderson |
+| Edu SA Hand | 9,940,536 | Tina Anderson, Corey Anderson |
+| Edu TAS Beginner | 208,606,946 | Tina Anderson, Corey Anderson |
+| Edu VIC WA NT Beginner | 109,949,398 | Tina Anderson, Corey Anderson |
+| Edu VIC WA NT Hand | 5,896,202 | Tina Anderson, Corey Anderson |
+| Edu VIC WA NT Hand Pre | 5,852,994 | Tina Anderson, Corey Anderson |
+| El Messiri | 14,014,608,794 | Mohamed Gaber, Jovanny Lemonad |
+| Electrolize | 12,563,096,318 | Gaslight |
+| Elms Sans | 15,276,419 | Amarachi Nwauwa, Gida Type Studio |
+| Elsie | 1,595,618,705 | Alejandro Inler |
+| Elsie Swash Caps | 718,651,267 | Alejandro Inler |
+| Emblema One | 424,214,709 | Riccardo De Franceschi |
+| Emilys Candy | 2,055,827,121 | Neapolitan |
+| Encode Sans | 19,218,674,942 | Impallari Type, Andres Torresi, Jacques Le Bailly |
+| Encode Sans Condensed | 15,562,218,481 | Impallari Type, Andres Torresi, Jacques Le Bailly |
+| Encode Sans Expanded | 2,019,039,466 | Impallari Type, Andres Torresi, Jacques Le Bailly |
+| Encode Sans SC | 167,886,366 | Impallari Type, Andres Torresi, Jacques Le Bailly |
+| Encode Sans Semi Condensed | 2,136,590,380 | Impallari Type, Andres Torresi, Jacques Le Bailly |
+| Encode Sans Semi Expanded | 1,348,704,462 | Impallari Type, Andres Torresi, Jacques Le Bailly |
+| Engagement | 1,715,063,137 | Astigmatic |
+| Englebert | 2,085,440,541 | Astigmatic |
+| Enriqueta | 11,873,615,639 | FontFuror |
+| Ephesis | 919,042,572 | Robert Leuschke |
+| Epilogue | 7,322,221,681 | Tyler Finck, ETC |
+| Epunda Sans | 21,686,620 | Typofactur |
+| Epunda Slab | 9,008,045 | Typofactur |
+| Erica One | 363,351,268 | Miguel Hernandez |
+| Esteban | 2,615,343,636 | Angélica Díaz |
+| Estedad | 8,176,465 | Amin Abedi, Fontamin |
+| Estonia | 41,562,589 | Robert Leuschke |
+| Euphoria Script | 2,600,152,611 | Sabrina Mariela Lopez |
+| Ewert | 652,201,178 | Johan Kallas, Mihkel Virkus |
+| Exile | 9,229,902 | Bartłomiej Rózga |
+| Exo | 67,372,824,830 | Natanael Gama, Robin Mientjes |
+| Exo 2 | 122,947,018,267 | Natanael Gama |
+| Expletus Sans | 3,051,082,687 | Designtown |
+| Explora | 65,828,709 | Robert Leuschke |
+| Faculty Glyphic | 89,315,618 | Koto Studio |
+| Fahkwang | 1,753,716,285 | Cadson Demak |
+| Familjen Grotesk | 993,601,715 | Familjen STHLM AB |
+| Fanwood Text | 4,480,179,162 | Barry Schwartz |
+| Farro | 1,349,808,036 | Grayscale |
+| Farsan | 728,181,309 | Pooja Saxena |
+| Fascinate | 589,086,409 | Astigmatic |
+| Fascinate Inline | 640,160,091 | Astigmatic |
+| Faster One | 2,122,010,201 | Eduardo Tunni |
+| Fasthand | 430,183,409 | Danh Hong, Neapolitan |
+| Fauna One | 7,603,403,053 | Eduardo Tunni |
+| Faustina | 11,091,635,974 | Omnibus-Type |
+| Federant | 534,115,193 | Cyreal |
+| Federo | 3,303,912,744 | Cyreal |
+| Felipa | 501,841,777 | Fontstage |
+| Fenix | 1,996,737,584 | Fernando Díaz |
+| Festive | 235,118,217 | Robert Leuschke |
+| Figtree | 57,385,485,919 | Erik Kennedy |
+| Finger Paint | 2,811,211,299 | Carrois Apostrophe |
+| Finlandica Headline | 5,084,529 | Helsinki Type Studio, Niklas Ekholm, Juho Hiilivirta, Jaakko Suomalainen |
+| Finlandica Text | 4,415,082 | Helsinki Type Studio, Niklas Ekholm, Juho Hiilivirta, Jaakko Suomalainen |
+| Fira Code | 5,139,860,480 | The Mozilla Foundation, Telefonica S.A., Nikita Prokopov |
+| Fira Mono | 7,295,964,349 | Carrois Apostrophe |
+| Fira Sans | 332,371,882,908 | Carrois Apostrophe |
+| Fira Sans Condensed | 57,973,747,680 | Carrois Apostrophe |
+| Fira Sans Extra Condensed | 16,974,443,011 | Carrois Apostrophe |
+| Fjalla One | 176,271,223,940 | Sorkin Type, Irina Smirnova |
+| Fjord One | 3,135,810,225 | Viktoriya Grabowska |
+| Flamenco | 1,717,752,575 | LatinoType |
+| Flavors | 391,418,737 | Sideshow |
+| Fleur De Leah | 82,140,189 | Robert Leuschke |
+| Flow Block | 59,850,312 | Dan Ross |
+| Flow Circular | 579,197,741 | Dan Ross |
+| Flow Rounded | 81,189,064 | Dan Ross |
+| Foldit | 68,921,164 | Sophia Tai |
+| Fondamento | 2,929,615,087 | Astigmatic |
+| Fontdiner Swanky | 5,121,477,695 | Font Diner |
+| Forum | 10,884,830,882 | Denis Masharov |
+| Fragment Mono | 639,125,660 | Wei Huang, URW Design Studio |
+| Francois One | 64,466,957,877 | Vernon Adams |
+| Frank Ruhl Libre | 31,300,891,337 | Yanek Iontef |
+| Fraunces | 7,232,512,747 | Undercase Type, Phaedra Charles, Flavia Zimbardi |
+| Freckle Face | 4,205,501,954 | Astigmatic |
+| Fredericka the Great | 8,528,115,703 | Tart Workshop |
+| Fredoka | 10,679,898,837 | Milena Brandão, Hafontia |
+| Freehand | 846,080,614 | Danh Hong |
+| Freeman | 182,253,047 | Rodrigo Fuenzalida, Aoife Mooney, Vernon Adams |
+| Fresca | 2,175,418,298 | Fontstage |
+| Frijole | 3,168,506,245 | Sideshow |
+| Fruktur | 267,142,939 | Viktoriya Grabowska, Eben Sorkin |
+| Fugaz One | 15,598,905,909 | LatinoType |
+| Fuggles | 515,354,649 | Robert Leuschke |
+| Funnel Display | 374,215,000 | NORD ID, Kristian Möller |
+| Funnel Sans | 559,608,131 | NORD ID, Kristian Möller |
+| Fustat | 627,296,945 | Mohamed Gaber, Laura Garcia Mut, Khaled Hosny |
+| Fuzzy Bubbles | 423,957,609 | Robert Leuschke |
+| Ga Maamli | 262,323,740 | Afotey Clement Nii Odai, Ama Diaka, David Abbey-Thompson |
+| Gabarito | 2,008,551,564 | Naipe Foundry, Leandro Assis, Álvaro Franca, Felipe Casaprima |
+| Gabriela | 3,717,243,334 | Eduardo Tunni |
+| Gaegu | 963,418,795 | JIKJI SOFT |
+| Gafata | 2,205,849,943 | Lautaro Hourcade |
+| Gajraj One | 29,689,641 | Saurabh Sharma |
+| Galada | 1,904,639,010 | Black Foundry |
+| Galdeano | 915,789,682 | Dario Manuel Muhafara |
+| Galindo | 855,427,786 | Astigmatic |
+| Gamja Flower | 895,261,968 | YoonDesign Inc |
+| Gantari | 963,841,018 | Lafontype |
+| Gasoek One | 104,470,742 | Jiashuo Zhang, JAMO |
+| Gayathri | 702,734,721 | SMC, Binoy Dominic |
+| Geist | 4,071,836,851 | Andrés Briganti, Mateo Zaragoza, Guillermo Rauch, Evil Rabbit, José Rago, Facundo Santana |
+| Geist Mono | 2,465,834,206 | Andrés Briganti, Mateo Zaragoza, Guillermo Rauch, Evil Rabbit, José Rago, Facundo Santana |
+| Gelasio | 10,392,437,566 | Eben Sorkin |
+| Gemunu Libre | 503,704,704 | Mooniak |
+| Genos | 273,412,529 | Robert Leuschke |
+| Gentium Book Plus | 209,137,108 | SIL International |
+| Gentium Plus | 331,849,450 | SIL International |
+| Geo | 3,005,534,313 | Ben Weiner |
+| Geologica | 6,477,271,851 | Monokrom, Sindre Bremnes, Frode Helland |
+| Geom | 48,371,608 | Thanos Poulakidas |
+| Georama | 2,418,922,787 | Production Type |
+| Geostar | 468,771,064 | Joe Prince |
+| Geostar Fill | 646,170,571 | Joe Prince |
+| Germania One | 2,408,283,300 | John Vargas Beltrán |
+| GFS Didot | 6,131,277,071 | Greek Font Society |
+| GFS Neohellenic | 705,198,839 | Greek Font Society |
+| Gideon Roman | 113,304,634 | Robert Leuschke |
+| Gidole | 56,425,185 | Andreas Larsen |
+| Gidugu | 238,498,674 | Purushoth Kumar Guttula |
+| Gilda Display | 8,274,021,115 | Eduardo Tunni |
+| Girassol | 378,754,230 | Liam Spradlin |
+| Give You Glory | 3,835,219,648 | Kimberly Geswein |
+| Glass Antiqua | 749,290,392 | Denis Masharov |
+| Glegoo | 13,036,199,331 | Eduardo Tunni |
+| Gloock | 1,096,838,471 | Duarte Pinto |
+| Gloria Hallelujah | 44,898,470,037 | Kimberly Geswein |
+| Glory | 1,248,803,114 | Robert Leuschke |
+| Gluten | 624,400,250 | Tyler Finck, ETC |
+| Goblin One | 1,428,859,603 | Riccardo De Franceschi |
+| Gochi Hand | 13,329,034,722 | Huerta Tipográfica |
+| Goldman | 2,335,407,259 | Jaikishan Patel |
+| Golos Text | 3,384,785,990 | Alexandra Korolkova, Vitaly Kuzmin |
+| Google Sans | 11,123,291,973,453 | Google |
+| Google Sans Code | 4,268,174,467 | Google, Universal Thirst |
+| Google Sans Flex | 6,110,825,604 | Google |
+| Gorditas | 798,085,391 | Gustavo Dipre |
+| Gothic A1 | 18,866,457,186 | HanYang I&C Co |
+| Gotu | 811,766,959 | Ek Type |
+| Goudy Bookletter 1911 | 7,324,374,934 | Barry Schwartz |
+| Gowun Batang | 1,098,588,758 | Yanghee Ryu |
+| Gowun Dodum | 566,639,441 | Yanghee Ryu |
+| Graduate | 5,720,873,886 | Eduardo Tunni |
+| Grand Hotel | 5,985,749,933 | Astigmatic |
+| Grandiflora One | 30,134,875 | Haesung Cho, JAMO |
+| Grandstander | 2,699,395,612 | Tyler Finck, ETC |
+| Grape Nuts | 617,991,530 | Robert Leuschke |
+| Gravitas One | 13,435,990,953 | Riccardo De Franceschi |
+| Great Vibes | 36,310,695,904 | Robert Leuschke |
+| Grechen Fuemen | 65,573,120 | Robert Leuschke |
+| Grenze | 393,152,117 | Omnibus-Type |
+| Grenze Gotisch | 1,659,606,260 | Omnibus-Type |
+| Grey Qo | 85,278,618 | Robert Leuschke |
+| Griffy | 1,090,474,569 | Neapolitan |
+| Gruppo | 14,179,353,817 | Vernon Adams |
+| Gudea | 24,151,069,765 | Agustina Mingote |
+| Gugi | 1,640,606,113 | TAE System & Typefaces Co. |
+| Gulzar | 238,529,957 | Borna Izadpanah, Fiona Ross, Alice Savoie, Simon Cozens |
+| Gupter | 712,559,202 | Octavio Pardo |
+| Gurajada | 2,652,585,876 | Purushoth Kumar Guttula |
+| Gveret Levin | 2,084,077 | AlefAlefAlef |
+| Gwendolyn | 169,331,333 | Robert Leuschke |
+| Habibi | 1,292,747,173 | Magnus Gaarde |
+| Hachi Maru Pop | 1,364,241,197 | Nonty |
+| Hahmlet | 1,142,150,704 | Hypertype |
+| Halant | 5,003,480,623 | Indian Type Foundry |
+| Hammersmith One | 26,472,899,353 | Nicole Fally |
+| Hanalei | 162,581,471 | Astigmatic |
+| Hanalei Fill | 843,963,640 | Astigmatic |
+| Handjet | 137,491,387 | Rosetta, David Březina |
+| Handlee | 21,826,782,096 | Joe Prince |
+| Hanken Grotesk | 5,006,392,290 | Alfredo Marco Pradil, Hanken Design Co. |
+| Hanuman | 5,611,160,788 | Danh Hong |
+| Happy Monkey | 4,535,042,169 | Brenda Gallo |
+| Harmattan | 1,999,487,254 | SIL International |
+| Headland One | 2,813,982,726 | Gary Lonergan |
+| Hedvig Letters Sans | 78,002,608 | Kanon Foundry, Alexander Örn, Tor Weibull, Hedvig |
+| Hedvig Letters Serif | 204,634,905 | Kanon Foundry, Alexander Örn, Tor Weibull, Hedvig |
+| Heebo | 208,958,447,253 | Oded Ezer |
+| Henny Penny | 2,419,173,057 | Brownfox |
+| Hepta Slab | 1,960,507,604 | Mike LaGattuta |
+| Herr Von Muellerhoff | 4,858,921,366 | Sudtipos |
+| Hi Melody | 1,307,371,576 | YoonDesign Inc |
+| Hina Mincho | 698,699,302 | Satsuyako |
+| Hind | 153,725,733,305 | Indian Type Foundry |
+| Hind Guntur | 11,346,032,341 | Indian Type Foundry |
+| Hind Madurai | 49,394,562,663 | Indian Type Foundry |
+| Hind Mysuru | 23,571,858 | Indian Type Foundry |
+| Hind Siliguri | 189,612,507,068 | Indian Type Foundry |
+| Hind Vadodara | 14,815,493,937 | Indian Type Foundry |
+| Holtwood One SC | 5,004,424,038 | Vernon Adams |
+| Homemade Apple | 16,429,908,379 | Font Diner |
+| Homenaje | 5,555,479,005 | Constanza Artigas Preller, Agustina Mingote |
+| Honk | 481,005,721 | Ek Type |
+| Host Grotesk | 631,478,810 | Element Type, Doğukan Karapınar, İbrahim Kaçtıoğlu |
+| Hubballi | 110,821,383 | Erin McLaughlin |
+| Hubot Sans | 116,263,431 | Tobias Bjerrome Ahlin, Github, Degarism Studio, Sebastian Carewe |
+| Huninn | 22,189,602 | justfont |
+| Hurricane | 813,211,604 | Robert Leuschke |
+| Iansui | 25,192,679 | But Ko |
+| Ibarra Real Nova | 2,101,029,457 | José María Ribagorda, Octavio Pardo |
+| IBM Plex Mono | 39,792,269,834 | Mike Abbink, Bold Monday |
+| IBM Plex Sans | 172,715,957,980 | Mike Abbink, Bold Monday |
+| IBM Plex Sans Arabic | 20,675,475,080 | Mike Abbink, Bold Monday, Khajag Apelian, Wael Morcos |
+| IBM Plex Sans Condensed | 10,078,799,579 | Mike Abbink, Bold Monday |
+| IBM Plex Sans Devanagari | 212,490,165 | Mike Abbink, Bold Monday |
+| IBM Plex Sans Hebrew | 515,920,719 | Mike Abbink, Bold Monday |
+| IBM Plex Sans JP | 3,795,735,723 | Mike Abbink, Bold Monday |
+| IBM Plex Sans KR | 1,253,791,036 | Mike Abbink, Bold Monday |
+| IBM Plex Sans Thai | 2,305,934,819 | Mike Abbink, Bold Monday |
+| IBM Plex Sans Thai Looped | 283,885,367 | Mike Abbink, Bold Monday |
+| IBM Plex Serif | 46,514,156,171 | Mike Abbink, Bold Monday |
+| Iceberg | 1,055,546,088 | Cyreal |
+| Iceland | 2,416,138,236 | Cyreal |
+| Idiqlat | 2,138,760 | SIL International |
+| IM Fell Double Pica | 3,302,182,704 | Igino Marini |
+| IM Fell Double Pica SC | 989,912,870 | Igino Marini |
+| IM Fell DW Pica | 3,807,431,333 | Igino Marini |
+| IM Fell DW Pica SC | 1,578,144,047 | Igino Marini |
+| IM Fell English | 4,700,763,360 | Igino Marini |
+| IM Fell English SC | 4,029,184,883 | Igino Marini |
+| IM Fell French Canon | 1,667,593,870 | Igino Marini |
+| IM Fell French Canon SC | 1,396,488,608 | Igino Marini |
+| IM Fell Great Primer | 1,336,268,438 | Igino Marini |
+| IM Fell Great Primer SC | 1,172,165,710 | Igino Marini |
+| Imbue | 515,997,033 | Tyler Finck, ETC |
+| Imperial Script | 187,587,045 | Robert Leuschke |
+| Imprima | 2,754,194,238 | Eduardo Tunni |
+| Inclusive Sans | 169,250,218 | Olivia King |
+| Inconsolata | 272,827,031,719 | Raph Levien |
+| Inder | 4,436,243,891 | Sorkin Type |
+| Indie Flower | 144,534,236,824 | Kimberly Geswein |
+| Ingrid Darling | 26,404,882 | Robert Leuschke |
+| Inika | 1,024,941,792 | Constanza Artigas |
+| Inknut Antiqua | 1,553,959,925 | Claus Eggers Sørensen |
+| Inria Sans | 1,692,013,792 | Grégori Vincens, Jérémie Hornus |
+| Inria Serif | 1,309,645,710 | Grégori Vincens, Jérémie Hornus |
+| Inspiration | 145,222,049 | Robert Leuschke |
+| Instrument Sans | 6,158,232,495 | Rodrigo Fuenzalida, Jordan Egstad |
+| Instrument Serif | 7,255,045,787 | Rodrigo Fuenzalida, Jordan Egstad |
+| Intel One Mono | 10,687,400 | Intel Corporation, Frere-Jones Type |
+| Inter | 1,554,986,366,848 | Rasmus Andersson |
+| Inter Tight | 19,015,405,374 | Rasmus Andersson |
+| Iosevka Charon | 11,915,183 | Juliette Pluto |
+| Iosevka Charon Mono | 6,705,184 | Juliette Pluto |
+| Irish Grover | 2,197,699,266 | Sideshow |
+| Island Moments | 115,934,223 | Robert Leuschke |
+| Istok Web | 28,229,657,525 | Andrey V. Panov |
+| Italiana | 2,949,895,760 | Santiago Orozco |
+| Italianno | 10,942,589,459 | Robert Leuschke |
+| Itim | 12,360,091,844 | Cadson Demak |
+| Jacquard 12 | 82,150,941 | Sarah Cadigan-Fried |
+| Jacquard 12 Charted | 18,291,955 | Sarah Cadigan-Fried |
+| Jacquard 24 | 44,167,402 | Sarah Cadigan-Fried |
+| Jacquard 24 Charted | 7,771,515 | Sarah Cadigan-Fried |
+| Jacquarda Bastarda 9 | 31,596,990 | Sarah Cadigan-Fried |
+| Jacquarda Bastarda 9 Charted | 8,210,267 | Sarah Cadigan-Fried |
+| Jacques Francois | 694,844,177 | Cyreal |
+| Jacques Francois Shadow | 716,207,034 | Cyreal |
+| Jaini | 40,482,745 | Ek Type |
+| Jaini Purva | 11,292,464 | Ek Type |
+| Jaldi | 8,347,802,350 | Omnibus-Type |
+| Jaro | 228,150,522 | Agyei Archer, Céline Hurka, Mirko Velimirović |
+| Jersey 10 | 189,884,787 | Sarah Cadigan-Fried |
+| Jersey 10 Charted | 9,846,707 | Sarah Cadigan-Fried |
+| Jersey 15 | 164,479,421 | Sarah Cadigan-Fried |
+| Jersey 15 Charted | 8,492,995 | Sarah Cadigan-Fried |
+| Jersey 20 | 53,930,205 | Sarah Cadigan-Fried |
+| Jersey 20 Charted | 18,041,928 | Sarah Cadigan-Fried |
+| Jersey 25 | 238,561,782 | Sarah Cadigan-Fried |
+| Jersey 25 Charted | 9,554,551 | Sarah Cadigan-Fried |
+| JetBrains Mono | 10,813,610,798 | JetBrains, Philipp Nurullin, Konstantin Bulenkov |
+| Jim Nightshade | 468,335,268 | Astigmatic |
+| Joan | 182,498,985 | Paolo Biagini |
+| Jockey One | 8,397,411,103 | TypeTogether |
+| Jolly Lodger | 849,274,901 | Font Diner |
+| Jomhuria | 1,424,804,499 | KB Studio |
+| Jomolhari | 424,432,216 | Christopher J. Fynn |
+| Josefin Sans | 200,540,770,080 | Santiago Orozco |
+| Josefin Slab | 32,456,598,570 | Santiago Orozco |
+| Jost | 77,016,994,476 | Owen Earl |
+| Joti One | 687,549,602 | Eduardo Tunni |
+| Jua | 3,526,768,615 | Woowahan Brothers |
+| Judson | 7,165,657,222 | Daniel Johnson |
+| Julee | 2,839,483,997 | Julián Tunni |
+| Julius Sans One | 13,348,495,146 | Luciano Vergara |
+| Junge | 1,274,684,489 | Cyreal |
+| Jura | 17,379,107,921 | Daniel Johnson, Cyreal |
+| Just Another Hand | 10,487,160,226 | Astigmatic |
+| Just Me Again Down Here | 5,066,713,787 | Kimberly Geswein |
+| K2D | 3,376,576,639 | Cadson Demak |
+| Kablammo | 230,563,469 | Vectro Type Foundry, Travis Kochel, Lizy Gershenzon, Daria Cohen, Ethan Cohen |
+| Kadwa | 2,794,488,301 | Sol Matas |
+| Kaisei Decol | 1,610,766,982 | Font-Kai |
+| Kaisei HarunoUmi | 233,720,526 | Font-Kai |
+| Kaisei Opti | 669,865,814 | Font-Kai |
+| Kaisei Tokumin | 548,911,247 | Font-Kai |
+| Kalam | 32,530,307,635 | Indian Type Foundry |
+| Kalnia | 614,328,720 | Frida Medrano |
+| Kalnia Glaze | 32,686,280 | Frida Medrano |
+| Kameron | 9,670,394,710 | Vernon Adams |
+| Kanchenjunga | 7,796,819 | Becca Hirsbrunner Spalinger |
+| Kanit | 249,032,931,005 | Cadson Demak |
+| Kantumruy Pro | 509,584,626 | Tep Sovichet, Wei Huang |
+| Kapakana | 60,124,023 | Kousuke Nagai |
+| Karantina | 320,366,637 | Rony Koch |
+| Karla | 215,293,947,777 | Jonny Pinhorn |
+| Karla Tamil Inclined | 10,616,854 | Jonathan Pinhorn |
+| Karla Tamil Upright | 11,413,309 | Jonathan Pinhorn |
+| Karma | 9,528,661,831 | Indian Type Foundry |
+| Katibeh | 1,271,934,700 | KB Studio |
+| Kaushan Script | 34,654,245,274 | Impallari Type |
+| Kavivanar | 499,040,117 | Tharique Azeez |
+| Kavoon | 1,401,511,691 | Viktoriya Grabowska |
+| Kay Pho Du | 21,049,787 | SIL International |
+| Kdam Thmor Pro | 461,328,631 | Tep Sovichet, Hak Longdey |
+| Keania One | 749,401,094 | Julia Petretta |
+| Kedebideri | 7,170,411 | SIL International |
+| Kelly Slab | 4,476,740,407 | Denis Masharov |
+| Kenia | 895,560,036 | Julia Petretta |
+| Khand | 19,749,783,096 | Indian Type Foundry |
+| Khmer | 1,665,540,652 | Danh Hong |
+| Khula | 12,936,252,043 | Erin McLaughlin |
+| Kings | 45,311,283 | Robert Leuschke |
+| Kirang Haerang | 258,943,487 | Woowahan Brothers |
+| Kite One | 2,270,053,176 | Eduardo Tunni |
+| Kiwi Maru | 2,286,021,831 | Hiroki-Chan |
+| Klee One | 1,387,787,575 | Fontworks Inc. |
+| Knewave | 5,554,977,630 | Tyler Finck |
+| Kodchasan | 1,100,575,799 | Cadson Demak |
+| Kode Mono | 272,646,341 | Isa Ozler |
+| Koh Santepheap | 168,950,350 | Danh Hong |
+| KoHo | 1,429,031,988 | Cadson Demak |
+| Kolker Brush | 50,143,756 | Robert Leuschke |
+| Konkhmer Sleokchher | 71,195,166 | Suon May Sophanith |
+| Kosugi | 2,677,199,722 | MOTOYA |
+| Kosugi Maru | 8,768,559,837 | MOTOYA |
+| Kotta One | 2,801,989,724 | Ania Kruk |
+| Koulen | 3,186,751,122 | Danh Hong |
+| Kranky | 3,079,144,147 | Sideshow |
+| Kreon | 17,666,946,277 | Julia Petretta |
+| Kristi | 5,250,668,371 | Birgit Pulk |
+| Krona One | 5,352,116,672 | Yvonne Schüttler |
+| Krub | 7,505,336,652 | Cadson Demak |
+| Kufam | 888,229,358 | Original Type, Wael Morcos, Artur Schmal |
+| Kulim Park | 460,483,121 | Dale Sattler |
+| Kumar One | 554,911,703 | Indian Type Foundry |
+| Kumar One Outline | 226,662,428 | Indian Type Foundry |
+| Kumbh Sans | 7,297,397,417 | Saurabh Sharma |
+| Kurale | 3,386,273,881 | Eduardo Tunni |
+| La Belle Aurore | 5,187,484,004 | Kimberly Geswein |
+| Labrada | 78,652,901 | Mercedes Jáuregui, Omnibus-Type |
+| Lacquer | 416,494,793 | Niki Polyocan, Eli Block |
+| Laila | 5,437,054,236 | Indian Type Foundry |
+| Lakki Reddy | 501,873,706 | Appaji Ambarisha Darbha |
+| Lalezar | 10,595,542,810 | Borna Izadpanah |
+| Lancelot | 731,109,452 | Marion Kadi |
+| Langar | 101,896,971 | Typeland, Alessia Mazzarella |
+| Lateef | 6,211,419,336 | SIL International |
+| Lato | 4,991,245,314,547 | Łukasz Dziedzic |
+| Lavishly Yours | 184,707,359 | Robert Leuschke |
+| League Gothic | 4,356,338,469 | Tyler Finck, Caroline Hadilaksono, Micah Rich |
+| League Script | 1,673,948,173 | Haley Fiege |
+| League Spartan | 10,057,319,915 | Matt Bailey, Tyler Finck |
+| Leckerli One | 9,633,210,697 | Gesine Todt |
+| Ledger | 2,030,383,844 | Denis Masharov |
+| Lekton | 4,567,448,189 | ISIA Urbino |
+| Lemon | 4,791,119,956 | Eduardo Tunni |
+| Lemonada | 5,577,592,907 | Mohamed Gaber, Eduardo Tunni |
+| Lexend | 29,984,423,993 | Bonnie Shaver-Troup, Thomas Jockin, Santiago Orozco, Héctor Gómez, Superunion |
+| Lexend Deca | 19,115,989,832 | Bonnie Shaver-Troup, Thomas Jockin, Santiago Orozco, Héctor Gómez, Superunion |
+| Lexend Exa | 1,317,979,353 | Bonnie Shaver-Troup, Thomas Jockin, Santiago Orozco, Héctor Gómez, Superunion |
+| Lexend Giga | 2,409,171,839 | Bonnie Shaver-Troup, Thomas Jockin, Santiago Orozco, Héctor Gómez, Superunion |
+| Lexend Mega | 377,228,594 | Bonnie Shaver-Troup, Thomas Jockin, Santiago Orozco, Héctor Gómez, Superunion |
+| Lexend Peta | 677,932,583 | Bonnie Shaver-Troup, Thomas Jockin, Santiago Orozco, Héctor Gómez, Superunion |
+| Lexend Tera | 199,709,615 | Bonnie Shaver-Troup, Thomas Jockin, Santiago Orozco, Héctor Gómez, Superunion |
+| Lexend Zetta | 1,215,270,649 | Bonnie Shaver-Troup, Thomas Jockin, Santiago Orozco, Héctor Gómez, Superunion |
+| Libertinus Keyboard | 5,510,774 | Philipp H. Poll |
+| Libertinus Math | 16,166,206 | Philipp H. Poll |
+| Libertinus Mono | 14,253,749 | Philipp H. Poll |
+| Libertinus Sans | 24,814,910 | Philipp H. Poll |
+| Libertinus Serif | 18,672,781 | Philipp H. Poll |
+| Libertinus Serif Display | 6,531,972 | Philipp H. Poll |
+| Libre Barcode 128 | 1,022,856,136 | Lasse Fister |
+| Libre Barcode 128 Text | 489,681,932 | Lasse Fister |
+| Libre Barcode 39 | 6,859,029,986 | Lasse Fister |
+| Libre Barcode 39 Extended | 272,573,094 | Lasse Fister |
+| Libre Barcode 39 Extended Text | 861,782,842 | Lasse Fister |
+| Libre Barcode 39 Text | 1,060,926,226 | Lasse Fister |
+| Libre Barcode EAN13 Text | 106,235,070 | Lasse Fister |
+| Libre Baskerville | 189,033,359,489 | Impallari Type |
+| Libre Bodoni | 3,858,871,597 | Pablo Impallari, Rodrigo Fuenzalida |
+| Libre Caslon Display | 1,039,492,000 | Impallari Type |
+| Libre Caslon Text | 9,129,271,628 | Impallari Type |
+| Libre Franklin | 171,311,503,499 | Impallari Type |
+| Licorice | 462,624,536 | Robert Leuschke |
+| Life Savers | 1,930,092,983 | Impallari Type |
+| Lilex | 5,147,058 | Mike Abbink, Paul van der Laan, Pieter van Rosmalen, Mikhael Khrustik |
+| Lilita One | 32,650,635,390 | Juan Montoreano |
+| Lily Script One | 2,715,679,955 | Julia Petretta |
+| Limelight | 7,919,794,448 | Nicole Fally, Sorkin Type |
+| Linden Hill | 1,057,943,504 | Barry Schwartz |
+| LINE Seed JP | 618,499,964 | LY Corporation, Fontrix, Fontworks |
+| Linefont | 21,082,819 | Dmitry Ivanov |
+| Lisu Bosa | 21,778,915 | SIL International |
+| Liter | 67,270,331 | Anton Skugarov, Alexandr Ivanin |
+| Literata | 8,479,079,830 | TypeTogether |
+| Liu Jian Mao Cao | 338,993,596 | Liu Zhengjiang, Kimberly Geswein, ZhongQi |
+| Livvic | 2,660,425,405 | LV=, Jacques Le Bailly |
+| Lobster | 175,593,550,289 | Impallari Type |
+| Lobster Two | 48,019,793,369 | Impallari Type |
+| Londrina Outline | 1,271,307,502 | Marcelo Magalhães |
+| Londrina Shadow | 648,277,492 | Marcelo Magalhães |
+| Londrina Sketch | 389,365,866 | Marcelo Magalhães |
+| Londrina Solid | 7,676,304,482 | Marcelo Magalhães |
+| Long Cang | 304,419,572 | Chen Xiaomin |
+| Lora | 691,054,372,798 | Cyreal |
+| Love Light | 63,198,563 | Robert Leuschke |
+| Love Ya Like A Sister | 5,764,994,068 | Kimberly Geswein |
+| Loved by the King | 3,212,964,685 | Kimberly Geswein |
+| Lovers Quarrel | 1,242,595,484 | Robert Leuschke |
+| Luckiest Guy | 29,847,939,536 | Astigmatic |
+| Lugrasimo | 103,506,239 | The DocRepair Project, Astigmatic |
+| Lumanosimo | 160,334,155 | The DocRepair Project, Eduardo Tunni |
+| Lunasima | 51,778,384 | The DocRepair Project, Google |
+| Lusitana | 15,032,143,309 | Ana Paula Megda |
+| Lustria | 7,968,579,748 | MADType |
+| Luxurious Roman | 95,249,563 | Robert Leuschke |
+| Luxurious Script | 158,767,275 | Robert Leuschke |
+| LXGW Marker Gothic | 12,025,431 | LXGW |
+| LXGW WenKai Mono TC | 50,545,582 | LXGW |
+| LXGW WenKai TC | 66,441,276 | LXGW |
+| M PLUS 1 | 2,765,076,599 | Coji Morishita |
+| M PLUS 1 Code | 394,572,528 | Coji Morishita |
+| M PLUS 1p | 35,191,176,212 | Coji Morishita, M+ Fonts Project |
+| M PLUS 2 | 1,390,157,264 | Coji Morishita |
+| M PLUS Code Latin | 46,970,716 | Coji Morishita |
+| M PLUS Rounded 1c | 54,447,590,095 | Coji Morishita, M+ Fonts Project |
+| M PLUS U | 7,889,338 | Coji Morishita |
+| Ma Shan Zheng | 1,505,954,505 | Ma ShanZheng |
+| Macondo | 5,691,734,165 | John Vargas Beltrán |
+| Macondo Swash Caps | 857,189,744 | John Vargas Beltrán |
+| Mada | 7,730,652,891 | Khaled Hosny, Paul D. Hunt |
+| Madimi One | 394,745,121 | Taurai Valerie Mtake, Mirko Velimirović |
+| Magra | 7,166,772,225 | FontFuror |
+| Maiden Orange | 2,346,194,789 | Astigmatic |
+| Maitree | 3,208,208,714 | Cadson Demak |
+| Major Mono Display | 1,518,576,648 | Emre Parlak |
+| Mako | 4,096,021,810 | Vernon Adams |
+| Mali | 6,035,331,517 | Cadson Demak |
+| Mallanna | 3,300,184,751 | Purushoth Kumar Guttula |
+| Maname | 11,704,431 | Pathum Egodawatta, Mooniak |
+| Mandali | 5,285,869,803 | Purushoth Kumar Guttula |
+| Manjari | 2,179,422,018 | Santhosh Thottingal |
+| Manrope | 139,811,265,348 | Mikhail Sharanda |
+| Mansalva | 1,648,478,540 | Carolina Short |
+| Manuale | 846,578,371 | Omnibus-Type |
+| Manufacturing Consent | 32,720,123 | Fredrick Brennan |
+| Marcellus | 22,127,307,767 | Astigmatic |
+| Marcellus SC | 6,839,231,505 | Astigmatic |
+| Marck Script | 18,615,506,163 | Denis Masharov |
+| Margarine | 795,478,182 | Astigmatic |
+| Marhey | 148,098,705 | Nur Syamsi, Bustanul Arifin |
+| Markazi Text | 5,428,981,204 | Borna Izadpanah, Florian Runge, Fiona Ross |
+| Marko One | 653,437,257 | Cyreal |
+| Marmelad | 7,877,487,216 | Cyreal, Manvel Shmavonyan |
+| Martel | 32,672,912,143 | Dan Reynolds |
+| Martel Sans | 7,275,967,738 | Dan Reynolds, Mathieu Réguer |
+| Martian Mono | 446,943,143 | Roman Shamin, Evil Martians |
+| Marvel | 9,372,587,737 | Carolina Trebol |
+| Matangi | 9,549,780 | The Graphic Ant |
+| Mate | 9,192,525,010 | Eduardo Tunni |
+| Mate SC | 6,907,905,849 | Eduardo Tunni |
+| Matemasie | 28,379,465 | Adam Yeo |
+| Material Icons | 1,618,557,616,461 | Jesse Kaczmarek |
+| Material Icons Outlined | 123,008,627,055 | UNKNOWN |
+| Material Icons Round | 61,094,005,409 | UNKNOWN |
+| Material Icons Sharp | 42,144,849,355 | UNKNOWN |
+| Material Icons Two Tone | 34,955,299,147 | UNKNOWN |
+| Material Symbols | 887,718,909 | UNKNOWN |
+| Material Symbols Outlined | 107,481,718,748 | UNKNOWN |
+| Material Symbols Rounded | 47,242,278,311 | UNKNOWN |
+| Material Symbols Sharp | 4,599,129,729 | UNKNOWN |
+| Maven Pro | 90,852,596,119 | Joe Prince |
+| McLaren | 2,786,293,746 | Astigmatic |
+| Mea Culpa | 137,166,658 | Robert Leuschke |
+| Meddon | 2,875,921,705 | Vernon Adams |
+| MedievalSharp | 1,819,582,789 | Wojciech Kalinowski |
+| Medula One | 1,726,787,659 | LatinoType |
+| Meera Inimai | 1,029,854,519 | SMC |
+| Megrim | 3,626,353,412 | Daniel Johnson |
+| Meie Script | 865,295,570 | Johan Kallas, Mihkel Virkus |
+| Menbere | 12,593,613 | Aleme Tadesse, Sorkin Type, Eben Sorkin |
+| Meow Script | 428,691,012 | Robert Leuschke |
+| Merienda | 18,298,175,849 | Eduardo Tunni |
+| Merriweather | 877,510,881,676 | Sorkin Type |
+| Merriweather Sans | 98,505,770,077 | Sorkin Type |
+| Metal | 373,360,659 | Danh Hong |
+| Metal Mania | 718,831,265 | Open Window |
+| Metamorphous | 4,125,444,925 | James Grieshaber |
+| Metrophobic | 5,882,333,965 | Vernon Adams |
+| Michroma | 15,502,347,931 | Vernon Adams |
+| Micro 5 | 74,718,620 | Sarah Cadigan-Fried |
+| Micro 5 Charted | 11,535,183 | Sarah Cadigan-Fried |
+| Milonga | 1,199,656,979 | Impallari Type |
+| Miltonian | 653,339,734 | Impallari Type |
+| Miltonian Tattoo | 1,327,136,160 | Impallari Type |
+| Mina | 916,203,012 | Suman Bhandary, Natanael Gama, Mooniak |
+| Mingzat | 69,195,704 | SIL International |
+| Miniver | 1,124,877,286 | Open Window |
+| Miranda Sans | 4,419,571 | Max Thunberg |
+| Miriam Libre | 4,233,294,480 | Michal Sahar |
+| Mirza | 1,920,938,916 | KB Studio |
+| Miss Fajardose | 335,028,117 | Sudtipos |
+| Mitr | 12,537,297,179 | Cadson Demak |
+| Mochiy Pop One | 1,032,844,685 | FONTDASU |
+| Mochiy Pop P One | 424,300,163 | FONTDASU |
+| Modak | 1,479,106,208 | Ek Type |
+| Modern Antiqua | 1,041,469,608 | Wojciech Kalinowski |
+| Moderustic | 56,992,692 | Tural Alisoy |
+| Mogra | 941,527,640 | Lipi Raval |
+| Mohave | 381,945,113 | Gumpita Rahayu |
+| Moirai One | 36,473,636 | Jiyeon Park, JAMO |
+| Molengo | 11,470,745,692 | Denis Jacquerye |
+| Molle | 642,761,850 | Elena Albertoni |
+| Momo Signature | 46,393,901 | Type Associates |
+| Momo Trust Display | 21,021,791 | Type Associates |
+| Momo Trust Sans | 14,841,795 | Type Associates |
+| Mona Sans | 945,206,000 | Tobias Bjerrome Ahlin, Github, Degarism Studio, Sebastian Carewe |
+| Monda | 34,051,484,930 | Vernon Adams |
+| Monofett | 1,260,482,865 | Vernon Adams |
+| Monomakh | 51,773,785 | Aleksandr Andreev, Nikita Simmons |
+| Monomaniac One | 681,942,504 | Maniackers Design |
+| Monoton | 14,899,365,185 | Vernon Adams |
+| Monsieur La Doulaise | 2,397,744,038 | Sudtipos |
+| Montaga | 1,577,301,977 | Alejandra Rodriguez |
+| Montagu Slab | 891,889,605 | Florian Karsten |
+| MonteCarlo | 428,057,050 | Robert Leuschke |
+| Montez | 4,023,241,723 | Astigmatic |
+| Montserrat | 4,286,642,397,975 | Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly |
+| Montserrat Alternates | 26,553,880,220 | Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly |
+| Montserrat Underline | 65,226,181 | Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly |
+| Moo Lah Lah | 35,558,048 | Robert Leuschke |
+| Mooli | 207,879,978 | Vernon Adams |
+| Moon Dance | 398,152,286 | Robert Leuschke |
+| Moul | 887,883,019 | Danh Hong |
+| Moulpali | 196,104,552 | Danh Hong |
+| Mountains of Christmas | 3,902,487,371 | Tart Workshop |
+| Mouse Memoirs | 3,277,210,674 | Astigmatic |
+| Mozilla Headline | 25,197,791 | Studio DRAMA |
+| Mozilla Text | 35,409,049 | Studio DRAMA |
+| Mr Bedfort | 282,245,013 | Sudtipos |
+| Mr Dafoe | 9,881,258,920 | Sudtipos |
+| Mr De Haviland | 3,492,005,301 | Sudtipos |
+| Mrs Saint Delafield | 4,151,329,949 | Sudtipos |
+| Mrs Sheppards | 547,117,260 | Sudtipos |
+| Ms Madi | 1,513,679,204 | Robert Leuschke |
+| Mukta | 277,432,563,692 | Ek Type |
+| Mukta Mahee | 1,271,132,534 | Ek Type |
+| Mukta Malar | 8,582,340,703 | Ek Type |
+| Mukta Vaani | 3,189,944,418 | Ek Type |
+| Mulish | 185,243,573,737 | Vernon Adams, Cyreal, Jacques Le Bailly |
+| Murecho | 958,949,260 | Neil Summerour |
+| MuseoModerno | 1,479,863,137 | Omnibus-Type |
+| My Soul | 108,551,293 | Robert Leuschke |
+| Mynerve | 160,573,888 | Carolina Short |
+| Mystery Quest | 1,329,883,634 | Sideshow |
+| Nabla | 84,627,967 | Arthur Reinders Folmer, Just van Rossum |
+| Namdhinggo | 22,866,144 | SIL International |
+| Nanum Brush Script | 4,331,327,188 | Sandoll Communication |
+| Nanum Gothic | 233,160,316,084 | Sandoll Communication |
+| Nanum Gothic Coding | 18,441,015,503 | Sandoll Communication |
+| Nanum Myeongjo | 40,100,333,294 | Sandoll Communication |
+| Nanum Pen Script | 8,585,039,785 | Sandoll Communication |
+| Narnoor | 16,859,492 | SIL International |
+| Nata Sans | 79,866,281 | Daniel Uzquiano |
+| National Park | 44,385,021 | Andrea Herstowski, Ben Hoepner, Jeremy Shellhorn |
+| Neonderthaw | 100,979,333 | Robert Leuschke |
+| Nerko One | 856,153,042 | Nermin Kahrimanovic |
+| Neucha | 16,869,173,966 | Jovanny Lemonad |
+| Neuton | 22,537,453,241 | Brian Zick |
+| New Amsterdam | 76,325,236 | Vladimir Nikolic |
+| New Rocker | 918,398,833 | Impallari Type |
+| New Tegomin | 224,790,769 | Kousuke Nagai |
+| News Cycle | 36,631,723,256 | Nathan Willis |
+| Newsreader | 6,060,311,831 | Production Type |
+| Niconne | 8,714,865,683 | Vernon Adams |
+| Niramit | 5,491,854,666 | Cadson Demak |
+| Nixie One | 7,812,751,543 | Jovanny Lemonad |
+| Nobile | 15,199,630,588 | Vernon Adams |
+| Nokora | 1,225,905,668 | Danh Hong |
+| Norican | 5,624,231,388 | Vernon Adams |
+| Nosifer | 1,223,960,926 | Typomondo |
+| Notable | 1,129,791,417 | Eli Block, Hana Tanimura, Noemie Le Coz |
+| Nothing You Could Do | 13,032,903,340 | Kimberly Geswein |
+| Noticia Text | 38,118,720,954 | JM Solé |
+| Noto Color Emoji | 67,196,982,029 | Google |
+| Noto Emoji | 904,627,822 | Google |
+| Noto Kufi Arabic | 17,470,812,186 | Google |
+| Noto Music | 132,045,828 | Google |
+| Noto Naskh Arabic | 7,210,486,538 | Google |
+| Noto Nastaliq Urdu | 2,537,264,754 | Google |
+| Noto Rashi Hebrew | 78,580,819 | Google |
+| Noto Sans | 1,120,756,972,611 | Google |
+| Noto Sans Adlam | 77,496,539 | Google |
+| Noto Sans Adlam Unjoined | 33,950,299 | Google |
+| Noto Sans Anatolian Hieroglyphs | 170,023,181 | Google |
+| Noto Sans Arabic | 30,090,209,519 | Google |
+| Noto Sans Armenian | 577,865,516 | Google |
+| Noto Sans Avestan | 36,260,992 | Google |
+| Noto Sans Balinese | 28,620,026 | Google |
+| Noto Sans Bamum | 22,230,071 | Google |
+| Noto Sans Bassa Vah | 15,472,295 | Google |
+| Noto Sans Batak | 36,230,788 | Google |
+| Noto Sans Bengali | 5,760,850,854 | Google |
+| Noto Sans Bhaiksuki | 22,976,001 | Google |
+| Noto Sans Brahmi | 17,224,758 | Google |
+| Noto Sans Buginese | 13,066,410 | Google |
+| Noto Sans Buhid | 157,842,486 | Google |
+| Noto Sans Canadian Aboriginal | 95,756,000 | Google |
+| Noto Sans Carian | 42,880,756 | Google |
+| Noto Sans Caucasian Albanian | 17,089,206 | Google |
+| Noto Sans Chakma | 21,737,379 | Google |
+| Noto Sans Cham | 25,405,755 | Google |
+| Noto Sans Cherokee | 31,289,898 | Google |
+| Noto Sans Chorasmian | 25,832,312 | Google |
+| Noto Sans Coptic | 53,417,078 | Google |
+| Noto Sans Cuneiform | 16,390,302 | Google |
+| Noto Sans Cypriot | 16,554,729 | Google |
+| Noto Sans Cypro Minoan | 34,218,229 | Google |
+| Noto Sans Deseret | 21,171,631 | Google |
+| Noto Sans Devanagari | 6,820,559,085 | Google |
+| Noto Sans Display | 16,274,784,164 | Google |
+| Noto Sans Duployan | 22,357,803 | Google |
+| Noto Sans Egyptian Hieroglyphs | 26,539,256 | Google |
+| Noto Sans Elbasan | 20,570,130 | Google |
+| Noto Sans Elymaic | 14,825,386 | Google |
+| Noto Sans Ethiopic | 330,433,896 | Google |
+| Noto Sans Georgian | 825,234,610 | Google |
+| Noto Sans Glagolitic | 70,221,819 | Google |
+| Noto Sans Gothic | 179,874,416 | Google |
+| Noto Sans Grantha | 13,662,220 | Google |
+| Noto Sans Gujarati | 733,030,091 | Google |
+| Noto Sans Gunjala Gondi | 46,075,463 | Google |
+| Noto Sans Gurmukhi | 512,853,556 | Google |
+| Noto Sans Hanifi Rohingya | 12,022,771 | Google |
+| Noto Sans Hanunoo | 52,617,878 | Google |
+| Noto Sans Hatran | 16,142,619 | Google |
+| Noto Sans Hebrew | 3,504,989,799 | Google |
+| Noto Sans HK | 44,862,122,173 | Google |
+| Noto Sans Imperial Aramaic | 21,548,738 | Google |
+| Noto Sans Indic Siyaq Numbers | 24,211,862 | Google |
+| Noto Sans Inscriptional Pahlavi | 15,814,866 | Google |
+| Noto Sans Inscriptional Parthian | 13,030,065 | Google |
+| Noto Sans Javanese | 61,265,185 | Google |
+| Noto Sans JP | 4,962,223,666,162 | Google |
+| Noto Sans Kaithi | 23,128,404 | Google |
+| Noto Sans Kannada | 1,030,578,727 | Google |
+| Noto Sans Kawi | 15,938,753 | Google |
+| Noto Sans Kayah Li | 12,990,022 | Google |
+| Noto Sans Kharoshthi | 10,591,309 | Google |
+| Noto Sans Khmer | 1,592,670,464 | Google |
+| Noto Sans Khojki | 22,344,639 | Google |
+| Noto Sans Khudawadi | 14,274,879 | Google |
+| Noto Sans KR | 417,381,082,704 | Google |
+| Noto Sans Lao | 260,258,955 | Google |
+| Noto Sans Lao Looped | 516,918,161 | Google |
+| Noto Sans Lepcha | 25,506,847 | Google |
+| Noto Sans Limbu | 27,698,939 | Google |
+| Noto Sans Linear A | 32,358,252 | Google |
+| Noto Sans Linear B | 27,446,625 | Google |
+| Noto Sans Lisu | 15,791,606 | Google |
+| Noto Sans Lycian | 11,105,117 | Google |
+| Noto Sans Lydian | 14,181,016 | Google |
+| Noto Sans Mahajani | 21,493,489 | Google |
+| Noto Sans Malayalam | 3,512,481,641 | Google |
+| Noto Sans Mandaic | 150,607,962 | Google |
+| Noto Sans Manichaean | 10,547,158 | Google |
+| Noto Sans Marchen | 21,643,227 | Google |
+| Noto Sans Masaram Gondi | 13,164,903 | Google |
+| Noto Sans Math | 391,335,061 | Google |
+| Noto Sans Mayan Numerals | 13,061,826 | Google |
+| Noto Sans Medefaidrin | 17,388,137 | Google |
+| Noto Sans Meetei Mayek | 580,154,366 | Google |
+| Noto Sans Mende Kikakui | 13,083,996 | Google |
+| Noto Sans Meroitic | 18,231,808 | Google |
+| Noto Sans Miao | 24,207,557 | Google |
+| Noto Sans Modi | 11,608,528 | Google |
+| Noto Sans Mongolian | 77,661,255 | Google |
+| Noto Sans Mono | 6,340,310,375 | Google |
+| Noto Sans Mro | 14,322,977 | Google |
+| Noto Sans Multani | 27,453,111 | Google |
+| Noto Sans Myanmar | 625,373,386 | Google |
+| Noto Sans Nabataean | 24,405,672 | Google |
+| Noto Sans Nag Mundari | 28,316,346 | Google |
+| Noto Sans Nandinagari | 39,699,234 | Google |
+| Noto Sans New Tai Lue | 16,536,331 | Google |
+| Noto Sans Newa | 21,046,281 | Google |
+| Noto Sans NKo | 20,741,007 | Google |
+| Noto Sans NKo Unjoined | 221,140,033 | Google |
+| Noto Sans Nushu | 11,585,179 | Google |
+| Noto Sans Ogham | 11,332,994 | Google |
+| Noto Sans Ol Chiki | 66,556,173 | Google |
+| Noto Sans Old Hungarian | 28,041,023 | Google |
+| Noto Sans Old Italic | 25,819,561 | Google |
+| Noto Sans Old North Arabian | 19,135,174 | Google |
+| Noto Sans Old Permic | 17,684,698 | Google |
+| Noto Sans Old Persian | 21,414,799 | Google |
+| Noto Sans Old Sogdian | 10,852,653 | Google |
+| Noto Sans Old South Arabian | 16,111,397 | Google |
+| Noto Sans Old Turkic | 15,786,501 | Google |
+| Noto Sans Oriya | 591,073,567 | Google |
+| Noto Sans Osage | 16,879,867 | Google |
+| Noto Sans Osmanya | 89,332,280 | Google |
+| Noto Sans Pahawh Hmong | 26,391,366 | Google |
+| Noto Sans Palmyrene | 16,189,169 | Google |
+| Noto Sans Pau Cin Hau | 12,072,627 | Google |
+| Noto Sans PhagsPa | 19,687,179 | Google |
+| Noto Sans Phoenician | 11,101,874 | Google |
+| Noto Sans Psalter Pahlavi | 12,590,736 | Google |
+| Noto Sans Rejang | 12,262,405 | Google |
+| Noto Sans Runic | 12,670,819 | Google |
+| Noto Sans Samaritan | 140,008,398 | Google |
+| Noto Sans Saurashtra | 13,374,936 | Google |
+| Noto Sans SC | 101,449,312,954 | Google |
+| Noto Sans Sharada | 21,229,369 | Google |
+| Noto Sans Shavian | 21,393,556 | Google |
+| Noto Sans Siddham | 12,670,744 | Google |
+| Noto Sans SignWriting | 12,708,929 | Google |
+| Noto Sans Sinhala | 1,129,253,651 | Google |
+| Noto Sans Sogdian | 19,041,668 | Google |
+| Noto Sans Sora Sompeng | 68,933,681 | Google |
+| Noto Sans Soyombo | 11,299,784 | Google |
+| Noto Sans Sundanese | 20,019,417 | Google |
+| Noto Sans Sunuwar | 12,119,138 | Google |
+| Noto Sans Syloti Nagri | 61,756,964 | Google |
+| Noto Sans Symbols | 3,563,920,760 | Google |
+| Noto Sans Symbols 2 | 209,744,085 | Google |
+| Noto Sans Syriac | 27,489,878 | Google |
+| Noto Sans Syriac Eastern | 27,193,087 | Google |
+| Noto Sans Syriac Western | 6,198,804 | Google |
+| Noto Sans Tagalog | 97,089,428 | Google |
+| Noto Sans Tagbanwa | 17,934,779 | Google |
+| Noto Sans Tai Le | 21,341,670 | Google |
+| Noto Sans Tai Tham | 16,059,907 | Google |
+| Noto Sans Tai Viet | 117,740,169 | Google |
+| Noto Sans Takri | 17,559,480 | Google |
+| Noto Sans Tamil | 6,243,666,590 | Google |
+| Noto Sans Tamil Supplement | 51,377,230 | Google |
+| Noto Sans Tangsa | 52,675,663 | Google |
+| Noto Sans TC | 285,887,461,803 | Google |
+| Noto Sans Telugu | 12,002,329,092 | Google |
+| Noto Sans Thaana | 62,142,285 | Google |
+| Noto Sans Thai | 18,413,624,423 | Google |
+| Noto Sans Thai Looped | 273,009,195 | Google |
+| Noto Sans Tifinagh | 21,892,068 | Google |
+| Noto Sans Tirhuta | 18,650,670 | Google |
+| Noto Sans Ugaritic | 12,204,486 | Google |
+| Noto Sans Vai | 21,711,125 | Google |
+| Noto Sans Vithkuqi | 20,912,896 | Google |
+| Noto Sans Wancho | 24,453,100 | Google |
+| Noto Sans Warang Citi | 347,503,784 | Google |
+| Noto Sans Yi | 21,005,969 | Google |
+| Noto Sans Zanabazar Square | 20,509,506 | Google |
+| Noto Serif | 290,513,375,645 | Google |
+| Noto Serif Ahom | 88,779,404 | Google |
+| Noto Serif Armenian | 108,463,216 | Google |
+| Noto Serif Balinese | 55,494,852 | Google |
+| Noto Serif Bengali | 4,439,930,741 | Google |
+| Noto Serif Devanagari | 1,498,229,134 | Google |
+| Noto Serif Display | 2,773,142,695 | Google |
+| Noto Serif Dives Akuru | 6,568,095 | Google |
+| Noto Serif Dogra | 18,731,456 | Google |
+| Noto Serif Ethiopic | 39,158,800 | Google |
+| Noto Serif Georgian | 356,499,761 | Google |
+| Noto Serif Grantha | 16,370,601 | Google |
+| Noto Serif Gujarati | 88,247,684 | Google |
+| Noto Serif Gurmukhi | 18,137,626 | Google |
+| Noto Serif Hebrew | 423,804,642 | Google |
+| Noto Serif Hentaigana | 11,544,766 | Google |
+| Noto Serif HK | 381,049,173 | Google |
+| Noto Serif JP | 75,097,866,763 | Google |
+| Noto Serif Kannada | 175,597,266 | Google |
+| Noto Serif Khitan Small Script | 24,393,340 | Google |
+| Noto Serif Khmer | 116,246,725 | Google |
+| Noto Serif Khojki | 268,435,199 | Google |
+| Noto Serif KR | 15,674,042,263 | Google |
+| Noto Serif Lao | 97,831,043 | Google |
+| Noto Serif Makasar | 17,233,610 | Google |
+| Noto Serif Malayalam | 559,536,714 | Google |
+| Noto Serif Myanmar | 30,542,295 | Google |
+| Noto Serif NP Hmong | 29,073,043 | Google |
+| Noto Serif Old Uyghur | 19,403,129 | Google |
+| Noto Serif Oriya | 28,658,932 | Google |
+| Noto Serif Ottoman Siyaq | 19,839,916 | Google |
+| Noto Serif SC | 9,895,283,354 | Google |
+| Noto Serif Sinhala | 88,220,641 | Google |
+| Noto Serif Tamil | 122,758,373 | Google |
+| Noto Serif Tangut | 43,493,438 | Google |
+| Noto Serif TC | 17,961,802,940 | Google |
+| Noto Serif Telugu | 190,141,831 | Google |
+| Noto Serif Thai | 594,533,095 | Google |
+| Noto Serif Tibetan | 50,489,551 | Google |
+| Noto Serif Todhri | 8,206,721 | Google |
+| Noto Serif Toto | 26,942,355 | Google |
+| Noto Serif Vithkuqi | 54,273,858 | Google |
+| Noto Serif Yezidi | 24,425,106 | Google |
+| Noto Traditional Nushu | 28,627,406 | Google |
+| Noto Znamenny Musical Notation | 10,268,135 | Google |
+| Nova Cut | 653,481,172 | Wojciech Kalinowski |
+| Nova Flat | 1,184,435,346 | Wojciech Kalinowski |
+| Nova Mono | 2,694,764,628 | Wojciech Kalinowski |
+| Nova Oval | 747,688,500 | Wojciech Kalinowski |
+| Nova Round | 1,920,687,215 | Wojciech Kalinowski |
+| Nova Script | 745,106,735 | Wojciech Kalinowski |
+| Nova Slim | 1,146,128,547 | Wojciech Kalinowski |
+| Nova Square | 3,822,536,481 | Wojciech Kalinowski |
+| NTR | 2,508,967,107 | Purushoth Kumar Guttula |
+| Numans | 2,410,725,230 | Jovanny Lemonad |
+| Nunito | 628,136,517,131 | Vernon Adams, Cyreal, Jacques Le Bailly |
+| Nunito Sans | 471,584,492,845 | Vernon Adams, Jacques Le Bailly, Manvel Shmavonyan, Alexei Vanyashin |
+| Nuosu SIL | 118,985,933 | SIL International |
+| Odibee Sans | 1,621,929,940 | James Barnard |
+| Odor Mean Chey | 584,500,847 | Danh Hong |
+| Offside | 873,835,391 | Eduardo Tunni |
+| Oi | 84,687,551 | Kostas Bartsokas |
+| Ojuju | 60,929,043 | Ụdị Foundry, Chisaokwu Joboson, Mirko Velimirović |
+| Old Standard TT | 34,552,766,879 | Alexey Kryukov |
+| Oldenburg | 909,124,761 | Nicole Fally |
+| Ole | 41,710,093 | Robert Leuschke |
+| Oleo Script | 21,431,523,760 | soytutype fonts |
+| Oleo Script Swash Caps | 3,500,342,721 | soytutype fonts |
+| Onest | 5,229,948,005 | Dmitri Voloshin, Andrey Kudryavtsev |
+| Oooh Baby | 1,212,828,831 | Robert Leuschke |
+| Open Sans | 18,446,679,427,872 | Steve Matteson |
+| Oranienbaum | 6,992,701,018 | Oleg Pospelov, Jovanny Lemonad |
+| Orbit | 66,697,438 | Sooun Cho, JAMO |
+| Orbitron | 46,981,460,553 | Matt McInerney |
+| Oregano | 3,036,202,004 | Astigmatic |
+| Orelega One | 713,936,883 | Haruki Wakamatsu |
+| Orienta | 3,526,129,056 | Eduardo Tunni |
+| Original Surfer | 1,320,040,250 | Astigmatic |
+| Oswald | 2,254,668,046,610 | Vernon Adams, Kalapi Gajjar, Cyreal |
+| Outfit | 76,162,086,775 | Smartsheet Inc, Rodrigo Fuenzalida |
+| Over the Rainbow | 2,802,801,850 | Kimberly Geswein |
+| Overlock | 9,392,283,022 | Dario Manuel Muhafara |
+| Overlock SC | 1,413,729,702 | Dario Manuel Muhafara |
+| Overpass | 68,943,959,074 | Delve Withrington, Dave Bailey, Thomas Jockin |
+| Overpass Mono | 3,926,273,674 | Delve Withrington, Dave Bailey, Thomas Jockin |
+| Ovo | 6,265,808,684 | Nicole Fally |
+| Oxanium | 4,831,579,848 | Severin Meyer |
+| Oxygen | 203,480,049,981 | Vernon Adams |
+| Oxygen Mono | 4,038,686,075 | Vernon Adams |
+| Pacifico | 122,617,772,694 | Vernon Adams, Jacques Le Bailly, Botjo Nikoltchev, Ani Petrova |
+| Padauk | 16,688,882,123 | SIL International |
+| Padyakke Expanded One | 17,138,474 | James Puckett |
+| Palanquin | 8,014,441,528 | Pria Ravichandran |
+| Palanquin Dark | 4,823,856,437 | Pria Ravichandran |
+| Palette Mosaic | 66,372,663 | Shibuya Font |
+| Pangolin | 10,453,288,171 | Kevin Burke |
+| Paprika | 1,207,363,488 | Eduardo Tunni |
+| Parastoo | 11,008,798 | Saber Rastikerdar |
+| Parisienne | 17,346,216,304 | Astigmatic |
+| Parkinsans | 593,475,516 | Red Stone |
+| Passero One | 569,792,497 | Viktoriya Grabowska |
+| Passion One | 43,033,678,910 | Fontstage |
+| Passions Conflict | 245,563,539 | Robert Leuschke |
+| Pathway Extreme | 1,264,900,730 | Eduardo Tunni |
+| Pathway Gothic One | 36,567,794,801 | Eduardo Tunni |
+| Patrick Hand | 30,539,193,111 | Patrick Wagesreiter |
+| Patrick Hand SC | 3,024,541,688 | Patrick Wagesreiter |
+| Pattaya | 4,164,483,258 | Cadson Demak |
+| Patua One | 48,149,771,601 | LatinoType |
+| Pavanam | 1,164,188,366 | Tharique Azeez |
+| Paytone One | 23,996,426,562 | Vernon Adams |
+| Peddana | 308,916,023 | Appaji Ambarisha Darbha |
+| Peralta | 1,248,446,791 | Astigmatic |
+| Permanent Marker | 56,042,268,817 | Font Diner |
+| Petemoss | 53,954,814 | Robert Leuschke |
+| Petit Formal Script | 5,552,236,270 | Impallari Type |
+| Petrona | 4,207,386,340 | Ringo R. Seeber |
+| Phetsarath | 15,581,361 | Danh Hong |
+| Philosopher | 30,206,698,501 | Jovanny Lemonad |
+| Phudu | 195,726,749 | Dương Trần |
+| Piazzolla | 612,190,624 | Juan Pablo del Peral, Huerta Tipográfica |
+| Piedra | 1,120,133,140 | Sudtipos |
+| Pinyon Script | 13,114,892,078 | Nicole Fally |
+| Pirata One | 3,764,590,318 | Rodrigo Fuenzalida, Nicolas Massi |
+| Pixelify Sans | 557,184,319 | Stefie Justprince |
+| Plaster | 539,279,016 | Sorkin Type |
+| Platypi | 296,019,666 | David Sargent |
+| Play | 84,302,037,544 | Jonas Hecksher |
+| Playball | 18,715,866,369 | Robert Leuschke |
+| Playfair | 3,852,193,561 | Claus Eggers Sørensen |
+| Playfair Display | 706,936,490,344 | Claus Eggers Sørensen |
+| Playfair Display SC | 23,129,484,417 | Claus Eggers Sørensen |
+| Playpen Sans | 456,021,506 | TypeTogether, Laura Meseguer, Veronika Burian, José Scaglione, Kostas Bartsokas, Vera Evstafieva, Tom Grace, Yorlmar Campos |
+| Playpen Sans Arabic | 79,782,757 | TypeTogether, Azza Alameddine, Laura Meseguer, Veronika Burian, José Scaglione |
+| Playpen Sans Deva | 64,017,990 | TypeTogether, Pooja Saxena, Gunjan Panchal, Laura Meseguer, Veronika Burian, José Scaglione |
+| Playpen Sans Hebrew | 62,485,496 | TypeTogether, Tom Grace, Laura Meseguer, Veronika Burian, José Scaglione |
+| Playpen Sans Thai | 61,775,363 | TypeTogether, Sirin Gunkloy, Laura Meseguer, Veronika Burian, José Scaglione |
+| Playwrite AR | 20,991,920 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite AR Guides | 6,540,430 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite AT | 22,142,627 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite AT Guides | 3,192,039 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite AU NSW | 39,429,212 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite AU NSW Guides | 3,187,689 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite AU QLD | 33,069,913 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite AU QLD Guides | 3,194,646 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite AU SA | 58,679,350 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite AU SA Guides | 3,188,908 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite AU TAS | 12,511,162 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite AU TAS Guides | 3,211,881 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite AU VIC | 11,472,537 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite AU VIC Guides | 13,121,524 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite BE VLG | 20,024,342 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite BE VLG Guides | 3,233,706 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite BE WAL | 11,403,638 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite BE WAL Guides | 3,439,555 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite BR | 5,991,681 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite BR Guides | 3,584,231 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite CA | 13,796,214 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite CA Guides | 3,221,789 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite CL | 8,787,662 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite CL Guides | 3,191,943 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite CO | 10,389,155 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite CO Guides | 9,524,151 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite CU | 99,322,267 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite CU Guides | 7,207,121 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite CZ | 12,731,172 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite CZ Guides | 3,244,120 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite DE Grund | 108,785,834 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite DE Grund Guides | 6,626,291 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite DE LA | 9,375,260 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite DE LA Guides | 3,166,548 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite DE SAS | 18,911,481 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite DE SAS Guides | 3,207,028 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite DE VA | 5,701,701 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite DE VA Guides | 5,139,976 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite DK Loopet | 24,966,169 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite DK Loopet Guides | 3,165,228 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite DK Uloopet | 11,294,732 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite DK Uloopet Guides | 7,374,536 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite ES | 17,174,037 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite ES Deco | 10,281,179 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite ES Deco Guides | 5,475,107 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite ES Guides | 3,269,700 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite FR Moderne | 16,087,500 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite FR Moderne Guides | 3,283,819 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite FR Trad | 6,193,144 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite FR Trad Guides | 3,243,154 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite GB J | 16,188,601 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite GB J Guides | 10,451,347 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite GB S | 61,123,340 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite GB S Guides | 11,744,506 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite HR | 28,003,467 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite HR Guides | 3,199,758 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite HR Lijeva | 22,321,780 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite HR Lijeva Guides | 3,548,957 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite HU | 96,009,111 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite HU Guides | 3,261,565 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite ID | 6,132,466 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite ID Guides | 3,231,891 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite IE | 14,072,679 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite IE Guides | 5,882,031 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite IN | 48,329,183 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite IN Guides | 6,148,920 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite IS | 75,756,311 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite IS Guides | 3,182,798 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite IT Moderna | 28,404,377 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite IT Moderna Guides | 3,263,702 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite IT Trad | 5,505,793 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite IT Trad Guides | 3,198,771 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite MX | 16,566,765 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite MX Guides | 18,547,035 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite NG Modern | 12,715,075 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite NG Modern Guides | 3,148,072 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite NL | 16,141,872 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite NL Guides | 5,180,723 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite NO | 29,391,642 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite NO Guides | 3,194,161 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite NZ | 12,409,717 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite NZ Basic | 7,844,181 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite NZ Basic Guides | 4,753,857 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite NZ Guides | 12,418,478 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite PE | 11,560,328 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite PE Guides | 4,427,721 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite PL | 30,993,707 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite PL Guides | 4,400,188 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite PT | 11,064,802 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite PT Guides | 5,000,563 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite RO | 14,215,571 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite RO Guides | 3,172,809 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite SK | 10,166,540 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite SK Guides | 3,346,351 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite TZ | 6,506,669 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite TZ Guides | 5,093,487 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite US Modern | 29,008,396 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite US Modern Guides | 3,242,141 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite US Trad | 111,197,668 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite US Trad Guides | 8,642,156 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite VN | 14,853,184 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite VN Guides | 37,830,387 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite ZA | 13,395,768 | TypeTogether, Veronika Burian, José Scaglione |
+| Playwrite ZA Guides | 3,217,732 | TypeTogether, Veronika Burian, José Scaglione |
+| Pliant | 2,078,818 | Non Foundry, Jona Saucedo |
+| Plus Jakarta Sans | 47,498,137,731 | Tokotype |
+| Pochaevsk | 9,067,350 | Aleksandr Andreev |
+| Podkova | 4,801,890,834 | Cyreal |
+| Poetsen One | 695,700,592 | Rodrigo Fuenzalida, Pablo Impallari |
+| Poiret One | 49,126,613,283 | Denis Masharov |
+| Poller One | 3,079,275,516 | Yvonne Schüttler |
+| Poltawski Nowy | 224,356,116 | Adam Półtawski, Mateusz Machalski, Borys Kosmynka, Ania Wieluńska |
+| Poly | 3,753,486,472 | Nicolás Silva |
+| Pompiere | 4,066,375,427 | Karolina Lach |
+| Ponnala | 15,091,642 | Appaji Ambarisha Darbha |
+| Ponomar | 39,704,477 | Aleksandr Andreev |
+| Pontano Sans | 22,353,595,250 | Vernon Adams |
+| Poor Story | 1,115,556,066 | Yoon Design |
+| Poppins | 2,399,542,306,628 | Indian Type Foundry, Jonny Pinhorn, Ninad Kale |
+| Port Lligat Sans | 1,291,252,087 | Tipo |
+| Port Lligat Slab | 2,874,882,933 | Tipo |
+| Potta One | 1,469,983,552 | Font Zone 108 |
+| Pragati Narrow | 12,565,988,620 | Omnibus-Type |
+| Praise | 206,534,183 | Robert Leuschke |
+| Prata | 26,149,213,478 | Cyreal |
+| Preahvihear | 331,667,391 | Danh Hong |
+| Press Start 2P | 18,701,193,479 | CodeMan38 |
+| Pridi | 8,984,359,898 | Cadson Demak |
+| Princess Sofia | 702,805,774 | Tart Workshop |
+| Prociono | 2,697,732,153 | Barry Schwartz |
+| Prompt | 105,155,192,853 | Cadson Demak |
+| Prosto One | 4,411,900,954 | Jovanny Lemonad, Pavel Emelyanov |
+| Protest Guerrilla | 39,939,283 | Octavio Pardo |
+| Protest Revolution | 700,813,872 | Octavio Pardo |
+| Protest Riot | 186,544,504 | Octavio Pardo |
+| Protest Strike | 221,381,572 | Octavio Pardo |
+| Proza Libre | 2,884,693,754 | Jasper de Waard |
+| PT Mono | 16,338,045,149 | ParaType |
+| PT Sans | 1,014,593,586,914 | ParaType |
+| PT Sans Caption | 50,382,113,817 | ParaType |
+| PT Sans Narrow | 294,249,241,986 | ParaType |
+| PT Serif | 404,967,681,017 | ParaType |
+| PT Serif Caption | 10,154,355,098 | ParaType |
+| Public Sans | 51,707,773,631 | USWDS, Dan Williams, Pablo Impallari, Rodrigo Fuenzalida |
+| Puppies Play | 27,491,973 | Robert Leuschke |
+| Puritan | 4,873,903,531 | Ben Weiner |
+| Purple Purse | 425,558,608 | Astigmatic |
+| Qahiri | 239,812,506 | Khaled Hosny |
+| Quando | 3,738,435,571 | Joana Correia |
+| Quantico | 11,829,753,015 | MADType |
+| Quattrocento | 26,199,949,791 | Impallari Type |
+| Quattrocento Sans | 32,805,635,744 | Impallari Type |
+| Questrial | 80,401,915,318 | Joe Prince, Laura Meseguer |
+| Quicksand | 308,379,272,503 | Andrew Paglinawan |
+| Quintessential | 3,158,851,157 | Astigmatic |
+| Qwigley | 3,346,182,847 | Robert Leuschke |
+| Qwitcher Grypen | 740,816,198 | Robert Leuschke |
+| Racing Sans One | 7,411,890,271 | Impallari Type |
+| Radio Canada | 3,273,522,122 | Charles Daoud, Coppers and Brasses, Alexandre Saumier Demers, Jacques Le Bailly |
+| Radio Canada Big | 389,523,385 | Étienne Aubert Bonn |
+| Radley | 6,388,127,323 | Vernon Adams |
+| Rajdhani | 67,675,759,378 | Indian Type Foundry |
+| Rakkas | 2,161,368,585 | Zeynep Akay |
+| Raleway | 1,493,216,610,670 | Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida |
+| Raleway Dots | 2,839,609,543 | Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo |
+| Ramabhadra | 18,678,091,994 | Purushoth Kumar Guttula |
+| Ramaraja | 862,952,462 | Appaji Ambarisha Darbha |
+| Rambla | 10,774,329,456 | Martin Sommaruga |
+| Rammetto One | 6,634,293,491 | Vernon Adams |
+| Rampart One | 847,389,992 | Fontworks Inc. |
+| Ramsina | 1,827,266 | SIL International |
+| Ranchers | 1,794,997,788 | Impallari Type |
+| Rancho | 9,727,898,176 | Sideshow |
+| Ranga | 899,897,092 | TipTopTyp |
+| Rasa | 3,763,280,561 | Rosetta, Anna Giedryś, David Březina |
+| Rationale | 2,120,035,020 | Cyreal |
+| Ravi Prakash | 434,835,185 | Appaji Ambarisha Darbha |
+| Readex Pro | 8,726,999,984 | Thomas Jockin, Nadine Chahine, Bonnie Shaver-Troup, Santiago Orozco, Héctor Gómez |
+| Recursive | 2,483,648,129 | Arrow Type, Stephen Nixon |
+| Red Hat Display | 44,827,203,564 | MCKL |
+| Red Hat Mono | 554,481,870 | MCKL |
+| Red Hat Text | 9,460,999,776 | MCKL |
+| Red Rose | 1,223,062,298 | Jaikishan Patel |
+| Redacted | 210,969,616 | Christian Naths |
+| Redacted Script | 55,474,176 | Christian Naths |
+| Reddit Mono | 382,252,466 | Stephen Hutchings, OrangeRed |
+| Reddit Sans | 993,080,835 | Stephen Hutchings, OrangeRed |
+| Reddit Sans Condensed | 162,262,187 | Stephen Hutchings, OrangeRed |
+| Redressed | 1,720,684,743 | Astigmatic |
+| Reem Kufi | 6,648,280,999 | Khaled Hosny, Santiago Orozco |
+| Reem Kufi Fun | 90,025,480 | Khaled Hosny, Santiago Orozco |
+| Reem Kufi Ink | 79,014,719 | Khaled Hosny, Santiago Orozco |
+| Reenie Beanie | 13,769,527,734 | James Grieshaber |
+| Reggae One | 774,223,270 | Fontworks Inc. |
+| REM | 877,936,486 | Octavio Pardo |
+| Rethink Sans | 3,059,416,692 | Hans Thiessen |
+| Revalia | 858,767,260 | Johan Kallas, Mihkel Virkus |
+| Rhodium Libre | 666,719,005 | James Puckett |
+| Ribeye | 1,162,581,499 | Astigmatic |
+| Ribeye Marrow | 696,678,452 | Astigmatic |
+| Righteous | 54,753,837,210 | Astigmatic |
+| Risque | 572,854,714 | Astigmatic |
+| Road Rage | 524,527,374 | Robert Leuschke |
+| Roboto | 33,733,405,408,580 | Christian Robertson, ParaType, Font Bureau |
+| Roboto Condensed | 2,552,771,744,736 | Christian Robertson |
+| Roboto Flex | 33,360,917,465 | Font Bureau, David Berlow, Santiago Orozco, Irene Vlachou, Ilya Ruderman, Yury Ostromentsky, Mikhail Strukov |
+| Roboto Mono | 1,158,410,047,623 | Christian Robertson |
+| Roboto Serif | 8,850,559,054 | Commercial Type, Greg Gazdowicz |
+| Roboto Slab | 934,175,923,655 | Christian Robertson |
+| Rochester | 8,081,656,113 | Sideshow |
+| Rock 3D | 46,279,522 | Shibuya Font |
+| Rock Salt | 19,925,729,287 | Sideshow |
+| RocknRoll One | 1,320,975,752 | Fontworks Inc. |
+| Rokkitt | 51,438,715,906 | Vernon Adams |
+| Romanesco | 473,519,421 | Astigmatic |
+| Ropa Sans | 33,652,893,962 | Botjo Nikoltchev |
+| Rosario | 6,273,365,813 | Omnibus-Type |
+| Rosarivo | 1,351,884,833 | Pablo Ugerman |
+| Rouge Script | 2,661,545,421 | Sabrina Mariela Lopez |
+| Rowdies | 19,095,537,642 | Jaikishan Patel |
+| Rozha One | 4,436,141,713 | Indian Type Foundry |
+| Rubik | 481,814,999,967 | Hubert and Fischer, Meir Sadan, Cyreal, Daniel Grumer, Omaima Dajani |
+| Rubik 80s Fade | 43,322,400 | NaN, Luke Prowse |
+| Rubik Beastly | 80,903,615 | NaN, Luke Prowse |
+| Rubik Broken Fax | 16,143,914 | NaN, Luke Prowse |
+| Rubik Bubbles | 3,576,725,865 | NaN, Luke Prowse |
+| Rubik Burned | 39,408,879 | NaN, Luke Prowse |
+| Rubik Dirt | 520,613,855 | NaN, Luke Prowse |
+| Rubik Distressed | 91,927,127 | NaN, Luke Prowse |
+| Rubik Doodle Shadow | 252,160,874 | NaN, Luke Prowse |
+| Rubik Doodle Triangles | 24,978,470 | NaN, Luke Prowse |
+| Rubik Gemstones | 54,471,931 | NaN, Luke Prowse |
+| Rubik Glitch | 228,595,670 | NaN, Luke Prowse |
+| Rubik Glitch Pop | 44,306,544 | NaN, Luke Prowse |
+| Rubik Iso | 96,604,629 | NaN, Luke Prowse |
+| Rubik Lines | 13,032,531 | NaN, Luke Prowse |
+| Rubik Maps | 19,068,008 | NaN, Luke Prowse |
+| Rubik Marker Hatch | 39,543,504 | NaN, Luke Prowse |
+| Rubik Maze | 18,727,270 | NaN, Luke Prowse |
+| Rubik Microbe | 49,460,727 | NaN, Luke Prowse |
+| Rubik Mono One | 13,797,515,865 | Hubert and Fischer |
+| Rubik Moonrocks | 1,148,949,668 | NaN, Luke Prowse |
+| Rubik Pixels | 35,945,245 | NaN, Luke Prowse |
+| Rubik Puddles | 47,966,817 | NaN, Luke Prowse |
+| Rubik Scribble | 196,604,721 | NaN, Luke Prowse |
+| Rubik Spray Paint | 50,135,218 | NaN, Luke Prowse |
+| Rubik Storm | 26,218,264 | NaN, Luke Prowse |
+| Rubik Vinyl | 101,576,243 | NaN, Luke Prowse |
+| Rubik Wet Paint | 153,526,281 | NaN, Luke Prowse |
+| Ruda | 18,064,725,612 | Mariela Monsalve, Angelina Sanchez |
+| Rufina | 8,560,113,259 | Martin Sommaruga |
+| Ruge Boogie | 284,403,703 | Robert Leuschke |
+| Ruluko | 1,208,448,636 | Ana Sanfelippo, Angélica Díaz, Meme Hernández |
+| Rum Raisin | 889,447,192 | Astigmatic |
+| Ruslan Display | 2,612,143,334 | Oleg Snarsky, Denis Masharov, Vladimir Rabdu |
+| Russo One | 38,567,758,999 | Jovanny Lemonad |
+| Ruthie | 1,062,780,275 | Robert Leuschke |
+| Ruwudu | 63,661,240 | SIL International |
+| Rye | 4,343,622,290 | Nicole Fally |
+| Sacramento | 24,886,968,793 | Astigmatic |
+| Sahitya | 498,202,550 | Juan Pablo del Peral |
+| Sail | 1,880,048,934 | Miguel Hernandez |
+| Saira | 43,742,270,457 | Omnibus-Type |
+| Saira Condensed | 30,326,048,304 | Omnibus-Type |
+| Saira Extra Condensed | 7,945,110,331 | Omnibus-Type |
+| Saira Semi Condensed | 9,867,285,306 | Omnibus-Type |
+| Saira Stencil | 5,254,668 | Hector Gatti, Omnibus-Type |
+| Salsa | 3,116,589,419 | John Vargas Beltrán |
+| Sanchez | 26,857,906,916 | Daniel Hernandez |
+| Sancreek | 2,051,521,634 | Vernon Adams |
+| Sankofa Display | 22,026,290 | Batsirai Madzonga |
+| Sansation | 72,822,422 | Bernd Montag |
+| Sansita | 5,250,637,700 | Omnibus-Type |
+| Sansita Swashed | 1,224,641,631 | Omnibus-Type |
+| Sarabun | 27,625,873,725 | Suppakit Chalermlarp |
+| Sarala | 10,216,045,381 | Andres Torresi |
+| Sarina | 1,198,631,987 | James Grieshaber |
+| Sarpanch | 1,709,152,792 | Indian Type Foundry |
+| Sassy Frass | 58,860,037 | Robert Leuschke |
+| Satisfy | 54,142,037,418 | Sideshow |
+| Savate | 9,715,036 | Plomb Type, Max Esnée |
+| Sawarabi Gothic | 13,090,837,595 | mshio |
+| Sawarabi Mincho | 18,045,752,277 | mshio |
+| Scada | 10,045,916,130 | Jovanny Lemonad |
+| Scheherazade New | 540,330,348 | SIL International |
+| Schibsted Grotesk | 34,118,666,002 | Bakken & Bæck, Henrik Kongsvoll |
+| Schoolbell | 7,428,087,997 | Font Diner |
+| Science Gothic | 27,186,208 | Thomas Phinney, Vassil Kateliev, Brandon Buerkle |
+| Scope One | 1,165,544,154 | Dalton Maag |
+| Seaweed Script | 4,150,551,267 | Neapolitan |
+| Secular One | 21,631,945,730 | Michal Sahar |
+| Sedan | 56,263,170 | Sebastián Salazar |
+| Sedan SC | 91,186,957 | Sebastián Salazar |
+| Sedgwick Ave | 1,831,398,828 | Pedro Vergani, Kevin Burke |
+| Sedgwick Ave Display | 529,353,253 | Pedro Vergani, Kevin Burke |
+| Sekuya | 7,895,505 | SEKUYA |
+| Sen | 9,762,727,760 | Kosal Sen |
+| Send Flowers | 68,887,188 | Robert Leuschke |
+| Sevillana | 631,611,023 | Brownfox |
+| Seymour One | 606,581,626 | Vernon Adams |
+| Shadows Into Light | 101,059,914,677 | Kimberly Geswein |
+| Shadows Into Light Two | 14,856,412,550 | Kimberly Geswein |
+| Shafarik | 14,055,923 | Aleksandr Andreev |
+| Shalimar | 465,053,412 | Robert Leuschke |
+| Shantell Sans | 670,588,245 | Shantell Martin, Arrow Type, Anya Danilova |
+| Shanti | 2,995,803,540 | Vernon Adams |
+| Share | 8,745,801,173 | Carrois Apostrophe |
+| Share Tech | 25,616,316,842 | Carrois Apostrophe |
+| Share Tech Mono | 8,305,871,189 | Carrois Apostrophe |
+| Shippori Antique | 475,825,571 | FONTDASU |
+| Shippori Antique B1 | 199,966,565 | FONTDASU |
+| Shippori Mincho | 6,084,832,998 | FONTDASU |
+| Shippori Mincho B1 | 2,019,505,577 | FONTDASU |
+| Shizuru | 50,118,004 | Shibuya Font |
+| Shojumaru | 2,725,807,226 | Astigmatic |
+| Short Stack | 4,716,907,329 | James Grieshaber |
+| Shrikhand | 10,334,251,077 | Jonny Pinhorn |
+| Siemreap | 428,035,801 | Danh Hong |
+| Sigmar | 206,119,331 | Vernon Adams |
+| Sigmar One | 18,986,917,940 | Vernon Adams |
+| Signika | 73,988,413,103 | Anna Giedryś |
+| Signika Negative | 56,882,414,039 | Anna Giedryś |
+| Silkscreen | 4,677,309,523 | Jason Kottke |
+| Simonetta | 1,624,043,732 | Brownfox |
+| Single Day | 302,694,986 | DXKorea Inc |
+| Sintony | 13,087,803,548 | Eduardo Rodriguez Tunni |
+| Sirin Stencil | 619,291,102 | Cyreal |
+| Sirivennela | 9,658,773 | Appaji Ambarisha Darbha |
+| Six Caps | 9,510,168,118 | Vernon Adams |
+| Sixtyfour | 50,797,268 | Jens Kutílek |
+| Sixtyfour Convergence | 59,511,589 | Simon Cozens, Jens Kutílek |
+| Skranji | 3,792,319,383 | Neapolitan |
+| Slabo 13px | 5,129,758,213 | John Hudson |
+| Slabo 27px | 1,111,270,720,214 | John Hudson |
+| Slackey | 4,202,022,506 | Sideshow |
+| Slackside One | 31,431,622 | Maniackers Design |
+| Smokum | 883,451,637 | Astigmatic |
+| Smooch | 308,575,041 | Robert Leuschke |
+| Smooch Sans | 25,091,025,936 | Robert Leuschke |
+| Smythe | 970,002,992 | Vernon Adams |
+| SN Pro | 42,632,535 | Tobias Whetton, Supernotes |
+| Sniglet | 3,731,833,860 | Haley Fiege |
+| Snippet | 1,102,472,112 | Gesine Todt |
+| Snowburst One | 575,202,707 | Annet Stirling |
+| Sofadi One | 653,756,908 | Botjo Nikoltchev |
+| Sofia | 6,285,333,977 | LatinoType |
+| Sofia Sans | 7,526,396,746 | Lettersoup, Botio Nikoltchev, Ani Petrova |
+| Sofia Sans Condensed | 3,630,840,854 | Lettersoup, Botio Nikoltchev, Ani Petrova |
+| Sofia Sans Extra Condensed | 1,694,026,976 | Lettersoup, Botio Nikoltchev, Ani Petrova |
+| Sofia Sans Semi Condensed | 899,160,608 | Lettersoup, Botio Nikoltchev, Ani Petrova |
+| Solitreo | 202,648,960 | Nathan Gross, Bryan Kirschen |
+| Solway | 1,045,744,777 | Mariya Lish, The Northern Block |
+| Sometype Mono | 327,945,748 | Ryoichi Tsunekawa |
+| Song Myung | 787,537,332 | JIKJI |
+| Sono | 253,004,646 | Tyler Finck |
+| Sonsie One | 1,241,177,162 | Riccardo De Franceschi |
+| Sora | 27,976,060,906 | Jonathan Barnbrook, Julián Moncada |
+| Sorts Mill Goudy | 15,621,686,810 | Barry Schwartz |
+| Sour Gummy | 169,739,908 | Stefie Justprince |
+| Source Code Pro | 140,057,117,235 | Paul D. Hunt |
+| Source Sans 3 | 56,243,083,104 | Paul D. Hunt |
+| Source Serif 4 | 18,238,352,450 | Frank Grießhammer |
+| Space Grotesk | 53,897,202,350 | Florian Karsten |
+| Space Mono | 19,861,922,107 | Colophon Foundry |
+| Special Elite | 25,767,267,154 | Astigmatic |
+| Special Gothic | 128,742,847 | Alistair McCready |
+| Special Gothic Condensed One | 141,496,912 | Alistair McCready |
+| Special Gothic Expanded One | 145,463,122 | Alistair McCready |
+| Spectral | 21,777,665,947 | Production Type |
+| Spectral SC | 2,223,370,422 | Production Type |
+| Spicy Rice | 3,919,286,243 | Astigmatic |
+| Spinnaker | 8,488,034,701 | Elena Albertoni |
+| Spirax | 2,274,900,709 | Brenda Gallo |
+| Splash | 51,373,409 | Robert Leuschke |
+| Spline Sans | 1,162,160,397 | Eben Sorkin, Mirko Velimirović |
+| Spline Sans Mono | 260,827,692 | Eben Sorkin, Mirko Velimirović |
+| Squada One | 17,821,780,025 | Joe Prince |
+| Square Peg | 495,966,031 | Robert Leuschke |
+| Sree Krushnadevaraya | 827,239,395 | Purushoth Kumar Guttula |
+| Sriracha | 7,669,669,807 | Cadson Demak |
+| Srisakdi | 490,666,320 | Cadson Demak |
+| Staatliches | 20,645,607,958 | Brian LaRossa, Erica Carras |
+| Stack Sans Headline | 31,265,020 | Koto |
+| Stack Sans Notch | 16,797,811 | Koto |
+| Stack Sans Text | 37,363,248 | Koto |
+| Stalemate | 1,280,659,361 | Astigmatic |
+| Stalinist One | 313,734,219 | Alexey Maslov, Jovanny Lemonad |
+| Stardos Stencil | 3,928,462,560 | Vernon Adams |
+| Stick | 446,984,032 | Fontworks Inc. |
+| Stick No Bills | 320,178,578 | Mooniak |
+| Stint Ultra Condensed | 2,879,055,170 | Astigmatic |
+| Stint Ultra Expanded | 1,010,389,965 | Astigmatic |
+| STIX Two Math | 2,666,940,326 | Tiro Typeworks, Ross Mills, John Hudson, Paul Hanslow |
+| STIX Two Text | 5,251,483,002 | Tiro Typeworks, Ross Mills, John Hudson, Paul Hanslow |
+| Stoke | 1,168,829,259 | Nicole Fally |
+| Story Script | 21,597,015 | Lana Roulhac, Ben Buysse |
+| Strait | 3,188,832,988 | Eduardo Tunni |
+| Strichpunkt Sans | 6,005,938 | René Bieder |
+| Style Script | 1,243,245,324 | Robert Leuschke |
+| Stylish | 544,000,655 | AsiaSoft Inc |
+| Sue Ellen Francisco | 4,444,875,850 | Kimberly Geswein |
+| Suez One | 5,059,272,670 | Michal Sahar |
+| Sulphur Point | 640,958,369 | Dale Sattler |
+| Sumana | 1,438,073,993 | Cyreal |
+| Sunflower | 3,039,960,471 | JIKJISOFT |
+| Sunshiney | 2,119,931,093 | Sideshow |
+| Supermercado One | 1,357,248,832 | James Grieshaber |
+| Sura | 823,992,595 | Carolina Giovagnoli |
+| Suranna | 2,907,071,900 | Purushoth Kumar Guttula |
+| Suravaram | 146,660,388 | Purushoth Kumar Guttula |
+| SUSE | 537,571,578 | René Bieder |
+| SUSE Mono | 10,886,988 | René Bieder |
+| Suwannaphum | 860,690,099 | Danh Hong |
+| Swanky and Moo Moo | 1,563,812,352 | Kimberly Geswein |
+| Syncopate | 12,480,061,965 | Astigmatic |
+| Syne | 6,403,220,979 | Bonjour Monde, Lucas Descroix, George Triantafyllakos |
+| Syne Mono | 847,538,528 | Bonjour Monde, Lucas Descroix |
+| Syne Tactile | 70,392,338 | Bonjour Monde, Lucas Descroix |
+| Tac One | 133,675,997 | Afrotype, Seyi Olusanya, Eyiyemi Adegbite, David Udoh, Mirko Velimirović |
+| Tagesschrift | 24,785,340 | Yanone |
+| Tai Heritage Pro | 70,978,411 | SIL International |
+| Tajawal | 48,918,028,575 | Boutros Fonts, Mourad Boutros, Soulaf Khalifeh |
+| Tangerine | 22,781,853,518 | Toshi Omagari |
+| Tapestry | 51,652,963 | Robert Leuschke |
+| Taprom | 296,569,967 | Danh Hong, Neapolitan |
+| TASA Explorer | 15,272,403 | Local Remote, Weizhong Zhang |
+| TASA Orbiter | 33,104,458 | Local Remote, Weizhong Zhang |
+| Tauri | 3,619,317,348 | Yvonne Schüttler |
+| Taviraj | 14,090,417,025 | Cadson Demak |
+| Teachers | 197,708,929 | Alfredo Marco Pradil, Chank Diesel |
+| Teko | 90,850,610,112 | Indian Type Foundry |
+| Tektur | 1,013,129,009 | Adam Jagosz |
+| Telex | 8,858,005,527 | Huerta Tipográfica |
+| Tenali Ramakrishna | 1,436,050,978 | Appaji Ambarisha Darbha |
+| Tenor Sans | 13,258,258,388 | Denis Masharov |
+| Text Me One | 1,069,928,320 | Julia Petretta |
+| Texturina | 261,720,776 | Guillermo Torres, Omnibus-Type |
+| Thasadith | 1,876,977,465 | Cadson Demak |
+| The Girl Next Door | 7,589,824,017 | Kimberly Geswein |
+| The Nautigal | 282,729,584 | Robert Leuschke |
+| Tienne | 2,887,891,465 | Vernon Adams |
+| TikTok Sans | 137,153,168 | Grilli Type, Contrast Foundry, Type Network |
+| Tillana | 1,370,378,211 | Indian Type Foundry |
+| Tilt Neon | 599,864,904 | Andy Clymer |
+| Tilt Prism | 198,191,887 | Andy Clymer |
+| Tilt Warp | 941,737,021 | Andy Clymer |
+| Timmana | 1,743,490,049 | Appaji Ambarisha Darbha |
+| Tinos | 42,370,296,895 | Steve Matteson |
+| Tiny5 | 141,659,547 | Stefan Schmidt |
+| Tiro Bangla | 595,859,148 | Tiro Typeworks, John Hudson, Fiona Ross, Neelakash Kshetrimayum |
+| Tiro Devanagari Hindi | 462,549,997 | Tiro Typeworks, John Hudson, Fiona Ross, Paul Hanslow |
+| Tiro Devanagari Marathi | 117,570,324 | Tiro Typeworks, John Hudson, Fiona Ross, Paul Hanslow |
+| Tiro Devanagari Sanskrit | 133,340,993 | Tiro Typeworks, John Hudson, Fiona Ross, Paul Hanslow |
+| Tiro Gurmukhi | 89,911,478 | Tiro Typeworks, John Hudson, Fiona Ross, Paul Hanslow |
+| Tiro Kannada | 195,205,978 | Tiro Typeworks, John Hudson, Fiona Ross, Kaja Słojewska |
+| Tiro Tamil | 58,297,490 | Tiro Typeworks, Fernando Mello, Fiona Ross, Kaja Słojewska |
+| Tiro Telugu | 79,590,142 | Tiro Typeworks, John Hudson, Fiona Ross, Kaja Słojewska |
+| Tirra | 4,191,843 | SIL International |
+| Titan One | 14,791,009,909 | Rodrigo Fuenzalida |
+| Titillium Web | 371,464,819,848 | Accademia di Belle Arti di Urbino |
+| Tomorrow | 1,650,388,955 | Tony de Marco, Monica Rizzolli |
+| Tourney | 204,926,795 | Tyler Finck, ETC |
+| Trade Winds | 1,549,989,995 | Sideshow |
+| Train One | 404,816,131 | Fontworks Inc. |
+| Triodion | 16,873,184 | Aleksandr Andreev |
+| Trirong | 4,414,035,945 | Cadson Demak |
+| Trispace | 274,674,862 | Tyler Finck, ETC |
+| Trocchi | 6,450,703,413 | Vernon Adams |
+| Trochut | 691,483,076 | Andreu Balius |
+| Truculenta | 298,677,590 | Omnibus-Type |
+| Trykker | 1,191,015,471 | Magnus Gaarde |
+| Tsukimi Rounded | 55,690,203 | Takashi Funayama |
+| Tuffy | 8,587,827 | Thatcher Ulrich |
+| Tulpen One | 1,709,936,023 | Naima Ben Ayed |
+| Turret Road | 1,613,581,805 | Dale Sattler |
+| Twinkle Star | 70,251,579 | Robert Leuschke |
+| Ubuntu | 916,504,872,104 | Dalton Maag |
+| Ubuntu Condensed | 68,307,400,636 | Dalton Maag |
+| Ubuntu Mono | 20,098,539,844 | Dalton Maag |
+| Ubuntu Sans | 569,159,537 | Dalton Maag |
+| Ubuntu Sans Mono | 27,373,461 | Dalton Maag |
+| Uchen | 98,497,486 | Christopher J. Fynn |
+| Ultra | 17,274,694,243 | Astigmatic |
+| Unbounded | 8,568,606,037 | NaN |
+| Uncial Antiqua | 1,216,373,990 | Astigmatic |
+| Underdog | 674,742,885 | Sergey Steblina, Jovanny Lemonad |
+| Unica One | 13,687,339,767 | Eduardo Tunni |
+| UnifrakturCook | 1,388,037,988 | j. 'mach' wust |
+| UnifrakturMaguntia | 3,867,497,245 | j. 'mach' wust |
+| Unkempt | 7,258,183,983 | Sideshow |
+| Unlock | 581,647,728 | Eduardo Tunni |
+| Unna | 15,764,637,993 | Omnibus-Type |
+| UoqMunThenKhung | 8,456,978 | Moonlit Owen |
+| Updock | 108,616,597 | Robert Leuschke |
+| Urbanist | 24,214,356,290 | Corey Hu |
+| Vampiro One | 1,200,558,633 | Riccardo De Franceschi |
+| Varela | 16,014,981,405 | Joe Prince |
+| Varela Round | 112,322,379,737 | Joe Prince |
+| Varta | 507,078,596 | Joana Correia, Viktoriya Grabowska, Eben Sorkin |
+| Vast Shadow | 2,773,782,726 | Nicole Fally |
+| Vazirmatn | 3,906,209,462 | Saber Rastikerdar |
+| Vend Sans | 44,454,465 | Bloom Type Foundry, Baptiste Guesnon |
+| Vesper Libre | 2,312,590,330 | Mota Italic |
+| Viaoda Libre | 639,531,728 | Gydient, ViệtAnh Nguyễn |
+| Vibes | 181,172,996 | AbdElmomen Kadhim (blueMix) |
+| Vibur | 2,145,270,244 | Johan Kallas |
+| Victor Mono | 101,707,148 | Rune Bjørnerås |
+| Vidaloka | 20,630,314,051 | Cyreal |
+| Viga | 18,233,095,969 | Fontstage |
+| Vina Sans | 657,631,977 | Nguyen Type |
+| Voces | 2,508,293,399 | Ana Paula Megda, Pablo Ugerman |
+| Volkhov | 21,575,272,440 | Cyreal |
+| Vollkorn | 65,885,455,131 | Friedrich Althausen |
+| Vollkorn SC | 1,522,547,294 | Friedrich Althausen |
+| Voltaire | 12,215,302,247 | Yvonne Schüttler |
+| VT323 | 12,062,132,448 | Peter Hull |
+| Vujahday Script | 401,024,575 | Robert Leuschke |
+| Waiting for the Sunrise | 6,885,442,666 | Kimberly Geswein |
+| Wallpoet | 3,669,977,703 | Lars Berggren |
+| Walter Turncoat | 6,563,770,822 | Sideshow |
+| Warnes | 195,004,132 | Eduardo Tunni |
+| Water Brush | 149,763,722 | Robert Leuschke |
+| Waterfall | 292,674,611 | Robert Leuschke |
+| Wavefont | 18,111,857 | Dmitry Ivanov |
+| WDXL Lubrifont JP N | 23,579,750 | NightFurySL2001 |
+| WDXL Lubrifont SC | 16,817,622 | NightFurySL2001 |
+| WDXL Lubrifont TC | 17,723,621 | NightFurySL2001 |
+| Wellfleet | 900,897,869 | Riccardo De Franceschi |
+| Wendy One | 2,634,040,568 | Alejandro Inler |
+| Whisper | 705,186,774 | Robert Leuschke |
+| WindSong | 630,365,442 | Robert Leuschke |
+| Winky Rough | 33,234,136 | Typofactur |
+| Winky Sans | 72,371,534 | Typofactur |
+| Wire One | 3,165,167,297 | Cyreal |
+| Wittgenstein | 50,777,009 | Jörg Drees |
+| Wix Madefor Display | 1,242,953,407 | Dalton Maag |
+| Wix Madefor Text | 1,820,189,011 | Dalton Maag |
+| Work Sans | 371,649,195,316 | Wei Huang |
+| Workbench | 48,807,453 | Jens Kutílek |
+| Xanh Mono | 637,790,612 | Yellow Type, Lâm Bảo, Duy Dao |
+| Yaldevi | 214,776,452 | Mooniak |
+| Yanone Kaffeesatz | 153,668,896,106 | Yanone, Cyreal |
+| Yantramanav | 27,673,714,720 | Erin McLaughlin |
+| Yarndings 12 | 8,449,017 | Sarah Cadigan-Fried |
+| Yarndings 12 Charted | 8,714,853 | Sarah Cadigan-Fried |
+| Yarndings 20 | 11,836,484 | Sarah Cadigan-Fried |
+| Yarndings 20 Charted | 7,587,343 | Sarah Cadigan-Fried |
+| Yatra One | 5,700,413,116 | Catherine Leigh Schmidt |
+| Yellowtail | 27,750,017,727 | Astigmatic |
+| Yeon Sung | 487,407,817 | Woowahan brothers |
+| Yeseva One | 12,332,924,539 | Jovanny Lemonad |
+| Yesteryear | 6,051,629,846 | Astigmatic |
+| Yomogi | 319,933,392 | Satsuyako |
+| Young Serif | 1,109,545,457 | Bastien Sozeau |
+| Yrsa | 8,351,468,871 | Rosetta, Anna Giedryś, David Březina |
+| Ysabeau | 127,840,905 | Christian Thalmann |
+| Ysabeau Infant | 111,383,277 | Christian Thalmann |
+| Ysabeau Office | 317,936,188 | Christian Thalmann |
+| Ysabeau SC | 372,972,671 | Christian Thalmann |
+| Yuji Boku | 101,721,129 | Kinuta Font Factory |
+| Yuji Hentaigana Akari | 28,252,991 | Kinuta Font Factory |
+| Yuji Hentaigana Akebono | 16,381,645 | Kinuta Font Factory |
+| Yuji Mai | 941,979,260 | Kinuta Font Factory |
+| Yuji Syuku | 382,661,256 | Kinuta Font Factory |
+| Yusei Magic | 1,142,287,698 | Tanukizamurai |
+| Zain | 273,622,396 | Boutros Fonts |
+| Zalando Sans | 110,676,100 | Jakob Ekelund, KH Type, Zalando |
+| Zalando Sans Expanded | 168,905,407 | Jakob Ekelund, KH Type, Zalando |
+| Zalando Sans SemiExpanded | 65,189,907 | Jakob Ekelund, KH Type, Zalando |
+| ZCOOL KuaiLe | 739,411,027 | Liu Bingke, Yang Kang, Wu Shaojie |
+| ZCOOL QingKe HuangYou | 1,284,130,784 | Zheng Qingke |
+| ZCOOL XiaoWei | 2,128,073,078 | Li Dawei |
+| Zen Antique | 895,305,973 | Yoshimichi Ohira |
+| Zen Antique Soft | 532,369,100 | Yoshimichi Ohira |
+| Zen Dots | 673,346,240 | Yoshimichi Ohira |
+| Zen Kaku Gothic Antique | 1,765,865,684 | Yoshimichi Ohira |
+| Zen Kaku Gothic New | 10,763,859,190 | Yoshimichi Ohira |
+| Zen Kurenaido | 767,334,500 | Yoshimichi Ohira |
+| Zen Loop | 84,640,447 | Yoshimichi Ohira |
+| Zen Maru Gothic | 7,244,965,029 | Yoshimichi Ohira |
+| Zen Old Mincho | 3,321,959,792 | Yoshimichi Ohira |
+| Zen Tokyo Zoo | 188,426,030 | Yoshimichi Ohira |
+| Zeyada | 10,180,611,834 | Kimberly Geswein |
+| Zhi Mang Xing | 351,592,367 | Wei Zhimang |
+| Zilla Slab | 53,735,670,037 | Typotheque |
+| Zilla Slab Highlight | 892,683,421 | Typotheque |
+
+---
+
+## Typography Knowledge
+
+
+### Introduction
+
+Fonts Knowledge - Google Fonts
+
+
+### Using_Google_Fonts
+
+Fonts Knowledge - Google Fonts
+
+
+### Managing_Font_Data
+
+Fonts Knowledge - Google Fonts
+
+
+### Adding_Font_Styles
+
+Fonts Knowledge - Google Fonts
+
+
+### Use_Cases
+
+Glossary – Fonts Knowledge - Google Fonts
+
+
+### About_Typefaces
+
+Glossary – Fonts Knowledge - Google Fonts
+
+
+### Typographic_Basics
+
+Fonts Knowledge - Google Fonts
+
+
+### Readability
+
+Readability & accessibility – Fonts Knowledge - Google Fonts
+
+
+### Pairing_Typefaces
+
+Pairing typefaces – Fonts Knowledge - Google Fonts
+
+
+### Responsive_Type
+
+Fonts Knowledge - Google Fonts
+
+
+### Variable_Fonts
+
+Fonts Knowledge - Google Fonts
+
+
+### Choosing_Typefaces
+
+Readability & accessibility – Fonts Knowledge - Google Fonts
+
+
+### Writing_Systems
+
+Readability & accessibility – Fonts Knowledge - Google Fonts
+
+
+### Font_Subsets
+
+Fonts Knowledge - Google Fonts
+
+
+---
+
+## Typography Guides (from web.dev, NN/g, Google)
+
+
+### Webdev Accessible Typography
+
+We want to hear from you! We are looking for web developers to participate in user research, product testing, discussion groups and more. Apply now to join our WebDev Insights Community .
+
+ -
+
+ web.dev
+
+ -
+
+ Resources
+
+ -
+
+ Accessibility
+
+#
+ Typography
+
+ Stay organized with collections
+
+ Save and categorize content based on your preferences.
+
+Creating and designing accessible content is more than just choosing an
+easy-to-read font. Even with accessible font families, people with low vision,
+cognitive, language, and learning disabilities may struggle to process the text
+due to other elements such as font variations, size, spacing, and kerning—to
+name a few.
+
+This module looks at basic design considerations to make your content more
+inclusive and reach even more people.
+
+## Typeface
+
+A major factor that can strongly impact copy accessibility is the typeface. Your
+choice of typeface and style can make or break any page design.
+
+People with reading, learning, and attention disorders like dyslexia and
+attention-deficit hyperactivity disorder (ADHD), as well as people with low
+vision, can all benefit when you use accessible typefaces.
+
+### Choose common typefaces
+
+The quickest way to create an accessible design is to choose a common typeface
+(such as Arial, Times New Roman, Calibri, Verdana, and many others).
+
+Many typeface studies
+testing people with disabilities show that common typefaces lead to faster
+reading speeds and a deeper comprehension level when compared to uncommon
+typefaces. While common typefaces aren't inherently more accessible than
+other typefaces, some people with disabilities have an easier time reading them
+because they have had a lot of experience working with (or around) these
+typefaces.
+
+In addition to choosing a common typeface, be sure to avoid ornate or
+handwritten typefaces, as well as ones with only one character case available
+(for example, only uppercase characters). These specialty typefaces with cursive
+designs, quirky shapes, or artistic features like thin lines may look nice, but
+they are much harder for some people with disabilities to read than common
+typefaces.
+
+### Letter characteristics and kerning
+
+The research on whether serif or sans serif typefaces are easier to
+read is inconclusive,
+but certain numbers, letters, or combinations can confuse
+ people with language-based learning and cognitive disabilities .
+For people with these types of disabilities, every letter and number must be
+clearly defined and have unique characteristics, so letters are not confused
+with a numbers.
+
+Common readability offenders are the uppercase `I` (India), lowercase `l`
+(lettuce), and the number `1`. Likewise, letter pairs like `b` and `d`, `p` and
+`q`, `f` and `t`, `i` and `j`, `m` and `w`, and `n` and `u` may appear flipped,
+either left-right or up-down, for some readers.
+
+The copy's readability also decreases when the letter spacing or kerning is too
+tight. Pay special attention to kerning, especially between the problematic
+letter pair r/n. Otherwise, words like "yarn" could change to "yam" or "stern"
+to "stem," entirely changing the meaning of the copy.
+
+Open source typeface collections like Google Fonts can
+aid you in selecting the most inclusive typeface for your next design.
+If you use Adobe products, you can embed accessible font families from foundry
+partners directly into your designs&mdash;this includes select
+ Google Fonts .
+
+When you are looking for your next typeface, pay particular attention to the
+following:
+
+- Use common fonts whenever possible.
+
+- Avoid using elaborate or handwritten fonts and those with only one character
+case.
+
+- Pick a typeface with unique characteristics—paying special attention to the
+uppercase I, lowercase l, and 1.
+
+- Review certain letter combinations to be sure they are not an exact mirror
+image of one another.
+
+- Check the kerning, especially between the r and n
+letter pair.
+
+### Font size and typographic styling
+
+People often assume that picking out an accessible font family is all there is
+to creating inclusive content, but it is also important to consider the
+ font size
+and how the text is styled on a page.
+
+For example, people with low vision or color blindness may be unable to read
+some of the copy if it's too small, using an AT—like browser zoom to read the
+copy. Other users, such as those with dyslexia or reading disorders, may
+have trouble reading italic text. Screen readers often ignore styling methods,
+such as bold and italics, so the intent of these styles is not conveyed to blind
+or low-vision users.
+
+ Don't
+ h2 {font-size: 16px;}
+
+ Do
+
+```
+h2 {font-size: 1rem;}
+```
+
+ Since you cannot predict what every user's needs are, when adding fonts to your
+websites and web applications, be sure to consider the following guidelines:
+
+- Base font sizes should be defined with a relative value (%, rem, or em) to
+allow for resizing.
+
+- Limit the number of typeface variations like color, bold , ALL CAPS, and
+ italics to increase readability. Instead, use methods to emphasize words in
+your copy, such as asterisks, dashes, or highlighting an individual word.
+
+- Use markup instead of text on images whenever possible. Screen readers cannot
+read embedded text on images (without extra code added), and embedded text
+can also become pixelated when magnified by low-vision users.
+
+## Structure and layout
+
+While typeface, font size, and typographic styling are important to accessible
+typography, the
+ structure
+and layout of copy on a
+page can be equally important to a user's understanding.
+
+Complex layouts can be a real barrier for people with low vision, reading
+disabilities, and the
+ 6.1 million people in the US with ADHD .
+These types of disabilities make it more difficult for people to keep their
+place and follow the flow of the copy due to the lack of clear linear pathways,
+missing headings, and ungrouped elements.
+
+An important aspect of accessible layout designs is making critical elements
+distinct from one another and grouping similar e
+
+[... truncated, see original source]
+
+
+### Webdev Responsive Typography
+
+We want to hear from you! We are looking for web developers to participate in user research, product testing, discussion groups and more. Apply now to join our WebDev Insights Community .
+
+ -
+
+ web.dev
+
+ -
+
+ Resources
+
+ -
+
+ Responsive Design
+
+#
+ Typography
+
+ Stay organized with collections
+
+ Save and categorize content based on your preferences.
+
+If you don't specify any styles for your text, browsers will apply their own default styles. These are called User Agent stylesheets , and may vary from browser to browser. Users can set their own preferences for displaying text too.
+
+If you don't specify a line length, browsers will wrap lines of text at the edge of the screen. So text on the web is responsive by default—it flows to fit the user's viewport.
+
+But just because text fits on a screen doesn't mean it's comfortable to read. Good typography is all about presenting your text in an appropriate way. There's more to typography than choosing suitable fonts to use. You need to consider the user's preferences, the size of the text, line length, and the distance between the lines of text.
+
+## Text size
+
+It's difficult to know what size text on the web should be.
+
+If someone is using a small screen, it might be a safe bet that their screen will be fairly close to their eyes—a hand's length away.
+
+But as screens get larger and larger, it's harder to make that connection. A laptop-size screen will probably be fairly near to the viewer, but a widescreen desktop monitor is around the same size as a television screen. People sit an arm's length away from a desktop screen but they sit much further away from a television.
+
+Still, while you can't know for certain how far away someone is from a screen, you can try to use text sizes that will hopefully turn out to be appropriate. Use smaller text sizes for smaller screens and larger text sizes for larger screens.
+
+You can use media queries to change the `font-size` property as the screen size gets wider.
+
+ ` @ media ( min-width : 30em ) {
+ html {
+ font-size : 125 % ;
+ }
+ }
+
+ @ media ( min-width : 40em ) {
+ html {
+ font-size : 150 % ;
+ }
+ }
+
+ @ media ( min-width : 50em ) {
+ html {
+ font-size : 175 % ;
+ }
+ }
+
+ @ media ( min-width : 60em ) {
+ html {
+ font-size : 200 % ;
+ }
+ }
+`
+
+## Scaling text
+
+ Switching between fixed text sizes at specific breakpoints is quite jumpy. A more responsive approach is to let the user's device width influence the text size.
+
+The `vw` unit in CSS stands for “viewport width.” Connecting font sizes to the
+ viewport's width means that the text will grow and shrink in proportion to the browser width. This makes it difficult to predict what the text size will be at any specific width, but you know that the text size will be appropriate for the user's browser width.
+
+It's important that you don't use the `vw` by itself in a font-size declaration.
+
+ Don't
+ html {
+ font-size : 2.5 vw ;
+ }
+
+ If you do, the user won't be able to resize the text. The text will be resizable if you mix in a relative unit—like `em`, `rem` or `ch`. The CSS `calc()` function is perfect for this.
+
+ Do
+ html {
+ font-size : calc ( 0.75 rem + 1.5 vw );
+ }
+
+ Let the browser do the math. This makes it difficult to predict exactly what the text size will be at any specific width, but you know that the text size will be in the right range. The user's browser takes care of figuring out the exact text size calculations.
+
+But now there's a possibility that the text will get too small on narrow screens and too big on wide screens.
+
+## Clamping text
+
+You probably don't want your text to shrink and grow to extremes. You can control where the scaling starts and ends using the CSS `clamp()` function. This “clamps” the scaling to a specific range.
+
+The `clamp()` function is like the `calc()` function but it takes three values. The middle value is the same as what you pass to `calc()`. The opening value specifies the minimum size, in this case 1rem so as to not go below the user's preferred font size. The closing value specifies the maximum size.
+
+ ` html {
+ font-size : clamp ( 1 rem , 0.75 rem + 1.5 vw , 2 rem );
+ }
+`
+
+ Now the text size shrinks and grows in proportion to the user's screen but the text size will never go below `1rem` or above `2rem`.
+
+## Line length
+
+The web is not print, but we can learn lessons from the world of print and apply them on the web.
+
+In his classic book The Elements of Typographic Style , Robert Bringhurst had this to say on line length (or measure):
+
+Anything from 45 to 75 characters is widely regarded as a satisfactory line length for a single-column page set in a serifed text face in a text size. The 66-character line (counting both letters and spaces) is widely regarded as ideal. For multiple column work, a better average is 40 to 50 characters.
+
+You can't set a line length directly in CSS. There is no `line-length` property. But you can stop text from getting too wide by limiting how wide the container can be. The `max-inline-size` property is perfect for this.
+
+Don't set your line-lengths with a fixed unit like `px`. Users can scale their font size up and down and your line lengths should adjust accordingly. Use a relative unit like `rem` or `ch`.
+
+ Don't
+ article {
+ max-inline-size : 700 px ;
+ }
+
+ Do
+
+```
+ article {
+ max-inline-size : 66 ch ;
+ }
+```
+
+ Using `ch` units for width will cause new lines to wrap at the 66th character at that font size.
+
+## Line height
+
+Although there is no `line-length` property in CSS, there is a `line-height` property.
+
+Shorter lines of text can have larger `line-height` values. But if you use large `line-height` values for long lines of text, it's hard for the reader's eye to move from the end of one line to the start of the next line.
+
+ ` article {
+ max-inline-size : 66 ch ;
+ line-height : 1.65 ;
+ }
+ blockquote {
+ max-inline-size : 45 ch ;
+ line-height : 2 ;
+ }
+`
+
+ Use unitless values for your `line-height` declarations. This ensures that the line height is relative to the `font-size`.
+
+ Don't
+ line-height 
+
+[... truncated, see original source]
+
+
+### Nngroup Pairing Typefaces
+
+4
+
+# The Dos and Don’ts of Pairing Typefaces
+
+ Rachel Krause
+
+ Rachel Krause
+
+ June 19, 2022
+
+ 2022-06-19
+
+ Share
+
+ -
+
+ Email article
+
+ -
+
+ Share on LinkedIn
+
+ -
+
+ Share on Twitter
+
+ Summary:
+ When choosing typography to use in designs, narrow down your options by understanding the most common classifications, looking for typefaces with multiple variations and distinct characters, and pairing typefaces together with consistency and readability in mind.
+
+##
+ In This Article:
+
+-
+ Typographic Classifications
+
+-
+ Look for Typefaces that Support Multiple Languages
+
+-
+ Assess the Similarities Between Characters
+
+-
+ Mix Decorative Fonts with Neutrals
+
+-
+  Use Contrasting Font Weights to Distinguish Components
+
+-
+ Assign Distinct Roles when Pairing Typefaces
+
+-
+ Conclusion
+
+## Typographic Classifications
+
+ There is a whole wide world of typefaces out there and finding the right one(s) for your specific scenario can be overwhelming. A typeface , also known as a font family, can set the overall tone and personality of your site or application, as well as increase (or decrease) readability .
+
+Let’s first start by defining some common characteristics across typefaces:
+
+- Baseline: An imaginary line where letters sit
+
+- X-height: The height of the typeface’s lowercase letters, not including ascenders or descenders
+
+- Foot: the part of the letter that rests on the baseline (often seen in serif fonts)
+
+- Stroke: A single line, straight or curved, that makes up a part of a letter
+
+ Basic typography terminology
+
+These definitions will be useful when describing typeface classifications. When looking for typefaces to use in projects, decide which classification of typeface will look best.
+
+There are several classifications of typefaces, but what you often see in websites and applications fall into the following categories:
+
+- Serif: Typefaces that use feet at the end of character strokes and often use varying letter-stroke widths
+
+- Sans-serif (French for “without serif”) : Typefaces without feet, which often have thinner letter strokes and larger x-heights
+
+- Slab-serif: Typefaces that look sans-serif, but possess thick, block-like serifs that match the overall letter stroke
+
+- Script: Typefaces that are decorated with flourishes meant to resemble handwriting
+
+- Display: Typefaces that stand out with decorative features and are meant to be used at large sizes
+
+- Monospaced: Typefaces with all or most characters taking up the same horizontal space (whereas in most typefaces, letters like W are much wider than letters like J )
+
+ The six typeface classifications — serif, sans-serif, slab-serif, script, display, and monospaced — are pictured to represent headline and body-copy sizes.
+
+With these classifications in mind, you can begin to narrow down your options when searching for typefaces that will best suit your website or application. But, even so, choosing typefaces often feels like a guessing game: you pick a typeface, apply it to your design, decide it’s not what you wanted or that it clashes with other aspects of the design, then go back to choose another typeface. Rinse and repeat.
+
+You can make this process easier by starting with the guidelines described below.
+
+## Look for Typefaces that Support Multiple Languages
+
+A quick way to narrow down your list is to focus on typefaces that support multiple languages. This is especially important if you serve international users. However, even if your site supports a single language, users may translate it using third-party software, so it’s a good practice to select a typeface supporting multiple languages anyway.
+
+Test how your content will look in different languages by translating the page or application. Notice how your typeface looks in different characters and how the layout changes.
+
+ The same design pictured in 3 languages, using the same typeface, Proxima Nova: English (left); Japanese (middle); Nepali (right), a language not supported by the typeface.
+
+Knowing how your typeface appears in different languages can influence how you design the page and how your users perceive your product or service.
+
+## Assess the Similarities Between Characters
+
+Some typefaces, especially sans-serifs, are minimalistic and have unclear distinctions between characters. Check how well your candidate typeface differentiates between the number 1 , the uppercase I, and the lowercase L .
+
+It’s true that users often can get what a character means depending on context, so, in many situations, lack of clear distinctions between characters may not impact the legibility of your typeface. However, if your typeface will be used to display alphanumerical data (e.g., verification codes), similarity between different characters could cause issues. This is especially true if you’re serving users in the financial, government, or healthcare industries, where account numbers are prevalent.
+
+ Testing the similarities between common characters in sans-serif typefaces: The example on the left shows a typeface with a clear difference between numbers and letters, but very similar uppercase and lowercase letters; the middle example shows virtually no difference between characters and makes account numbers difficult to decipher; the right has distinct differences between each character.
+
+## Mix Decorative Fonts with Neutrals
+
+Script and display typefaces bring brand personality into your site or application and set you apart from competitors. However, do not go overboard with decoration . In this case, less is more.
+
+Reserve decorative typefaces that have a lot of personality for less-utilized elements, such as headers or illustrations. Decorative typefaces are difficult to read at small sizes and should never be used for body copy.
+
+Pair a decorative typeface with a neutral serif or sans-serif typeface. If your decorative typeface has intense flourishes, it will look best when paired with a sans-serif typeface. If you’d rather pair it with a serif or slab-serif, make sure its serifs aren’t s
+
+[... truncated, see original source]
+
+
+### Nngroup Typography Terms
+
+6
+
+# Typography Terms: Glossary
+
+ Sarah Gibbons, Therese Fessenden
+
+ Sarah Gibbons and
+
+ Therese Fessenden
+
+ May 10, 2024
+
+ 2024-05-10
+
+ Share
+
+ -
+
+ Email article
+
+ -
+
+ Share on LinkedIn
+
+ -
+
+ Share on Twitter
+
+ Summary:
+ Use this glossary to clarify key definitions related to typography.
+
+ Typography is a key component in almost every digital experience. However, its complexity and jargon make it a common source of misunderstanding.
+
+Understanding key typography terms will allow you to:
+
+- Increase the legibility (and therefore usability) of an interface
+
+- Improve visual polish and professional appearance
+
+- Create a more consistent brand identity
+
+- Cut down on costly revisions and iterations
+
+- Communicate effectively with team members
+
+Jump to a definition in the table or review the complete glossary:
+
+ Ascender
+
+ Font Decoration
+
+ Line Break
+
+ Small Caps
+
+ Baseline
+
+ Font Style
+
+ Monospaced
+
+ Text Shadow
+
+ Cap Height
+
+ Font Weight
+
+ OpenType (OT)
+
+ Typeface
+
+ Bold
+
+ Hanging Indent
+
+ Orphan
+
+ Sans-Serif Font
+
+ Descender
+
+ Italic
+
+ Paragraph Alignment
+
+ Serif
+
+ Em
+
+ Kerning
+
+ Paragraph Break
+
+ Serif Font
+
+ Em-Dash
+
+ Leading
+
+ Pica
+
+ X-Height
+
+ En-Dash
+
+ Letter Spacing
+
+ Point (pt)
+
+ Font
+
+ Ligature
+
+ Point Size
+
+#### Aperture
+
+The negative space, not completely enclosed, created within certain letters. For example, the inside of C , the two spaces in S , and the bottom of e . Typefaces with large apertures tend to be more legible than those with narrow or tight apertures.
+
+#### Ascender
+
+A section of certain lowercase letters that stretches above the x-height, like the stem of “b,”  “d,” “k,” or “t.”
+
+- See also: x-height
+
+#### Baseline
+
+The theoretical line that the bottom of all letters rest on (think about the lines on ruled paper). Descenders cross this line.
+
+- See also: descender
+
+#### Cap Height
+
+The height of capital letters in a typeface. It is measured from the baseline to the top of the character.
+
+#### Bold
+
+A font style that is thicker, and thus visually darker, than regular text. It is used to draw users’ attention to specific words or phrases.
+
+#### Descender
+
+A section of certain lowercase letters that stretches below the x-height, like the stem of a g, p, or y .
+
+- See also: x-height , ascender
+
+#### Em
+
+A relative unit of measurement that is equivalent to the font size being used. For example, if the point size is 12pt, than 1 em = 12 pt. Ems are valuable because the measurement automatically scales appropriately as the point size shifts.
+
+#### Em-Dash
+
+A punctuation mark (—) that is the equivalent width of an m and used to indicate an interruption or break in thought. It is not to be confused with an en dash (-) which indicates connections.
+
+#### En-Dash
+
+A punctuation mark (-) that is the equivalent width of an n and is used to indicate ranges and connections. It is not to be confused with an em dash (—) which suggests a break in thought.
+
+#### Font
+
+A specific set of distinct, stylized letters within a typeface. For example, Garamond Regular, bold, 12px and Arial, italic, 6px .
+
+ What’s in a (font) name? If we deconstruct the font Meta Pro Condensed, Medium, 22pt we see that Meta Pro is the typeface (or font family), Condensed is the style, Medium is the font weight, and 22pt is the font size.
+
+Font should not be confused with typeface or font family. A font describes the specific size, style, and weight of text that designers can use. A typeface is the group to which a specific font belongs.
+
+- See also: typeface
+
+#### Font Decoration (Text Decoration)
+
+Embellishments to lines of text including overline, underline, and strikethrough text. Font decoration is different from font effect (e.g., shadows), font style (e.g., italics, uppercase), font weight (e.g., thin, bold text), and font width (e.g., narrow, extended).
+
+#### Font Style
+
+The specific variant of a typeface’s appearance within a type family. The font style is often identified within the font name.
+
+#### Font Weight
+
+The thickness of the lines in each letter. Some examples include: thin, ultrathin, light, regular, medium, semibold, bold, extra bold, black, and ultrablack.
+
+#### Hanging Indent
+
+When the first line of text in a paragraph has a leftmost margin that is further to the left than that of the other lines within the same paragraph. A hanging indent is often used to help make key phrases or terms prominent and can sometimes aid in scanning lists.
+
+#### Italic
+
+A font style that slants characters to the right. It is used to draw users’ attention to specific words or indicate proper nouns.
+
+#### Kerning
+
+The negative horizontal space between consecutive characters, often applied to a specific group of letters. Sometimes, kerning is referred to as the “breathing room” between letters. There is usually an automatic or standard spacing associated with each typeface; however, this may be altered to achieve a  visually balanced appearance .
+
+- See also: letter spacing
+
+ Kerning refers to the space between the lines of each letter, whereas letter spacing refers to the space between the widest points of each letter.
+
+#### Leading (Line Height or Line Spacing)
+
+The negative vertical space between consecutive text lines, measured baseline to baseline. The baseline is the base of each letter not including downstrokes (such as those seen in lowercase p  and q ).
+
+ Leading refers to space between consecutive text lines, measured from the base of each letter (not including downstrokes, as seen in alowercase ‘p’ for example).
+
+#### Letter Spacing (Tracking)
+
+The space between the widest points of each character. Not to be confused with kerning (see below), which is often applied to the entire word, line, or paragraph.
+
+- See also: kerning
+
+#### Ligature
+
+Two or more letters touching to form a single character. A ligature might be a decorative choice for branding or aesthetics purposes or a cue for linguistics purposes.
+
+#### Line Break
+
+A point in a block of text which designates the end of one line of text and 
+
+[... truncated, see original source]
+
+
+### Nngroup Best Font Reading
+
+10
+
+# Best Font for Online Reading: No Single Answer
+
+ Jakob Nielsen
+
+ Jakob Nielsen
+
+ April 24, 2022
+
+ 2022-04-24
+
+ Share
+
+ -
+
+ Email article
+
+ -
+
+ Share on LinkedIn
+
+ -
+
+ Share on Twitter
+
+ Summary:
+ Among high-legibility fonts, a study found 35% difference in reading speeds between the best and the worst. People read 11% slower for every 20 years they age.
+
+ A large new study of the best fonts for online reading is ultimately disappointing, because it doesn’t answer the most burning question: what font should you use for your website? But it still provides many intriguing findings, including the striking conclusion that there is no single answer to this question.
+
+##
+ In This Article:
+
+-
+ The Research Study
+
+-
+ Fonts Matter
+
+-
+ Main Finding: No Best Font for All Users
+
+-
+ Can’t Ask Users
+
+-
+ Age Differences
+
+-
+ A Possible Solution for Font Optimization
+
+-
+ Conclusion
+
+## The Research Study
+
+Shaun Wallace from Adobe and colleagues conducted a reading-speed study with 352 participants. The participants were asked to read several short passages of text; each passage had 300–500 words (by comparison, this article contains 2,623 words and the average web page contains 593 words). The test stimuli were at an approximate 8th grade reading level, which matches our recommendation for web content targeted at a broad consumer audience . (This article is written at a 12th grade reading level, but it targets professionals , not the general public.)
+
+The texts were shown in 16 different fonts, with appropriate experimental controls for things like order effects.
+
+Fonts included classic typefaces (Times, Helvetica, Garamond), typefaces designed for computer use (Calibri, Arial), and typefaces specifically designed for legibility (Noto Sans, Montserrat); no “wild” fonts (think ) were included. However, each user only read texts in 5 of these fonts during the main reading-effectiveness test.
+
+While navigating the Internet, users mostly scan pages for useful information , as opposed to reading all the text word-for-word. Thus, in real life, users only read 28% of the words on a webpage, or about 166 words. In contrast, study participants did read the entire texts in a linear fashion. (Complete reading was encouraged by asking users a few comprehension questions after they had finished reading each passage.)
+
+This difference in reading behavior between web users and study participants does raise the question whether findings would be different under more realistic web-usage conditions. Even so, I still think the findings about the relationship between fonts and reading speed are of interest.
+
+The authors note that there are 3 types of reading, of which they only studied one:
+
+- Glanceable reading of a few words, as found in notifications and on tiny screens like smartwatches
+
+- “Interlude” reading: reading of short passages of prose like the ones used in the study and found on most websites
+
+- Long-form reading, for example reading of a book
+
+The three main metrics collected were:
+
+- Subjective user preference: which font did each person like the best?
+
+- Reading speed in words per minute (WPM)
+
+- Comprehension score: percent of questions answered correctly after the user finished reading a passage
+
+However, this last metric was not very interesting, as the score was very close to 90% in all conditions. High comprehension indicates that (a) the content was easy relative to the users’ reading skills, and (b) people read the texts carefully. The first of these findings is not always true for web content, and the second is rarely true for web users.
+
+## Fonts Matter
+
+On average, any given participant read 35% faster in his or her fastest font (314 WPM) compared to that same person’s slowest font (232 WPM, on average). This is a huge difference, considering that each user was only measured on 5 fonts. If reading speeds had been measured for all 16 fonts for each user, the difference between the fastest and slowest font would have been likely even bigger. And it would have been bigger again in a hypothetical (but impossible) experiment that measured people reading texts in all available fonts with sufficient legibility to be considered for practical business design. (Impossible, because there are probably thousands of good fonts, not even considering the even larger number of bad fonts which we sadly do see employed on websites from time to time.)
+
+ These 16 typefaces were measured in the study. For each font we show users' average reading speed in words per minute (WPM).
+
+## Main Finding: No Best Font for All Users
+
+With this big difference in reading speeds within users, you would expect that the study would have identified a font with the highest overall score. Well, it did: Garamond had the highest average reading speed at 312 WPM; it was 6% better than #2 (Oswald, at 295 WPM) and 23% better than the worst font of the 16 tested (Open Sans, at 254 WPM).
+
+But Garamond was only best on average . It wasn’t best for all users . There were substantial individual differences.
+
+Many users were faster readers with another font than Garamond, which means that they would be penalized by a design that used Garamond. The authors also computed a speed-rank score that shows how often a font was the fastest of those 5 fonts that a given user saw. Garamond only achieved a speed rank of 48%, which means that (slightly) more than half of the time another font would be better for a specific user. (And an even bigger percentage would likely have been better off with a different font than Garamond if all 16 fonts had been available as alternatives.)
+
+ The highest speed rank was achieved by Franklin Gothic, at 59%. Note that this still means that 41% of users would be better served by a different font out of the 5 they used. Interestingly, Franklin Gothic only scored an average reading speed of 271 WPM, which is much lower than Garamond’s reading speed of 312 WPM. In other words, Franklin Gothic is better for more people than 
+
+[... truncated, see original source]
+
+
+### Designers Guide Choosing Fonts
+
+# Choosing Web Fonts: A Beginner’s Guide
+ Take the mystery out of font selection with our step-by-step guidance
+ If you get it right, typography can be incredibly powerful. Turn to the writings of Robert Bringhurst, whose Elements of Typographic Style has served as a sage reference text for decades, and you’ll find a high-minded articulation of the craft. Typography “exists to honor content,” according to Bringhurst, and when it’s done well it “reveals every element, every relationship between elements, and every logical nuance of the text.”
+
+Whether you find these words inspiring or intimidating, the plain fact is that the right typographic choice always reflects the specific needs of the project itself. These needs are not only aesthetic, but also technical and functional—and there’s only so much you can tell from snippets of text as you scroll through a dropdown menu from Alegreya to Zapf Dingbats. Certain fonts work best in headlines, while others read well in paragraphs. Some font families are large enough to include international scripts and special characters. And if the font comes in a range of different styles (like italics or small caps) and weights (from hairline to ultra-black), it’ll offer more tools to fine-tune the design as the project comes together.
+
+There’s a lot to think about, sure, but some of the most important considerations are the practical and functional features of the project. By starting with what you already know, then thinking through the following considerations, you’ll find a font that meets your needs.
+
+## Start with your project’s scope
+
+Are you starting something that could go on for a few months or even years, like a magazine, or is it a one-off project, like a slide deck, logo, or presentation?
+
+Chances are that a large, long-term project (like a periodical or newsletter) will have a variety of different typographic needs over time. Your best bet for covering those different needs is to choose a large type family that includes a variety of weights, styles, and variants like small caps and ligatures. Large families make branding easier because sticking to a single font over time ensures that you&#x27;ll be able to handle different situations without having to add another font into the mix.  Try these examples: Alegreya , Alegreya SC , Merriweather , Merriweather Sans , Roboto , Roboto Condensed , Work Sans
+
+But if this is a short-term project (like a poster, album cover, or logo) you might not need extra weights, or the condensed and extended versions of a font. You could even choose a font with a single weight if you think it’s right for this particular task. Just bear in mind that the versatility of a large type family could still be useful as you make fine adjustments to the text in a short-run project. Try these examples:   Bubblegum Sans ,  Graduate ,  Scope One ,  Space Mono
+
+## What do you want your font to say?
+
+While the scope of your project could narrow your search by ruling out fonts that don’t have the range you need, or guiding you toward those that do, remember that there are no hard and fast rules to determine the font with the right aesthetic. That’s a matter of the font’s personality, but to some extent personality depends on familiarity.
+
+Many apps and websites still use a small selection of the most common fonts—a holdover from a time when this was the most practical approach to digital typography. It was once the case that using system fonts would be the safest choice because you could count on them to be in working order and available across most devices. Today, there’s no need to compromise by selecting a commonplace “workhorse” font. Web fonts tend to be just as reliable as system fonts, but with a greater variety to choose from.  Try these examples: Proxima Nova , Helvetica , Museo , Futura , Brandon Grotesque (popular);  Arial, Times New Roman, Courier New, Helvetica, Times, Courier, Verdana, Georgia (system); Gibson , Gotham , Classic Grotesque , Montserrat (web fonts)
+
+But if you’re still keen on finding an uncommon font to help your project stand out, there are dozens of commercial type foundries that sell proprietary fonts for either a flat fee or monthly rate. If you want a totally unique, bespoke typeface—and who wouldn’t—it can be expensive and time consuming, so start by reaching out to foundries for quotes. On the bright side, whomever you hire will probably handle many of the concerns listed in this guide. Among your free options, you could always look for a less commonly used web font. As a general rule, choosing a newer release means it won’t be in widespread use—at least not yet. We’re of course partial to  Google Fonts . Take a spin through the directory to get a sense of just how many free web fonts are out there, and use the family specimen pages to view each font’s usage across the web.
+
+## How much text are you typesetting?
+
+“Designers provide ways into—and out of—the flood of words,” writes design critic Ellen Lupton, “by breaking up text into pieces and offering shortcuts and alternate routes through masses of information.” Beyond the personality of your font choice, well-designed layouts also use visual cues, regularity, and variation to guide readers naturally. And choosing type according to the length of the text can give readers lots of cues and shortcuts to help with navigation.
+
+For headlines and subheads, you can choose an expressive, unique, even idiosyncratic font—including  Display, Decorative, Handwritten, and Script styles . These unconventional, high-contrast designs tend to work well in this context because their details and visual complexity help to attract the eye. If you’d like to use a sans serif font for short bits of text, especially in large sizes, the regular weight tends to look a little out of place. Consider using the bold and compressed styles instead. If you prefer serifs, hairline serif fonts like  Playfair Display  or  Rufina  tend to work well in short lines because their hig
+
+[... truncated, see original source]
+

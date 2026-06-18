@@ -1,0 +1,26 @@
+# Google Certified : Professional Data Engineer
+
+**Labs:** 20
+
+| # | Lab Name | Type | Level | Duration | Certifications | URL |
+|---|----------|------|-------|----------|----------------|-----|
+| 1 | Batch Processing of Data from BigQuery to Bigtable using Dataflow | Projects | Intermediate | 1h | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/batch-processing-of-data-from-bigquery-to-bigtable-using-dataflow) |
+| 2 | Batch Processing of Data from Cloud Bigtable to Json using Dataflow | Projects | Intermediate | 1h | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/batch-processing-of-data-from-cloud-bigtable-to-json-using-dataflow) |
+| 3 | Challenge Lab - Using bq tool for BigQuery | Projects | Fundamental | 1h | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-using-bq-tool-for-bigquery) |
+| 4 | Challenge Lab- Running a Pyspark Job on Dataproc | Projects | Fundamental | 45m | Google Certified : Professional Cloud Architect, Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-running-a-pyspark-job-on-dataproc) |
+| 5 | Cleaning Data using Dataprep | Projects | Intermediate | 1h | Google Certified : Professional Cloud Architect, Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/cleaning-data-using-dataprep) |
+| 6 | Creating Views, Authorized View and Materialized Views in BigQuery | Projects | Intermediate | 1h | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/creating-views-authorized-view-and-materialized-views-in-bigquery) |
+| 7 | Data warehousing in GCP - Challenge | Projects | Fundamental | 45m | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/data-warehousing-in-gcp-challenge) |
+| 8 | Distributed Image Processing in Cloud Dataproc | Projects | Intermediate | 1h | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/distributed-image-processing-in-cloud-dataproc) |
+| 9 | Introduction to Looker Studio | Projects | Fundamental | 1h | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/introduction-to-looker-studio) |
+| 10 | Moving data in batches from Cloud Spanner to Text Files on Cloud Storage using Dataflow | Projects | Intermediate | 1h | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/moving-data-in-batches-from-cloud-spanner-to-text-files-on-cloud-storage-using-dataflow) |
+| 11 | Partitioning Vs Clustering in BigQuery | Projects | Intermediate | 1h | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/partitioning-vs-clustering-in-bigquery) |
+| 12 | Processing Data in batches from BigQuery to MongoDB using Dataflow | Projects | Intermediate | 1h | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/processing-data-in-batches-from-bigquery-to-mongodb-using-dataflow) |
+| 13 | Processing Data in batches from MongoDB to BigQuery using Dataflow | Projects | Fundamental | 1h | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/processing-data-in-batches-from-mongodb-to-bigquery-using-dataflow) |
+| 14 | Processing Documents with Document AI API | Projects | Fundamental | 1h | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/processing-documents-with-document-ai-api) |
+| 15 | Running a Pyspark Job on Dataproc | Projects | Fundamental | 1h | Google Certified : Professional Cloud Architect, Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/running-a-pyspark-job-on-dataproc) |
+| 16 | Transforming Cloud Storage Text Files to Firestore Batch | Projects | Fundamental | 1h | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/transforming-cloud-storage-text-files-to-firestore-batch) |
+| 17 | Using BigQuery with Google Slides | Projects | Intermediate | 1h | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/using-bigquery-with-google-slides) |
+| 18 | Using Storage Transfer Service in GCS | Projects | Fundamental | 45m | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/using-storage-transfer-service-in-gcs) |
+| 19 | Using bq tool for BigQuery | Projects | Fundamental | 1h | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/using-bq-tool-for-bigquery) |
+| 20 | Utilizing BigQuery Machine Learning with Gemini Remote Models | Projects | Intermediate | 1h | Google Certified : Professional Data Engineer | [Link](https://business.whizlabs.com/labs/lab/utilizing-bigquery-machine-learning-with-gemini-remote-models) |

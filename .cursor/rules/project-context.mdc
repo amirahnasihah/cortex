@@ -1,0 +1,22 @@
+---
+description: dotclaude repo context — workflow and template hub
+alwaysApply: true
+---
+
+# dotclaude: workflow and template repo
+
+This repo is the **workflow and template hub** for frontend work with international clients (Nuxt/Vue, i18n, custom design). Use it when editing templates, rules, or docs here.
+
+## What lives here
+
+- **rules/global-cursor-rule.md** — Text to paste into Cursor Settings → Rules → Global (role, i18n, custom design, no shadcn assumption).
+- **docs/design-spec-template.md** — One-pager design spec to copy per project; fill from Figma or brief, then paste into Cursor when generating components.
+- **templates/** — Reusable Nuxt 4 boilerplates: `nuxt-client-base/` (no i18n), `nuxt-client-i18n/` (multi-locale). Clone the one that fits each new client.
+- **docs/** — Design spec template, conventions (`conventions.md`), nuxt-client-i18n definition (`nuxt-client-i18n.md`), **nuxt-client-i18n v2 project rules** (`rules.md` — follow when editing `templates/nuxt/nuxt-client-i18n/` or projects built from it), AI tool stack & MCP reference (`ai-tool-stack-and-mcp.md`), doc links checklist (`doc-links-checklist.md`).
+- **rules/nuxt-client-conventions.mdc** — Snippet to copy into client projects’ `.cursor/rules/` so Cursor follows the same naming and structure (see `docs/conventions.md`).
+
+## Conventions
+
+- Stack context: Nuxt 4, Tailwind v4, @nuxtjs/seo; i18n optional per template; custom design per client; no shadcn unless stated.
+- **Naming and structure:** **docs/conventions.md** for general conventions. For **nuxt-client-i18n** and projects built from it, **docs/rules.md** (v2) is the strict standard — folder structure, dependency direction, CMS/SEO/i18n/animation rules; no drift.
+- Keep rules and CLAUDE.md aligned so Cursor and Claude Code get the same context.
