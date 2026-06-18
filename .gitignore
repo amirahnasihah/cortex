@@ -505,9 +505,9 @@ generated/
 # Cortex — AI harness specific
 # -----------------------------------------------------------------------------
 # Skills — installed on demand via skills.sh, not bundled
-.agents/skills/
-.claude/skills/
-.github/skills/
+# .agents/skills/
+# .claude/skills/
+# .github/skills/
 
 # Claude Code local-only
 .claude/settings.local.json
@@ -518,3 +518,14 @@ generated/
 
 # Keep empty dirs
 !.gitkeep
+
+# Temporary files
+.tmp/
+.temp/
+.cache/
+.logs/
+.logs/
+.logs/
+.logs/
+.logs/
+.logs/

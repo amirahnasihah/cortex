@@ -1,0 +1,69 @@
+# AZ-900
+
+**Labs:** 63
+
+| # | Lab Name | Type | Level | Duration | Certifications | URL |
+|---|----------|------|-------|----------|----------------|-----|
+| 1 |  Challenge Lab - Create a Virtual Network | Lab Challenges | Fundamental | 45m | AZ-900, AZ-700 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-create-a-virtual-network) |
+| 2 |  Challenge Lab - Understanding Azure Kubernetes Service | Lab Challenges | Intermediate | 45m | AZ-900, AZ-104 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-understanding-azure-kubernetes-service) |
+| 3 | Alert on events within your Azure infrastructure using Activity Log Alerts | Lab Challenges | Intermediate | 45m | AZ-900, AZ-104 | [Link](https://business.whizlabs.com/labs/lab/alert-on-events-within-your-azure-infrastructure-using-activity-log-alerts) |
+| 4 | Alert on events within your Azure infrastructure using Activity Log Alerts challenge | Lab Challenges | Intermediate | 1h | AZ-900, AZ-104 | [Link](https://business.whizlabs.com/labs/lab/alert-on-events-within-your-azure-infrastructure-using-activity-log-alerts-challenge) |
+| 5 | Azure Database for PostgreSQL Challenge | Lab Challenges | Intermediate | 45m | AZ-900 | [Link](https://business.whizlabs.com/labs/lab/azure-database-for-postgresql-challenge) |
+| 6 | Azure VM Creation Challenge | Lab Challenges | Fundamental | 30m | AZ-900 | [Link](https://business.whizlabs.com/labs/lab/azure-vm-creation-challenge) |
+| 7 | Building a Scalable CMS Platform on Azure using LEMP Stack | Lab Challenges | Advanced | 2h | AZ-900, AZ-305 | [Link](https://business.whizlabs.com/labs/lab/building-a-scalable-cms-platform-on-azure-using-lemp-stack) |
+| 8 | Challenge Lab - Create a DNS zone and alias record | Lab Challenges | Intermediate | 1h | AZ-900, AZ-204 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-create-a-dns-zone-and-alias-record) |
+| 9 | Challenge Lab - Create a SQL database | Lab Challenges | Intermediate | 45m | AZ-900, AZ-104, DP-300, AZ-305 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-create-a-sql-database) |
+| 10 | Challenge Lab - Create an Azure Load Balancer  | Lab Challenges | Intermediate | 2h | AZ-900, AZ-400, AZ-305, AZ-700 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-create-an-azure-load-balancer) |
+| 11 | Challenge Lab - Create an SMB Azure file share and connect it to a Windows VM using the Azure portal | Lab Challenges | Intermediate | 1h | AZ-900, AZ-104 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-create-an-smb-azure-file-share-and-connect-it-to-a-windows-vm-using-the-azure-portal) |
+| 12 | Challenge Lab - Creating a Linux VM | Lab Challenges | Fundamental | 30m | AZ-900, AZ-104 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-creating-a-linux-vm) |
+| 13 | Challenge Lab - Deploy Azure Container Instances | Lab Challenges | Fundamental | 30m | AZ-900, AZ-204, AZ-400 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-deploy-azure-container-instances) |
+| 14 | Challenge Lab - Implement DNS name resolution in Azure  | Lab Challenges | Intermediate | 30m | AZ-900, AZ-104 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-implement-dns-name-resolution-in-azure) |
+| 15 | Challenge Lab - Understand Azure Resource Manager Templates | Lab Challenges | Fundamental | 30m | AZ-900, AZ-204 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-understand-azure-resource-manager-templates) |
+| 16 | Challenge Lab - Understand Network Security Group rules  | Lab Challenges | Fundamental | 30m | AZ-900, AZ-104, AZ-204, AZ-700, SC-900 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-understand-network-security-group-rules) |
+| 17 | Challenge Lab - Understanding Azure Database Services | Lab Challenges | Intermediate | 1h 30m | AZ-900, AZ-104, DP-300 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-understanding-azure-database-services) |
+| 18 | Challenge lab - Create an internal load balancer to load balance VMs | Lab Challenges | Intermediate | 1h 30m | AZ-900, AZ-400, AZ-700 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-create-an-internal-load-balancer-to-load-balance-vms) |
+| 19 | Challenge lab- Create a Windows VM using an ARM template | Lab Challenges | Fundamental | 30m | AZ-900, AZ-104, AZ-305 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-create-a-windows-vm-using-an-arm-template) |
+| 20 | Challenge lab- Deploying a container instance using ARM template | Lab Challenges | Fundamental | 30m | AZ-900, AZ-204 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-deploying-a-container-instance-using-arm-template) |
+| 21 | Challenge lab- Storage account creation | Lab Challenges | Fundamental | 45m | AZ-900, AZ-104, AZ-305 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-storage-account-creation) |
+| 22 | Challenge lab- Understanding Azure Key vault  | Lab Challenges | Fundamental | 45m | AZ-900, AZ-204, DP-300, AZ-400, AZ-305 | [Link](https://business.whizlabs.com/labs/lab/challenge-lab-understanding-azure-key-vault) |
+| 23 | Confidential Container Deployment Using Azure Portal | Lab Challenges | Fundamental | 45m | AZ-900, AZ-204, AZ-400 | [Link](https://business.whizlabs.com/labs/lab/confidential-container-deployment-using-azure-portal) |
+| 24 | Configure Network Access to the VM | Lab Challenges | Fundamental | 45m | AZ-900, AZ-305, AZ-700 | [Link](https://business.whizlabs.com/labs/lab/configure-network-access-to-the-vm) |
+| 25 | Configure Network Access to the VM using Azure CLI | Lab Challenges | Fundamental | 1h | AZ-900, AZ-305, AZ-700 | [Link](https://business.whizlabs.com/labs/lab/configure-network-access-to-the-vm-using-azure-cli) |
+| 26 | Create Azure Database for MySQL Challenge | Lab Challenges | Fundamental | 45m | AZ-900 | [Link](https://business.whizlabs.com/labs/lab/create-azure-database-for-mysql-challenge) |
+| 27 | Create a Batch account by using ARM template | Lab Challenges | Fundamental | 30m | AZ-900, AZ-104, AZ-305 | [Link](https://business.whizlabs.com/labs/lab/create-a-batch-account-by-using-arm-template) |
+| 28 | Create a DNS zone and alias record | Lab Challenges | Intermediate | 1h | AZ-900, AZ-204 | [Link](https://business.whizlabs.com/labs/lab/create-a-dns-zone-and-alias-record) |
+| 29 | Create a SQL database | Lab Challenges | Intermediate | 1h | AZ-900, AZ-104, DP-300, AZ-305 | [Link](https://business.whizlabs.com/labs/lab/create-a-sql-database) |
+| 30 | Create a Storage Account | Lab Challenges | Fundamental | 45m | AZ-900, AZ-104, AZ-305 | [Link](https://business.whizlabs.com/labs/lab/create-a-storage-account) |
+| 31 | Create a Virtual Machine | Lab Challenges | Fundamental | 45m | AZ-900, AZ-305 | [Link](https://business.whizlabs.com/labs/lab/create-a-virtual-machine) |
+| 32 | Create a Virtual Network | Lab Challenges | Fundamental | 45m | AZ-900, AZ-700 | [Link](https://business.whizlabs.com/labs/lab/create-a-virtual-network) |
+| 33 | Create a Web App | Lab Challenges | Fundamental | 30m | AZ-900, AZ-204, AZ-400 | [Link](https://business.whizlabs.com/labs/lab/create-a-web-app) |
+| 34 | Create a Windows VM using an ARM template | Lab Challenges | Fundamental | 30m | AZ-900, AZ-104, AZ-305 | [Link](https://business.whizlabs.com/labs/lab/create-a-windows-vm-using-an-arm-template) |
+| 35 | Create a Windows virtual machine using a Bicep file | Lab Challenges | Fundamental | 30m | AZ-900, AZ-104 | [Link](https://business.whizlabs.com/labs/lab/create-a-windows-virtual-machine-using-a-bicep-file) |
+| 36 | Create a static HTML web app by using Azure Cloud Shell | Lab Challenges | Fundamental | 45m | AZ-900, AZ-104, AZ-204, AZ-305 | [Link](https://business.whizlabs.com/labs/lab/create-a-static-html-web-app-by-using-azure-cloud-shell) |
+| 37 | Create an Azure Container Instance with a public IP address using Terraform | Lab Challenges | Fundamental | 30m | AZ-900, AZ-204, AZ-400 | [Link](https://business.whizlabs.com/labs/lab/create-an-azure-container-instance-with-a-public-ip-address-using-terraform) |
+| 38 | Create an Azure Load Balancer | Lab Challenges | Intermediate | 2h | AZ-900, AZ-400, AZ-305, AZ-700 | [Link](https://business.whizlabs.com/labs/lab/create-an-azure-load-balancer) |
+| 39 | Create an SMB Azure file share and connect it to a Windows VM using the Azure portal | Lab Challenges | Intermediate | 1h | AZ-900, AZ-104 | [Link](https://business.whizlabs.com/labs/lab/create-an-smb-azure-file-share-and-connect-it-to-a-windows-vm-using-the-azure-portal) |
+| 40 | Create an internal load balancer to load balance VMs | Lab Challenges | Intermediate | 1h 30m | AZ-900, AZ-104, AZ-400, AZ-700 | [Link](https://business.whizlabs.com/labs/lab/create-an-internal-load-balancer-to-load-balance-vms) |
+| 41 | Create and manage a Virtual Machine Scale Set Using Azure CLI | Lab Challenges | Fundamental | 1h | AZ-900, AZ-104 | [Link](https://business.whizlabs.com/labs/lab/create-and-manage-a-virtual-machine-scale-set-using-azure-cli) |
+| 42 | Creating a Linux VM | Lab Challenges | Fundamental | 30m | AZ-900, AZ-104 | [Link](https://business.whizlabs.com/labs/lab/creating-a-linux-vm) |
+| 43 | Creating an Azure ExpressRoute Circuit | Lab Challenges | Fundamental | 30m | AZ-900, AZ-104 | [Link](https://business.whizlabs.com/labs/lab/creating-an-azure-expressroute-circuit) |
+| 44 | Deploy Azure Container Instances | Lab Challenges | Fundamental | 30m | AZ-900, AZ-204, AZ-400 | [Link](https://business.whizlabs.com/labs/lab/deploy-azure-container-instances) |
+| 45 | Deploy a LAMP Server on Azure Using Ubuntu | Lab Challenges | Intermediate | 30m | AZ-900, AZ-104 | [Link](https://business.whizlabs.com/labs/lab/deploy-a-lamp-server-on-azure-using-ubuntu) |
+| 46 | Deploy a Linux-based AKS cluster using Azure CLI | Lab Challenges | Intermediate | 1h 30m | AZ-900, AZ-104, AZ-204 | [Link](https://business.whizlabs.com/labs/lab/deploy-a-linux-based-aks-cluster-using-azure-cli) |
+| 47 | Deploy a Linux-based AKS cluster using Azure Portal | Lab Challenges | Intermediate | 1h 30m | AZ-900, AZ-104, AZ-204 | [Link](https://business.whizlabs.com/labs/lab/deploy-a-linux-based-aks-cluster-using-azure-portal) |
+| 48 | Deploy a Windows Server container on an Azure Kubernetes Service (AKS) cluster using Azure CLI | Lab Challenges | Intermediate | 1h 30m | AZ-900, AZ-104, AZ-204 | [Link](https://business.whizlabs.com/labs/lab/deploy-a-windows-server-container-on-an-azure-kubernetes-service-aks-cluster-using-azure-cli) |
+| 49 | Deploy a Windows Server container on an Azure Kubernetes Service (AKS) cluster using the Azure portal | Lab Challenges | Intermediate | 1h 30m | AZ-900, AZ-104, AZ-204 | [Link](https://business.whizlabs.com/labs/lab/deploy-a-windows-server-container-on-an-azure-kubernetes-service-aks-cluster-using-the-azure-portal) |
+| 50 | Deploy an Azure Kubernetes Service (AKS) cluster using an ARM template | Lab Challenges | Fundamental | 45m | AZ-900, AZ-204 | [Link](https://business.whizlabs.com/labs/lab/deploy-an-azure-kubernetes-service-aks-cluster-using-an-arm-template) |
+| 51 | Deploy your first container app using the Azure portal | Lab Challenges | Fundamental | 30m | AZ-900, AZ-104, AZ-204 | [Link](https://business.whizlabs.com/labs/lab/deploy-your-first-container-app-using-the-azure-portal) |
+| 52 | Deploying Multi-Container Groups with Azure Resource Manager Templates | Lab Challenges | Intermediate | 1h | AZ-900, AZ-204, AZ-400 | [Link](https://business.whizlabs.com/labs/lab/deploying-multi-container-groups-with-azure-resource-manager-templates) |
+| 53 | Deploying a container instance using ARM template | Lab Challenges | Fundamental | 30m | AZ-900, AZ-204, AZ-400 | [Link](https://business.whizlabs.com/labs/lab/deploying-a-container-instance-using-arm-template) |
+| 54 | Deploying a container instance using Bicep | Lab Challenges | Fundamental | 30m | AZ-900, AZ-204, AZ-400 | [Link](https://business.whizlabs.com/labs/lab/deploying-a-container-instance-using-bicep) |
+| 55 | Implement DNS name resolution in Azure | Lab Challenges | Intermediate | 30m | AZ-900, AZ-104 | [Link](https://business.whizlabs.com/labs/lab/implement-dns-name-resolution-in-azure) |
+| 56 | Installing and Configuring an SSH Server on Linux | Lab Challenges | Intermediate | 30m | AZ-900, AZ-104 | [Link](https://business.whizlabs.com/labs/lab/installing-and-configuring-an-ssh-server-on-linux) |
+| 57 | Set up a queue and send a message using the Azure portal | Lab Challenges | Fundamental | 45m | AZ-900, AZ-204 | [Link](https://business.whizlabs.com/labs/lab/set-up-a-queue-and-send-a-message-using-the-azure-portal) |
+| 58 | Understand Azure Resource Manager Templates | Lab Challenges | Fundamental | 1h | AZ-900, AZ-204 | [Link](https://business.whizlabs.com/labs/lab/understand-azure-resource-manager-templates) |
+| 59 | Understand Network Security Group rules | Lab Challenges | Fundamental | 1h | AZ-900, AZ-104, AZ-204, AZ-700, SC-900 | [Link](https://business.whizlabs.com/labs/lab/understand-network-security-group-rules) |
+| 60 | Understanding Azure Database Services | Lab Challenges | Intermediate | 1h 30m | AZ-900, AZ-104, DP-300 | [Link](https://business.whizlabs.com/labs/lab/understanding-azure-database-services) |
+| 61 | Understanding Azure Key Vault | Lab Challenges | Fundamental | 45m | AZ-900, AZ-204, DP-300, AZ-400, AZ-305 | [Link](https://business.whizlabs.com/labs/lab/understanding-azure-key-vault) |
+| 62 | Understanding Azure Kubernetes Service | Lab Challenges | Intermediate | 45m | AZ-900, AZ-104 | [Link](https://business.whizlabs.com/labs/lab/understanding-azure-kubernetes-service) |
+| 63 | Using YAML to Deploy Multi-Container Groups in Azure | Lab Challenges | Intermediate | 1h | AZ-900, AZ-204, AZ-400 | [Link](https://business.whizlabs.com/labs/lab/using-yaml-to-deploy-multi-container-groups-in-azure) |

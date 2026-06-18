@@ -12,6 +12,11 @@ DESIGN_SKILLS=(
   "taste-skill"
   "frontend-design"
   "web-design-guidelines"
+  "design-taste-frontend"
+  "design-taste-frontend-v1"
+  "high-end-visual-design"
+  "stitch-design-taste"
+  "redesign-existing-projects"
 )
 
 # ── Dev Tools ────────────────────────────────────

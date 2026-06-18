@@ -1,0 +1,26 @@
+# Google Certified : Professional Cloud Database Engineer
+
+**Labs:** 20
+
+| # | Lab Name | Type | Level | Duration | Certifications | URL |
+|---|----------|------|-------|----------|----------------|-----|
+| 1 | Adding cluster for replication in Big Table | Projects | Fundamental | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/adding-cluster-for-replication-in-big-table) |
+| 2 | Assessing & Scaling options - Manual allocation & Autoscaling | Projects | Fundamental | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/assessing-scaling-options-manual-allocation-autoscaling) |
+| 3 | Challenge Lab- Introduction to Cloud BigTable | Projects | Intermediate | 45m | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/unraveling-cloud-bigtable) |
+| 4 | Deploying HA MySQL Cluster on Compute Engine | Projects | Fundamental | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/deploying-ha-mysql-cluster-on-compute-engine) |
+| 5 | Evaluating Backup and Recovery options | Projects | Fundamental | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/evaluating-backup-and-recovery-options) |
+| 6 | Evaluating Basic & Highly Available deployment strategies in AlloyDB | Projects | Fundamental | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/evaluating-basic-highly-available-deployment-strategies-in-alloydb) |
+| 7 | Evaluating Database deployment strategies for Regional & Multi-Regional in Cloud Spanner | Projects | Intermediate | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/evaluating-database-deployment-strategies-for-regional-multi-regional-in-cloud-spanner) |
+| 8 | Evaluating Storage capacity, different configuration (Nodes & Processing Units) in Cloud Spanner | Projects | Intermediate | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/evaluating-storage-capacity-different-configuration-nodes-processing-units) |
+| 9 | Evaluating different configuration in AlloyDB | Projects | Fundamental | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/evaluating-different-configuration-in-alloydb) |
+| 10 | Evaluating different configuration in Firestore (Native Mode vs Datastore Mode) | Projects | Fundamental | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/guided-lab-evaluating-different-configuration-in-firestore-native-mode-vs-datastore-mode) |
+| 11 | Introduction to AlloyDB | Projects | Fundamental | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/introduction-to-alloydb) |
+| 12 | Monitoring Database metrics in Cloud Spanner | Projects | Intermediate | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/monitoring-database-metrics-in-cloud-spanner) |
+| 13 | Monitoring Errors with Error Reporting | Projects | Fundamental | 30m | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/monitoring-errors-with-error-reporting) |
+| 14 | Monitoring metrics in Firestore | Projects | Fundamental | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/monitoring-metrics-in-firestore) |
+| 15 | Network & Security Configuration in Alloy DB (CMEK, GMEK) | Projects | Fundamental | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/network-security-configuration-in-alloy-db-cmek-gmek) |
+| 16 | Network & Security Configuration in Big Table | Projects | Fundamental | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/network-security-configuration-in-big-table) |
+| 17 | Optimizing Data Insertion in Cloud Spanner | Projects | Intermediate | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/optimizing-data-insertion-in-cloud-spanner) |
+| 18 | Scaling in Cloud Spanner | Projects | Intermediate | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/scaling-in-cloud-spanner) |
+| 19 | Securing Sensitive data in BigQuery | Projects | Fundamental | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/securing-sensitive-data-in-bigquery) |
+| 20 | Using Database flags with Alloy DB | Projects | Intermediate | 1h | Google Certified : Professional Cloud Database Engineer | [Link](https://business.whizlabs.com/labs/lab/using-database-flags-with-alloy-db) |
