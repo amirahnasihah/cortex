@@ -6,64 +6,18 @@
 
 set -e
 
-# ── Design & Frontend ────────────────────────────
-DESIGN_SKILLS=(
+# ── Third-party skills (not bundled in repo) ────
+THIRD_PARTY_SKILLS=(
   "impeccable"
   "taste-skill"
-  "frontend-design"
-  "web-design-guidelines"
-  "design-taste-frontend"
-  "design-taste-frontend-v1"
-  "high-end-visual-design"
-  "stitch-design-taste"
-  "redesign-existing-projects"
 )
 
-# ── Dev Tools ────────────────────────────────────
-DEV_SKILLS=(
-  "remotion-best-practices"
-  "remotion-render"
-)
+echo "── Installing third-party skills ──"
+for skill in "${THIRD_PARTY_SKILLS[@]}"; do
+  echo "  → $skill"
+  npx skills add "$skill" 2>/dev/null || echo "    ⚠ Failed: $skill (may need manual install)"
+done
 
-# ── Utilities ────────────────────────────────────
-UTIL_SKILLS=(
-  "find-skills"
-  "skill-creator"
-)
-
-install_skills() {
-  local label=$1
-  shift
-  local skills=("$@")
-  echo "── Installing $label skills ──"
-  for skill in "${skills[@]}"; do
-    echo "  → $skill"
-    npx skills add "$skill" 2>/dev/null || echo "    ⚠ Failed: $skill (may need manual install)"
-  done
-  echo ""
-}
-
-category="${1:-all}"
-
-case "$category" in
-  design)
-    install_skills "Design" "${DESIGN_SKILLS[@]}"
-    ;;
-  dev)
-    install_skills "Dev" "${DEV_SKILLS[@]}"
-    ;;
-  util)
-    install_skills "Utilities" "${UTIL_SKILLS[@]}"
-    ;;
-  all)
-    install_skills "Design" "${DESIGN_SKILLS[@]}"
-    install_skills "Dev" "${DEV_SKILLS[@]}"
-    install_skills "Utilities" "${UTIL_SKILLS[@]}"
-    ;;
-  *)
-    echo "Usage: bash skills.sh [all|design|dev|util]"
-    exit 1
-    ;;
-esac
-
-echo "✓ Done. Skills installed to .agents/skills/"
+echo ""
+echo "✓ Third-party skills installed."
+echo "  Custom skills (design-styles, code-rules, cloudflare, web-perf) already in repo."

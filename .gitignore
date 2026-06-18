@@ -509,16 +509,8 @@ generated/
 .github/skills/
 .claude/skills/impeccable/
 .claude/skills/taste-skill/
-.claude/skills/web-perf/
-.claude/skills/cloudflare/
-.claude/skills/find-skills
-.claude/skills/frontend-design
-.claude/skills/remotion-best-practices
-.claude/skills/remotion-render
-.claude/skills/skill-creator
-.claude/skills/web-design-guidelines
 
-# Custom skills (design-styles, code-rules) are COMMITTED — not ignored
+# Custom skills (design-styles, code-rules, cloudflare, web-perf) are COMMITTED
 
 # Claude Code local-only
 .claude/settings.local.json
