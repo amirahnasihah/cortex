@@ -77,31 +77,117 @@ Performance and security hints.
 
 Real-time accessibility feedback.
 
-## SEO Modules
+## SEO Modules — Nuxt SEO Ecosystem (nuxtseo.com)
 
-### @nuxtjs/seo (v5.3.0)
-
-Complete SEO solution. Bundles multiple SEO modules.
+The `@nuxtjs/seo` meta-module bundles the entire SEO ecosystem into one install.
 
 ```bash
 npx nuxi@latest module add seo
 ```
 
+Or install modules individually for version pinning.
+
+### Site Config (`nuxt-site-config`)
+
+Shared config across all SEO modules. Install automatically with any SEO module.
+
+```ts
+export default defineNuxtConfig({
+  siteConfig: {
+    url: 'https://mysite.com',
+    name: 'My Site',
+    description: 'Site description',
+    ogImage: '/og.png',
+    titleSeparator: ' | ',
+    titleTemplate: '%s - My Site',
+  },
+})
+```
+
 ### @nuxtjs/sitemap (v8.2.1)
 
-XML sitemap generation with SWR caching.
+XML sitemap generation. Auto-discovers pages, SWR caching, multi-sitemap support.
 
 ```bash
 npx nuxi@latest module add sitemap
 ```
 
-### @nuxtjs/robots
+- Single `/sitemap.xml` or chunked multi-sitemaps
+- Dynamic URL endpoints (CMS, databases)
+- Integrates with Nuxt Content and Nuxt I18n
+- DevTools integration for debugging
+- Zero-runtime mode available
 
-Robot.txt management.
+### @nuxtjs/robots (v6.x)
 
-### @nuxtjs/google-ads
+Robot.txt management with best-practice defaults.
 
-Google Ads integration.
+- Dev disallows by default (safe)
+- Per-page indexing control via `definePageMeta`
+- Bot detection with client-side fingerprinting
+- AI directives (Content-Usage, Content-Signal)
+- Route rules for dynamic config
+- Integrates with I18n and Nuxt Content
+
+```ts
+export default defineNuxtConfig({
+  robots: {
+    allow: '/admin',
+    disallow: '/private',
+  },
+})
+```
+
+### nuxt-og-image (v6.x)
+
+Generate OG images from Vue components or screenshots.
+
+- Vue template-based OG images
+- 3 renderers: **Takumi** (recommended, 2-10x faster), Satori, Browser
+- Custom fonts, emojis, Tailwind CSS support
+- Edge runtime compatible (Cloudflare, Vercel Edge)
+- DevTools playground with HMR
+
+```bash
+npx nuxt-og-image enable takumi
+npx nuxt-og-image create  # scaffold first template
+```
+
+### @nuxt/schema-org
+
+Automatic Schema.org structured data graphs.
+
+- Type-safe composables
+- Identity setup for site-wide schemas
+- Integrates with Nuxt Content
+- I18n support
+
+### nuxt-seo-utils
+
+SEO utilities — canonical URLs, breadcrumbs, share links, fallback titles.
+
+- `useBreadcrumbItems()` — breadcrumb navigation
+- `useFallbackTitle()` — enhanced page titles
+- `useShareLinks()` — social share URLs
+- Default meta tags, app icons, route rules
+
+### nuxt-link-checker
+
+Find and fix broken links affecting SEO.
+
+- Real-time DevTools inspection
+- Build-time scans for CI
+- ESLint integration
+- Reports generation
+
+### nuxt-ai-ready
+
+AI & LLM discoverability.
+
+- Generates `llms.txt` and `llms-full.txt`
+- MCP server for AI agents
+- IndexNow integration
+- Runtime sync for dynamic content
 
 ## UI / CSS Modules
 
