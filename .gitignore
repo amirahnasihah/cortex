@@ -1,0 +1,504 @@
+# =============================================================================
+# standard-repo — comprehensive stack gitignore
+# Copy/adapt sections per project; delete what you don't use.
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# Secrets & environment (never commit)
+# -----------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+!.env.*.example
+!.env.template
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.der
+*.jks
+*.keystore
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
+*.secret
+*.secrets
+secrets/
+.secrets/
+credentials.json
+credentials.yml
+service-account*.json
+firebase-adminsdk*.json
+google-services.json
+GoogleService-Info.plist
+.aws/credentials
+.aws/config
+.netrc
+.npmrc
+!.npmrc.example
+.pypirc
+.doppler.yaml
+.sentryclirc
+
+# -----------------------------------------------------------------------------
+# OS & filesystem
+# -----------------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.swp
+*.swo
+*~
+.fuse_hidden*
+.nfs*
+
+# -----------------------------------------------------------------------------
+# IDE & editors
+# -----------------------------------------------------------------------------
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json.example
+!.vscode/launch.json.example
+!.vscode/tasks.json.example
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+*.launch
+.history/
+.cursor/
+*.vsix
+
+# -----------------------------------------------------------------------------
+# Logs & debug
+# -----------------------------------------------------------------------------
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+bun-debug.log*
+.pnpm-debug.log*
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+debug.log
+*.pid
+*.seed
+*.pid.lock
+
+# -----------------------------------------------------------------------------
+# Node / Bun / JavaScript / TypeScript
+# -----------------------------------------------------------------------------
+node_modules/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.pnpm-store/
+bun.lockb.bak
+package-lock.json.bak
+yarn.lock.bak
+pnpm-lock.yaml.bak
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+.svelte-kit/
+.astro/
+.vercel/
+.netlify/
+.open-next/
+.turbo/
+.parcel-cache/
+.cache/
+.webpack/
+.rspack/
+storybook-static/
+.docusaurus/
+.vite/
+vite.config.*.timestamp-*
+
+# TypeScript
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# Testing & coverage
+coverage/
+.nyc_output/
+*.lcov
+.jest/
+playwright-report/
+test-results/
+blob-report/
+playwright/.cache/
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+.nyc_output
+
+# ESLint / Prettier cache
+.eslintcache
+.prettiercache
+.stylelintcache
+
+# -----------------------------------------------------------------------------
+# Python
+# -----------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+.envrc
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+htmlcov/
+.coverage
+.coverage.*
+.hypothesis/
+*.egg
+*.egg-info/
+.eggs/
+dist-python/
+build-python/
+*.manifest
+*.spec
+pip-wheel-metadata/
+poetry.lock.bak
+uv.lock.bak
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# -----------------------------------------------------------------------------
+# Go
+# -----------------------------------------------------------------------------
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/vendor/
+go.work
+go.work.sum
+
+# -----------------------------------------------------------------------------
+# Rust
+# -----------------------------------------------------------------------------
+/target/
+**/*.rs.bk
+Cargo.lock.bak
+
+# -----------------------------------------------------------------------------
+# Ruby
+# -----------------------------------------------------------------------------
+*.gem
+*.rbc
+/.config
+/InstalledFiles
+/pkg/
+/spec/reports/
+/spec/examples.txt
+/test/tmp/
+/test/version_tmp/
+/tmp/
+.bundle/
+vendor/bundle
+/.yardoc/
+/_yardoc/
+/doc/
+/.byebug_history
+
+# -----------------------------------------------------------------------------
+# Java / Kotlin / Gradle / Maven
+# -----------------------------------------------------------------------------
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+target/
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar.bak
+
+# -----------------------------------------------------------------------------
+# PHP / Composer
+# -----------------------------------------------------------------------------
+/vendor/
+composer.phar
+.phpunit.result.cache
+.php-cs-fixer.cache
+Homestead.json
+Homestead.yaml
+
+# -----------------------------------------------------------------------------
+# .NET
+# -----------------------------------------------------------------------------
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.DotSettings.user
+
+# -----------------------------------------------------------------------------
+# Docker & containers
+# -----------------------------------------------------------------------------
+.docker/
+docker-compose.override.yml
+docker-compose.*.local.yml
+*.dockerignore.local
+
+# -----------------------------------------------------------------------------
+# Terraform / OpenTofu / Terragrunt
+# -----------------------------------------------------------------------------
+.terraform/
+.terraform.lock.hcl.bak
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfplan.*
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+.terragrunt-cache/
+*.auto.tfvars
+!*.auto.tfvars.example
+
+# -----------------------------------------------------------------------------
+# Pulumi
+# -----------------------------------------------------------------------------
+.pulumi/
+
+# -----------------------------------------------------------------------------
+# AWS (CDK, SAM, Amplify, Serverless)
+# -----------------------------------------------------------------------------
+cdk.out/
+.cdk.staging/
+.aws-sam/
+samconfig.toml.bak
+amplify/
+aws-exports.js
+awsconfiguration.json
+.serverless/
+.webpack/
+.esbuild/
+
+# -----------------------------------------------------------------------------
+# Cloudflare (Workers, Pages, Wrangler)
+# -----------------------------------------------------------------------------
+.wrangler/
+.dev.vars
+.dev.vars.*
+!.dev.vars.example
+.mf/
+worker-configuration.d.ts.bak
+
+# -----------------------------------------------------------------------------
+# Vercel
+# -----------------------------------------------------------------------------
+.vercel
+
+# -----------------------------------------------------------------------------
+# Netlify
+# -----------------------------------------------------------------------------
+.netlify/
+
+# -----------------------------------------------------------------------------
+# Firebase
+# -----------------------------------------------------------------------------
+.firebase/
+firebase-debug.log*
+firestore-debug.log*
+ui-debug.log*
+.runtimeconfig.json
+
+# -----------------------------------------------------------------------------
+# Supabase
+# -----------------------------------------------------------------------------
+.branches/
+.temp/
+supabase/.branches/
+supabase/.temp/
+
+# -----------------------------------------------------------------------------
+# Sanity CMS
+# -----------------------------------------------------------------------------
+.sanity/
+dist-studio/
+
+# -----------------------------------------------------------------------------
+# Mobile — iOS
+# -----------------------------------------------------------------------------
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+DerivedData/
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+Pods/
+*.mobileprovision
+*.p8
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# -----------------------------------------------------------------------------
+# Mobile — Android
+# -----------------------------------------------------------------------------
+*.apk
+*.aab
+*.ap_
+*.dex
+local.properties
+.gradle/
+captures/
+.externalNativeBuild/
+.cxx/
+*.hprof
+
+# -----------------------------------------------------------------------------
+# Flutter / Dart
+# -----------------------------------------------------------------------------
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+*.g.dart.bak
+
+# -----------------------------------------------------------------------------
+# Databases & local data
+# -----------------------------------------------------------------------------
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.sql.bak
+*.dump
+pgdata/
+postgres-data/
+mysql-data/
+redis-data/
+mongo-data/
+*.rdb
+data/
+!data/.gitkeep
+
+# -----------------------------------------------------------------------------
+# Hetzner / VPS / bare-metal deploy artifacts
+# -----------------------------------------------------------------------------
+deploy/*.env
+deploy/secrets/
+*.backup
+backups/
+ansible/*.retry
+.ansible/
+
+# -----------------------------------------------------------------------------
+# Kubernetes / Helm
+# -----------------------------------------------------------------------------
+*.kubeconfig
+kubeconfig
+charts/*/charts/
+charts/*/tmpcharts/
+
+# -----------------------------------------------------------------------------
+# CI/CD local artifacts
+# -----------------------------------------------------------------------------
+.act/
+.github/workflows/*.local.yml
+
+# -----------------------------------------------------------------------------
+# Misc tooling
+# -----------------------------------------------------------------------------
+.turbo
+.sentry-cli
+.contentlayer/
+.content-collections/
+.openapi-generator/
+generated/
+*.generated.*
+*.min.js.map.bak
+.swc/
+.wrangler/
+.mcp.json
+!.mcp.json.example
+
+# -----------------------------------------------------------------------------
+# Archives & binaries (usually build artifacts)
+# -----------------------------------------------------------------------------
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.gz
+*.bz2
+*.xz
+*.dmg
+*.iso
+
+# Keep empty dirs
+!.gitkeep
