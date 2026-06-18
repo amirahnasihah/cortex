@@ -1,26 +1,30 @@
-# cortex — portable AI harness
+# cortex — portable AI engineering harness
 
-Personal workflow harness: conventions, templates, AI tool config, and custom skills for AI-powered development.
+Personal workflow harness: skills, conventions, design tokens, and AI tool config that travel across projects and frameworks.
+
+## What cortex IS
+
+A **portable AI harness** — not a template repo. Call skills from any project directory, any framework (Next.js, Nuxt, Astro, Svelte, etc.), and the AI follows your conventions. The harness travels with you; the project doesn't need to know about it.
+
+**Domains** (current and planned):
+- **Frontend & Design** — Tailwind v4 oklch tokens, shadcn, design specs, typography
+- **Cloud** — Cloudflare Workers, AWS (expanding)
+- **Backend** — Node/Bun, Hono, Drizzle (expanding)
+- **IoT** — ESP32, MQTT, embedded (expanding)
+
+## How to use
+
+From any repo:
+1. Call `/design-styles` — applies oklch tokens, Tailwind v4 theme, shadcn conventions
+2. Call `/code-rules` — applies TypeScript conventions, AGENTS.md scaffold
+3. AI reads your conventions and generates the right structure for the framework you're using
+
+No template cloning. No folder copying. The skills ARE the template.
 
 ## .claude
 
 - **.claude/settings.json** — Shared project settings (committed). Edit to add allowed permissions or MCPs for the whole repo.
-- **.claude/settings.local.json** — Local-only settings (add to .gitignore). Use for your machine-specific MCPs (e.g. Figma, microCMS) or extra permissions.
-
-## What lives here
-
-- **rules/global-cursor-rule.md** — Paste this into Cursor Settings → Rules → Global (role, i18n, custom design, no shadcn assumption).
-- **docs/design-spec-template.md** — One-pager design spec to copy per project; fill from Figma or brief, then paste into Cursor when generating components.
-- **templates/** — Reusable Nuxt 4 boilerplates: `nuxt-client-base/` (no i18n), `nuxt-client-i18n/` (multi-locale). Clone the one that fits each new client.
-- **docs/** — Design spec template, **conventions** (`docs/conventions.md`), **nuxt-client-i18n** definition (`docs/nuxt-client-i18n.md`), **nuxt-client-i18n v2 project rules** (`docs/rules.md` — structure, naming, dependency direction, CMS/SEO/i18n/animation rules; follow when editing `templates/nuxt/nuxt-client-i18n/` or projects built from it), AI tool stack & MCP reference (`docs/ai-tool-stack-and-mcp.md`), doc links checklist (`docs/doc-links-checklist.md`).
-- **rules/nuxt-client-conventions.mdc** — Copy into client projects’ `.cursor/rules/` so AI follows the same naming and structure.
-
-## Conventions
-
-- **Single source of truth:** **docs/conventions.md** — stack (Nuxt, TS, microCMS, Tailwind-first CSS, shadcn, optional i18n/GSAP/Lenis), naming (camelCase / PascalCase / kebab-case for files and folders), folder structure, modules, per-project choices. Reuse for new projects, other devs, and AI rules.
-- Stack: Nuxt 4, Tailwind v4 (**Tailwind-first** — avoid pure CSS when Tailwind can do it), @nuxtjs/seo; i18n optional per template; custom design per client; **shadcn manual install** (owned in-repo) + tweakcn oklch theme.
-- When editing templates, follow **docs/conventions.md** and Nuxt 4 default folder structure. For **nuxt-client-i18n** (and projects built from it), follow **docs/rules.md** (v2 project rules) — no structural or dependency drift.
-- For full workflow (phases 1–4, prompt patterns), see the AI workflow upgrade plan.
+- **.claude/settings.local.json** — Local-only settings (gitignored). Use for machine-specific MCPs (e.g. Figma, microCMS) or extra permissions.
 
 ## Skills
 
@@ -33,6 +37,16 @@ Custom skills live in `.agents/skills/` (cross-platform — works with Claude Co
 **Third-party skills** (not bundled, install via `bash install-skills.sh`):
 - impeccable, taste-skill
 - Browse more at [skills.sh](https://www.skills.sh/)
+
+## Docs
+
+- **docs/conventions.md** — Naming conventions (camelCase / PascalCase / kebab-case), folder structure patterns, design system tokens. Single source of truth across projects.
+- **docs/design-spec-template.md** — One-pager design spec to copy per project; fill from Figma or brief.
+- **docs/ai-tool-stack-and-mcp.md** — MCP philosophy and AI-aware dev environment reference.
+- **docs/tailwind-v4/** — Tailwind v4 reference docs (framework-agnostic).
+- **docs/frameworks/** — Per-framework llms.txt summaries (Next, Nuxt, Astro). Regenerate with scripts in `scripts/frameworks/`.
+- **docs/cloud/** — Cloud certification study materials (AWS, Azure, GCP, K8s).
+- **docs/languages/** — Language and tooling references.
 
 ## MCP Servers
 

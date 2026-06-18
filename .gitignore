@@ -505,19 +505,26 @@ generated/
 # Cortex — AI harness specific
 # -----------------------------------------------------------------------------
 # Third-party skills — installed on demand via install-skills.sh
+# All skills in .claude/skills/ are third-party (gitignored)
+.claude/skills/
+.github/skills/
+
+# Third-party skills in .agents/skills/ (installed via install-skills.sh)
 .agents/skills/impeccable/
 .agents/skills/taste-skill/
-.agents/skills/find-skills
-.agents/skills/frontend-design
-.agents/skills/remotion-best-practices
-.agents/skills/remotion-render
-.agents/skills/skill-creator
-.agents/skills/web-design-guidelines
-.github/skills/
-.claude/skills/impeccable/
-.claude/skills/taste-skill/
+.agents/skills/find-skills/
+.agents/skills/frontend-design/
+.agents/skills/remotion-best-practices/
+.agents/skills/remotion-render/
+.agents/skills/skill-creator/
+.agents/skills/web-design-guidelines/
 
 # Custom skills in .agents/skills/ (design-styles, code-rules) are COMMITTED
+
+# Scraped framework docs — regenerate with scripts/frameworks/
+docs/frameworks/next/*.md
+docs/frameworks/nuxt/*.md
+docs/frameworks/astro/*.md
 
 # Claude Code local-only
 .claude/settings.local.json
@@ -533,9 +540,4 @@ generated/
 .tmp/
 .temp/
 .cache/
-.logs/
-.logs/
-.logs/
-.logs/
-.logs/
 .logs/
