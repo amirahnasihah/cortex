@@ -504,13 +504,20 @@ generated/
 # -----------------------------------------------------------------------------
 # Cortex — AI harness specific
 # -----------------------------------------------------------------------------
-# Third-party skills — installed on demand via skills.sh
-.agents/skills/
+# Third-party skills — installed on demand via install-skills.sh
+.agents/skills/impeccable/
+.agents/skills/taste-skill/
+.agents/skills/find-skills
+.agents/skills/frontend-design
+.agents/skills/remotion-best-practices
+.agents/skills/remotion-render
+.agents/skills/skill-creator
+.agents/skills/web-design-guidelines
 .github/skills/
 .claude/skills/impeccable/
 .claude/skills/taste-skill/
 
-# Custom skills (design-styles, code-rules, cloudflare, web-perf) are COMMITTED
+# Custom skills in .agents/skills/ (design-styles, code-rules) are COMMITTED
 
 # Claude Code local-only
 .claude/settings.local.json

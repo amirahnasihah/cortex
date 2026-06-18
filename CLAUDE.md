@@ -24,9 +24,24 @@ Personal workflow harness: conventions, templates, AI tool config, and custom sk
 
 ## Skills
 
-**Custom skills** (committed in repo):
+Custom skills live in `.agents/skills/` (cross-platform — works with Claude Code, Cursor, Copilot, Gemini CLI).
+
+**Custom skills** (committed in repo, `.agents/skills/`):
 - **design-styles** — Tailwind v4 oklch token theme + shadcn, stack-agnostic
 - **code-rules** — TypeScript/engineering conventions + AGENTS.md scaffold
 
 **Third-party skills** (not bundled, install via `bash install-skills.sh`):
 - impeccable, taste-skill
+- Browse more at [skills.sh](https://www.skills.sh/)
+
+## MCP Servers
+
+Project-scope MCP configs go in `.mcp.json` (gitignored — copy from `.mcp.json.example`).
+
+Recommended MCPs for this harness:
+- **Chrome DevTools** — browser debugging, screenshots, DOM inspection
+- **Playwright** — browser automation, testing, form filling
+- **Supabase** — database, auth, edge functions
+- **Sanity** — headless CMS content management
+- **Figma** — design-to-code, component sync
+- **Context7** — live library/framework docs lookup
