@@ -1,0 +1,425 @@
+# Next.js Documentation
+Scraped from nextjs.org/docs/llms-full.txt
+
+- next-js-documentation.md — Next.js Documentation
+- getting-started.md — Getting Started
+- installation.md — Installation
+- project-structure.md — Project Structure
+- layouts-and-pages.md — Layouts and Pages
+- linking-and-navigating.md — Linking and Navigating
+- server-and-client-components.md — Server and Client Components
+- fetching-data.md — Fetching Data
+- mutating-data.md — Mutating Data
+- caching.md — Caching
+- revalidating.md — Revalidating
+- error-handling.md — Error Handling
+- css.md — CSS
+- image-optimization.md — Image Optimization
+- font-optimization.md — Font Optimization
+- metadata-and-og-images.md — Metadata and OG images
+- route-handlers.md — Route Handlers
+- proxy.md — Proxy
+- deploying.md — Deploying
+- upgrading.md — Upgrading
+- guides.md — Guides
+- ai-coding-agents.md — AI Coding Agents
+- analytics.md — Analytics
+- authentication.md — Authentication
+- backend-for-frontend.md — Backend for Frontend
+- caching-previous-model.md — Caching (Previous Model)
+- cdn-caching.md — CDN Caching
+- ci-build-caching.md — CI Build Caching
+- content-security-policy.md — Content Security Policy
+- css-in-js.md — CSS-in-JS
+- custom-server.md — Custom Server
+- data-security.md — Data Security
+- debugging.md — Debugging
+- deploying-to-platforms.md — Deploying to Platforms
+- draft-mode.md — Draft Mode
+- environment-variables.md — Environment Variables
+- forms.md — Forms
+- how-revalidation-works.md — How Revalidation Works
+- isr.md — ISR
+- instrumentation.md — Instrumentation
+- internationalization.md — Internationalization
+- json-ld.md — JSON-LD
+- lazy-loading.md — Lazy Loading
+- development-environment.md — Development Environment
+- next-js-mcp-server.md — Next.js MCP Server
+- mdx.md — MDX
+- memory-usage.md — Memory Usage
+- migrating.md — Migrating
+- app-router.md — App Router
+- create-react-app.md — Create React App
+- vite.md — Vite
+- migrating-to-cache-components.md — Migrating to Cache Components
+- multi-tenant.md — Multi-tenant
+- multi-zones.md — Multi-zones
+- opentelemetry.md — OpenTelemetry
+- package-bundling.md — Package Bundling
+- ppr-platform-guide.md — PPR Platform Guide
+- prefetching.md — Prefetching
+- preserving-ui-state.md — Preserving UI state
+- preventing-flash.md — Preventing Flash
+- production.md — Production
+- pwas.md — PWAs
+- public-pages.md — Public pages
+- redirecting.md — Redirecting
+- rendering-philosophy.md — Rendering Philosophy
+- sass.md — Sass
+- scripts.md — Scripts
+- self-hosting.md — Self-Hosting
+- spas.md — SPAs
+- static-exports.md — Static Exports
+- streaming.md — Streaming
+- tailwind-css-v3.md — Tailwind CSS v3
+- testing.md — Testing
+- cypress.md — Cypress
+- jest.md — Jest
+- playwright.md — Playwright
+- vitest.md — Vitest
+- third-party-libraries.md — Third Party Libraries
+- upgrading-2.md — Upgrading
+- codemods.md — Codemods
+- version-14.md — Version 14
+- version-15.md — Version 15
+- version-16.md — Version 16
+- videos.md — Videos
+- view-transitions.md — View transitions
+- api-reference.md — API Reference
+- directives.md — Directives
+- use-cache.md — use cache
+- use-cache-private.md — use cache: private
+- use-cache-remote.md — use cache: remote
+- use-client.md — use client
+- use-server.md — use server
+- components.md — Components
+- font.md — Font
+- form-component.md — Form Component
+- image-component.md — Image Component
+- link-component.md — Link Component
+- script-component.md — Script Component
+- file-system-conventions.md — File-system conventions
+- default-js.md — default.js
+- dynamic-segments.md — Dynamic Segments
+- error-js.md — error.js
+- forbidden-js.md — forbidden.js
+- instrumentation-js.md — instrumentation.js
+- instrumentation-client-js.md — instrumentation-client.js
+- intercepting-routes.md — Intercepting Routes
+- layout-js.md — layout.js
+- loading-js.md — loading.js
+- mdx-components-js.md — mdx-components.js
+- not-found-js.md — not-found.js
+- page-js.md — page.js
+- parallel-routes.md — Parallel Routes
+- proxy-js.md — proxy.js
+- public.md — public
+- route-js.md — route.js
+- dynamicparams.md — dynamicParams
+- maxduration.md — maxDuration
+- preferredregion.md — preferredRegion
+- runtime.md — runtime
+- route-groups.md — Route Groups
+- src.md — src
+- template-js.md — template.js
+- unauthorized-js.md — unauthorized.js
+- metadata-files.md — Metadata Files
+- favicon-icon-and-apple-icon.md — favicon, icon, and apple-icon
+- manifest-json.md — manifest.json
+- opengraph-image-and-twitter-image.md — opengraph-image and twitter-image
+- robots-txt.md — robots.txt
+- sitemap-xml.md — sitemap.xml
+- route-segment-config.md — Route Segment Config
+- dynamicparams-2.md — dynamicParams
+- maxduration-2.md — maxDuration
+- preferredregion-2.md — preferredRegion
+- runtime-2.md — runtime
+- functions.md — Functions
+- after.md — after
+- cachelife.md — cacheLife
+- cachetag.md — cacheTag
+- unstable_catcherror.md — unstable_catchError
+- connection.md — connection
+- cookies.md — cookies
+- draftmode.md — draftMode
+- fetch.md — fetch
+- forbidden.md — forbidden
+- generateimagemetadata.md — generateImageMetadata
+- generatemetadata.md — generateMetadata
+- generatesitemaps.md — generateSitemaps
+- generatestaticparams.md — generateStaticParams
+- generateviewport.md — generateViewport
+- headers.md — headers
+- imageresponse.md — ImageResponse
+- nextrequest.md — NextRequest
+- nextresponse.md — NextResponse
+- notfound.md — notFound
+- permanentredirect.md — permanentRedirect
+- redirect.md — redirect
+- refresh.md — refresh
+- revalidatepath.md — revalidatePath
+- revalidatetag.md — revalidateTag
+- unauthorized.md — unauthorized
+- unstable_cache.md — unstable_cache
+- unstable_nostore.md — unstable_noStore
+- unstable_rethrow.md — unstable_rethrow
+- updatetag.md — updateTag
+- uselinkstatus.md — useLinkStatus
+- useparams.md — useParams
+- usepathname.md — usePathname
+- usereportwebvitals.md — useReportWebVitals
+- userouter.md — useRouter
+- usesearchparams.md — useSearchParams
+- useselectedlayoutsegment.md — useSelectedLayoutSegment
+- useselectedlayoutsegments.md — useSelectedLayoutSegments
+- useragent.md — userAgent
+- configuration.md — Configuration
+- next-config-js.md — next.config.js
+- adapterpath.md — adapterPath
+- alloweddevorigins.md — allowedDevOrigins
+- appdir.md — appDir
+- assetprefix.md — assetPrefix
+- authinterrupts.md — authInterrupts
+- basepath.md — basePath
+- cachecomponents.md — cacheComponents
+- cachehandlers.md — cacheHandlers
+- cachelife-2.md — cacheLife
+- compress.md — compress
+- crossorigin.md — crossOrigin
+- csschunking.md — cssChunking
+- deploymentid.md — deploymentId
+- devindicators.md — devIndicators
+- distdir.md — distDir
+- env.md — env
+- expiretime.md — expireTime
+- exportpathmap.md — exportPathMap
+- generatebuildid.md — generateBuildId
+- generateetags.md — generateEtags
+- headers-2.md — headers
+- htmllimitedbots.md — htmlLimitedBots
+- httpagentoptions.md — httpAgentOptions
+- images.md — images
+- cachehandler.md — cacheHandler
+- inlinecss.md — inlineCss
+- logging.md — logging
+- mdxrs.md — mdxRs
+- ondemandentries.md — onDemandEntries
+- optimizepackageimports.md — optimizePackageImports
+- output.md — output
+- pageextensions.md — pageExtensions
+- poweredbyheader.md — poweredByHeader
+- productionbrowsersourcemaps.md — productionBrowserSourceMaps
+- proxyclientmaxbodysize.md — proxyClientMaxBodySize
+- reactcompiler.md — reactCompiler
+- reactmaxheaderslength.md — reactMaxHeadersLength
+- reactstrictmode.md — reactStrictMode
+- redirects.md — redirects
+- rewrites.md — rewrites
+- sassoptions.md — sassOptions
+- serveractions.md — serverActions
+- servercomponentshmrcache.md — serverComponentsHmrCache
+- serverexternalpackages.md — serverExternalPackages
+- staletimes.md — staleTimes
+- staticgeneration.md — staticGeneration*
+- taint.md — taint
+- trailingslash.md — trailingSlash
+- transpilepackages.md — transpilePackages
+- turbopack.md — turbopack
+- turbopackfilesystemcache.md — turbopackFileSystemCache
+- turbopack-ignoreissue.md — turbopack.ignoreIssue
+- turbopacklocalpostcssconfig.md — turbopackLocalPostcssConfig
+- typedroutes.md — typedRoutes
+- typescript.md — typescript
+- urlimports.md — urlImports
+- uselightningcss.md — useLightningcss
+- viewtransition.md — viewTransition
+- webpack.md — webpack
+- webvitalsattribution.md — webVitalsAttribution
+- typescript-2.md — TypeScript
+- eslint.md — ESLint
+- cli.md — CLI
+- create-next-app.md — create-next-app
+- next-cli.md — next CLI
+- adapters.md — Adapters
+- configuration-2.md — Configuration
+- creating-an-adapter.md — Creating an Adapter
+- api-reference-2.md — API Reference
+- testing-adapters.md — Testing Adapters
+- routing-with-next-routing.md — Routing with @next/routing
+- implementing-ppr-in-an-adapter.md — Implementing PPR in an Adapter
+- runtime-integration.md — Runtime Integration
+- invoking-entrypoints.md — Invoking Entrypoints
+- output-types.md — Output Types
+- routing-information.md — Routing Information
+- use-cases.md — Use Cases
+- edge-runtime.md — Edge Runtime
+- turbopack-2.md — Turbopack
+- glossary.md — Glossary
+- getting-started-2.md — Getting Started
+- installation-2.md — Installation
+- project-structure-2.md — Project Structure
+- images-2.md — Images
+- fonts.md — Fonts
+- css-2.md — CSS
+- deploying-2.md — Deploying
+- guides-2.md — Guides
+- analytics-2.md — Analytics
+- authentication-2.md — Authentication
+- babel.md — Babel
+- ci-build-caching-2.md — CI Build Caching
+- content-security-policy-2.md — Content Security Policy
+- css-in-js-2.md — CSS-in-JS
+- custom-server-2.md — Custom Server
+- debugging-2.md — Debugging
+- draft-mode-2.md — Draft Mode
+- environment-variables-2.md — Environment Variables
+- forms-2.md — Forms
+- isr-2.md — ISR
+- instrumentation-2.md — Instrumentation
+- internationalization-2.md — Internationalization
+- lazy-loading-2.md — Lazy Loading
+- mdx-2.md — MDX
+- migrating-2.md — Migrating
+- app-router-2.md — App Router
+- create-react-app-2.md — Create React App
+- vite-2.md — Vite
+- multi-zones-2.md — Multi-Zones
+- opentelemetry-2.md — OpenTelemetry
+- package-bundling-2.md — Package Bundling
+- postcss.md — PostCSS
+- preview-mode.md — Preview Mode
+- production-2.md — Production
+- redirecting-2.md — Redirecting
+- sass-2.md — Sass
+- scripts-2.md — Scripts
+- self-hosting-2.md — Self-Hosting
+- static-exports-2.md — Static Exports
+- tailwind-css.md — Tailwind CSS
+- testing-2.md — Testing
+- cypress-2.md — Cypress
+- jest-2.md — Jest
+- playwright-2.md — Playwright
+- vitest-2.md — Vitest
+- third-party-libraries-2.md — Third Party Libraries
+- upgrading-3.md — Upgrading
+- codemods-2.md — Codemods
+- version-10.md — Version 10
+- version-11.md — Version 11
+- version-12.md — Version 12
+- version-13.md — Version 13
+- version-14-2.md — Version 14
+- version-9.md — Version 9
+- building-your-application.md — Building Your Application
+- routing.md — Routing
+- pages-and-layouts.md — Pages and Layouts
+- dynamic-routes.md — Dynamic Routes
+- linking-and-navigating-2.md — Linking and Navigating
+- custom-app.md — Custom App
+- custom-document.md — Custom Document
+- api-routes.md — API Routes
+- custom-errors.md — Custom Errors
+- rendering.md — Rendering
+- server-side-rendering-ssr.md — Server-side Rendering (SSR)
+- static-site-generation-ssg.md — Static Site Generation (SSG)
+- automatic-static-optimization.md — Automatic Static Optimization
+- client-side-rendering-csr.md — Client-side Rendering (CSR)
+- data-fetching.md — Data Fetching
+- getstaticprops.md — getStaticProps
+- getstaticpaths.md — getStaticPaths
+- getserversideprops.md — getServerSideProps
+- client-side-fetching.md — Client-side Fetching
+- configuring.md — Configuring
+- error-handling-2.md — Error Handling
+- api-reference-3.md — API Reference
+- components-2.md — Components
+- font-2.md — Font
+- form.md — Form
+- head.md — Head
+- image.md — Image
+- image-legacy.md — Image (Legacy)
+- link.md — Link
+- script.md — Script
+- file-system-conventions-2.md — File-system conventions
+- instrumentation-js-2.md — instrumentation.js
+- proxy-2.md — Proxy
+- public-2.md — public
+- src-directory.md — src Directory
+- functions-2.md — Functions
+- getinitialprops.md — getInitialProps
+- getserversideprops-2.md — getServerSideProps
+- getstaticpaths-2.md — getStaticPaths
+- getstaticprops-2.md — getStaticProps
+- nextrequest-2.md — NextRequest
+- nextresponse-2.md — NextResponse
+- useparams-2.md — useParams
+- usereportwebvitals-2.md — useReportWebVitals
+- userouter-2.md — useRouter
+- usesearchparams-2.md — useSearchParams
+- useragent-2.md — userAgent
+- configuration-3.md — Configuration
+- next-config-js-options.md — next.config.js Options
+- adapterpath-2.md — adapterPath
+- alloweddevorigins-2.md — allowedDevOrigins
+- assetprefix-2.md — assetPrefix
+- basepath-2.md — basePath
+- bundlepagesrouterdependencies.md — bundlePagesRouterDependencies
+- compress-2.md — compress
+- crossorigin-2.md — crossOrigin
+- deploymentid-2.md — deploymentId
+- devindicators-2.md — devIndicators
+- distdir-2.md — distDir
+- env-2.md — env
+- exportpathmap-2.md — exportPathMap
+- generatebuildid-2.md — generateBuildId
+- generateetags-2.md — generateEtags
+- headers-3.md — headers
+- httpagentoptions-2.md — httpAgentOptions
+- images-3.md — images
+- logging-2.md — logging
+- ondemandentries-2.md — onDemandEntries
+- optimizepackageimports-2.md — optimizePackageImports
+- output-2.md — output
+- pageextensions-2.md — pageExtensions
+- poweredbyheader-2.md — poweredByHeader
+- productionbrowsersourcemaps-2.md — productionBrowserSourceMaps
+- experimental-proxyclientmaxbodysize.md — experimental.proxyClientMaxBodySize
+- reactstrictmode-2.md — reactStrictMode
+- redirects-2.md — redirects
+- rewrites-2.md — rewrites
+- serverexternalpackages-2.md — serverExternalPackages
+- trailingslash-2.md — trailingSlash
+- transpilepackages-2.md — transpilePackages
+- turbopack-3.md — turbopack
+- typescript-3.md — typescript
+- urlimports-2.md — urlImports
+- uselightningcss-2.md — useLightningcss
+- webpack-2.md — webpack
+- webvitalsattribution-2.md — webVitalsAttribution
+- typescript-4.md — TypeScript
+- eslint-2.md — ESLint
+- cli-2.md — CLI
+- create-next-app-cli.md — create-next-app CLI
+- next-cli-2.md — next CLI
+- adapters-2.md — Adapters
+- configuration-4.md — Configuration
+- creating-an-adapter-2.md — Creating an Adapter
+- api-reference-4.md — API Reference
+- testing-adapters-2.md — Testing Adapters
+- routing-with-next-routing-2.md — Routing with @next/routing
+- implementing-ppr-in-an-adapter-2.md — Implementing PPR in an Adapter
+- runtime-integration-2.md — Runtime Integration
+- invoking-entrypoints-2.md — Invoking Entrypoints
+- output-types-2.md — Output Types
+- routing-information-2.md — Routing Information
+- use-cases-2.md — Use Cases
+- edge-runtime-2.md — Edge Runtime
+- turbopack-4.md — Turbopack
+- architecture.md — Architecture
+- accessibility.md — Accessibility
+- fast-refresh.md — Fast Refresh
+- next-js-compiler.md — Next.js Compiler
+- supported-browsers.md — Supported Browsers
+- community.md — Community
+- contribution-guide.md — Contribution Guide
+- rspack.md — Rspack

@@ -45,3 +45,4 @@ Recommended MCPs for this harness:
 - **Sanity** — headless CMS content management
 - **Figma** — design-to-code, component sync
 - **Context7** — live library/framework docs lookup
+- **Cloudflare** — Workers, Pages, KV, D1, R2, AI, DNS, and platform API management
